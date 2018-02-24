@@ -1,0 +1,10 @@
+[
+  {
+    "SubscriberType": "Subscriber",
+    "rides": 142882
+  },
+  {
+    "SubscriberType": "Customer",
+    "rides": 28910
+  }
+]

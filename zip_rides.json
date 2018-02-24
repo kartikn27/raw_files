@@ -1,0 +1,14102 @@
+[
+  {
+    "ZipCode": 94107,
+    "rides": 16179
+  },
+  {
+    "ZipCode": 94105,
+    "rides": 10337
+  },
+  {
+    "ZipCode": 94133,
+    "rides": 8157
+  },
+  {
+    "ZipCode": 94103,
+    "rides": 6434
+  },
+  {
+    "ZipCode": 94111,
+    "rides": 5742
+  },
+  {
+    "ZipCode": 94102,
+    "rides": 4843
+  },
+  {
+    "ZipCode": 94109,
+    "rides": 3878
+  },
+  {
+    "ZipCode": 95112,
+    "rides": 3659
+  },
+  {
+    "ZipCode": 94117,
+    "rides": 2816
+  },
+  {
+    "ZipCode": 94158,
+    "rides": 2675
+  },
+  {
+    "ZipCode": 94040,
+    "rides": 2406
+  },
+  {
+    "ZipCode": 94611,
+    "rides": 2285
+  },
+  {
+    "ZipCode": 94108,
+    "rides": 2106
+  },
+  {
+    "ZipCode": 94404,
+    "rides": 1824
+  },
+  {
+    "ZipCode": 94403,
+    "rides": 1786
+  },
+  {
+    "ZipCode": 94025,
+    "rides": 1784
+  },
+  {
+    "ZipCode": 94110,
+    "rides": 1734
+  },
+  {
+    "ZipCode": 94122,
+    "rides": 1706
+  },
+  {
+    "ZipCode": 94602,
+    "rides": 1705
+  },
+  {
+    "ZipCode": 94610,
+    "rides": 1617
+  },
+  {
+    "ZipCode": 95110,
+    "rides": 1599
+  },
+  {
+    "ZipCode": 94070,
+    "rides": 1565
+  },
+  {
+    "ZipCode": 94010,
+    "rides": 1537
+  },
+  {
+    "ZipCode": 95113,
+    "rides": 1505
+  },
+  {
+    "ZipCode": 94041,
+    "rides": 1501
+  },
+  {
+    "ZipCode": 94501,
+    "rides": 1486
+  },
+  {
+    "ZipCode": 94114,
+    "rides": 1416
+  },
+  {
+    "ZipCode": 94112,
+    "rides": 1312
+  },
+  {
+    "ZipCode": 94131,
+    "rides": 1115
+  },
+  {
+    "ZipCode": 94062,
+    "rides": 1113
+  },
+  {
+    "ZipCode": 94402,
+    "rides": 1090
+  },
+  {
+    "ZipCode": 94608,
+    "rides": 1063
+  },
+  {
+    "ZipCode": 94609,
+    "rides": 1047
+  },
+  {
+    "ZipCode": 94306,
+    "rides": 1034
+  },
+  {
+    "ZipCode": 94061,
+    "rides": 998
+  },
+  {
+    "ZipCode": 94086,
+    "rides": 977
+  },
+  {
+    "ZipCode": 94104,
+    "rides": 956
+  },
+  {
+    "ZipCode": 94002,
+    "rides": 950
+  },
+  {
+    "ZipCode": 95014,
+    "rides": 946
+  },
+  {
+    "ZipCode": 94941,
+    "rides": 919
+  },
+  {
+    "ZipCode": 94301,
+    "rides": 907
+  },
+  {
+    "ZipCode": 94303,
+    "rides": 897
+  },
+  {
+    "ZipCode": 94087,
+    "rides": 874
+  },
+  {
+    "ZipCode": 94118,
+    "rides": 847
+  },
+  {
+    "ZipCode": 94115,
+    "rides": 816
+  },
+  {
+    "ZipCode": 95051,
+    "rides": 806
+  },
+  {
+    "ZipCode": 94618,
+    "rides": 788
+  },
+  {
+    "ZipCode": 94121,
+    "rides": 768
+  },
+  {
+    "ZipCode": 95126,
+    "rides": 764
+  },
+  {
+    "ZipCode": 94043,
+    "rides": 756
+  },
+  {
+    "ZipCode": 94123,
+    "rides": 695
+  },
+  {
+    "ZipCode": 94030,
+    "rides": 678
+  },
+  {
+    "ZipCode": 94606,
+    "rides": 669
+  },
+  {
+    "ZipCode": 94044,
+    "rides": 668
+  },
+  {
+    "ZipCode": 94903,
+    "rides": 632
+  },
+  {
+    "ZipCode": 94612,
+    "rides": 613
+  },
+  {
+    "ZipCode": 94703,
+    "rides": 600
+  },
+  {
+    "ZipCode": 94901,
+    "rides": 597
+  },
+  {
+    "ZipCode": 94960,
+    "rides": 582
+  },
+  {
+    "ZipCode": 94709,
+    "rides": 551
+  },
+  {
+    "ZipCode": 94401,
+    "rides": 548
+  },
+  {
+    "ZipCode": 94549,
+    "rides": 540
+  },
+  {
+    "ZipCode": 94116,
+    "rides": 517
+  },
+  {
+    "ZipCode": 94706,
+    "rides": 515
+  },
+  {
+    "ZipCode": 94704,
+    "rides": 515
+  },
+  {
+    "ZipCode": 95032,
+    "rides": 508
+  },
+  {
+    "ZipCode": 94705,
+    "rides": 505
+  },
+  {
+    "ZipCode": 94066,
+    "rides": 485
+  },
+  {
+    "ZipCode": 94920,
+    "rides": 484
+  },
+  {
+    "ZipCode": 94707,
+    "rides": 484
+  },
+  {
+    "ZipCode": 94024,
+    "rides": 478
+  },
+  {
+    "ZipCode": 94702,
+    "rides": 478
+  },
+  {
+    "ZipCode": 94597,
+    "rides": 472
+  },
+  {
+    "ZipCode": 94065,
+    "rides": 461
+  },
+  {
+    "ZipCode": 94588,
+    "rides": 449
+  },
+  {
+    "ZipCode": 94063,
+    "rides": 431
+  },
+  {
+    "ZipCode": 94530,
+    "rides": 401
+  },
+  {
+    "ZipCode": 94710,
+    "rides": 400
+  },
+  {
+    "ZipCode": 94590,
+    "rides": 398
+  },
+  {
+    "ZipCode": 95130,
+    "rides": 389
+  },
+  {
+    "ZipCode": 95124,
+    "rides": 382
+  },
+  {
+    "ZipCode": 94132,
+    "rides": 377
+  },
+  {
+    "ZipCode": 94080,
+    "rides": 375
+  },
+  {
+    "ZipCode": 94939,
+    "rides": 370
+  },
+  {
+    "ZipCode": 94904,
+    "rides": 367
+  },
+  {
+    "ZipCode": 94945,
+    "rides": 352
+  },
+  {
+    "ZipCode": 94502,
+    "rides": 350
+  },
+  {
+    "ZipCode": 94015,
+    "rides": 345
+  },
+  {
+    "ZipCode": 94124,
+    "rides": 335
+  },
+  {
+    "ZipCode": 94568,
+    "rides": 334
+  },
+  {
+    "ZipCode": 94558,
+    "rides": 329
+  },
+  {
+    "ZipCode": 94925,
+    "rides": 322
+  },
+  {
+    "ZipCode": 94510,
+    "rides": 316
+  },
+  {
+    "ZipCode": 94127,
+    "rides": 311
+  },
+  {
+    "ZipCode": 94930,
+    "rides": 310
+  },
+  {
+    "ZipCode": 94085,
+    "rides": 304
+  },
+  {
+    "ZipCode": 94014,
+    "rides": 289
+  },
+  {
+    "ZipCode": 1,
+    "rides": 288
+  },
+  {
+    "ZipCode": 94965,
+    "rides": 288
+  },
+  {
+    "ZipCode": 94708,
+    "rides": 279
+  },
+  {
+    "ZipCode": 94605,
+    "rides": 275
+  },
+  {
+    "ZipCode": 94607,
+    "rides": 271
+  },
+  {
+    "ZipCode": 95129,
+    "rides": 266
+  },
+  {
+    "ZipCode": 95131,
+    "rides": 247
+  },
+  {
+    "ZipCode": 94556,
+    "rides": 241
+  },
+  {
+    "ZipCode": 95125,
+    "rides": 239
+  },
+  {
+    "ZipCode": 94565,
+    "rides": 238
+  },
+  {
+    "ZipCode": 94596,
+    "rides": 235
+  },
+  {
+    "ZipCode": 94804,
+    "rides": 234
+  },
+  {
+    "ZipCode": 95020,
+    "rides": 231
+  },
+  {
+    "ZipCode": 94591,
+    "rides": 227
+  },
+  {
+    "ZipCode": 94534,
+    "rides": 226
+  },
+  {
+    "ZipCode": 94601,
+    "rides": 225
+  },
+  {
+    "ZipCode": 94553,
+    "rides": 223
+  },
+  {
+    "ZipCode": 94550,
+    "rides": 215
+  },
+  {
+    "ZipCode": 94952,
+    "rides": 214
+  },
+  {
+    "ZipCode": 94598,
+    "rides": 212
+  },
+  {
+    "ZipCode": 94577,
+    "rides": 202
+  },
+  {
+    "ZipCode": 95120,
+    "rides": 201
+  },
+  {
+    "ZipCode": 95050,
+    "rides": 200
+  },
+  {
+    "ZipCode": 95122,
+    "rides": 189
+  },
+  {
+    "ZipCode": 94563,
+    "rides": 188
+  },
+  {
+    "ZipCode": 95008,
+    "rides": 183
+  },
+  {
+    "ZipCode": 95118,
+    "rides": 183
+  },
+  {
+    "ZipCode": 94028,
+    "rides": 182
+  },
+  {
+    "ZipCode": 94544,
+    "rides": 179
+  },
+  {
+    "ZipCode": 95134,
+    "rides": 176
+  },
+  {
+    "ZipCode": 95148,
+    "rides": 175
+  },
+  {
+    "ZipCode": 94546,
+    "rides": 175
+  },
+  {
+    "ZipCode": 94579,
+    "rides": 172
+  },
+  {
+    "ZipCode": 95119,
+    "rides": 171
+  },
+  {
+    "ZipCode": 94518,
+    "rides": 158
+  },
+  {
+    "ZipCode": 95054,
+    "rides": 156
+  },
+  {
+    "ZipCode": 94523,
+    "rides": 154
+  },
+  {
+    "ZipCode": 94551,
+    "rides": 149
+  },
+  {
+    "ZipCode": 94582,
+    "rides": 149
+  },
+  {
+    "ZipCode": 94042,
+    "rides": 145
+  },
+  {
+    "ZipCode": 95377,
+    "rides": 144
+  },
+  {
+    "ZipCode": 94949,
+    "rides": 143
+  },
+  {
+    "ZipCode": 31,
+    "rides": 142
+  },
+  {
+    "ZipCode": 94803,
+    "rides": 142
+  },
+  {
+    "ZipCode": 95060,
+    "rides": 141
+  },
+  {
+    "ZipCode": 94539,
+    "rides": 139
+  },
+  {
+    "ZipCode": 94022,
+    "rides": 135
+  },
+  {
+    "ZipCode": 94517,
+    "rides": 135
+  },
+  {
+    "ZipCode": 94503,
+    "rides": 132
+  },
+  {
+    "ZipCode": 94595,
+    "rides": 131
+  },
+  {
+    "ZipCode": 94541,
+    "rides": 130
+  },
+  {
+    "ZipCode": 94037,
+    "rides": 130
+  },
+  {
+    "ZipCode": 2139,
+    "rides": 126
+  },
+  {
+    "ZipCode": 94129,
+    "rides": 125
+  },
+  {
+    "ZipCode": 94536,
+    "rides": 125
+  },
+  {
+    "ZipCode": 94134,
+    "rides": 124
+  },
+  {
+    "ZipCode": 95037,
+    "rides": 121
+  },
+  {
+    "ZipCode": 95127,
+    "rides": 118
+  },
+  {
+    "ZipCode": 94305,
+    "rides": 115
+  },
+  {
+    "ZipCode": 95111,
+    "rides": 115
+  },
+  {
+    "ZipCode": 90291,
+    "rides": 113
+  },
+  {
+    "ZipCode": 94947,
+    "rides": 113
+  },
+  {
+    "ZipCode": 94538,
+    "rides": 110
+  },
+  {
+    "ZipCode": 94555,
+    "rides": 108
+  },
+  {
+    "ZipCode": 9611,
+    "rides": 103
+  },
+  {
+    "ZipCode": 94587,
+    "rides": 100
+  },
+  {
+    "ZipCode": 94526,
+    "rides": 97
+  },
+  {
+    "ZipCode": 94119,
+    "rides": 96
+  },
+  {
+    "ZipCode": 94089,
+    "rides": 96
+  },
+  {
+    "ZipCode": 95136,
+    "rides": 94
+  },
+  {
+    "ZipCode": 99403,
+    "rides": 89
+  },
+  {
+    "ZipCode": 95035,
+    "rides": 88
+  },
+  {
+    "ZipCode": 94170,
+    "rides": 85
+  },
+  {
+    "ZipCode": 44,
+    "rides": 84
+  },
+  {
+    "ZipCode": 81,
+    "rides": 84
+  },
+  {
+    "ZipCode": 94619,
+    "rides": 84
+  },
+  {
+    "ZipCode": 95116,
+    "rides": 82
+  },
+  {
+    "ZipCode": 52,
+    "rides": 82
+  },
+  {
+    "ZipCode": 94519,
+    "rides": 82
+  },
+  {
+    "ZipCode": 49,
+    "rides": 81
+  },
+  {
+    "ZipCode": 5112,
+    "rides": 78
+  },
+  {
+    "ZipCode": 95123,
+    "rides": 77
+  },
+  {
+    "ZipCode": 95070,
+    "rides": 74
+  },
+  {
+    "ZipCode": 34,
+    "rides": 73
+  },
+  {
+    "ZipCode": 94552,
+    "rides": 71
+  },
+  {
+    "ZipCode": 86,
+    "rides": 65
+  },
+  {
+    "ZipCode": 96768,
+    "rides": 63
+  },
+  {
+    "ZipCode": 10009,
+    "rides": 60
+  },
+  {
+    "ZipCode": "94040-1724",
+    "rides": 60
+  },
+  {
+    "ZipCode": 60091,
+    "rides": 59
+  },
+  {
+    "ZipCode": 94039,
+    "rides": 58
+  },
+  {
+    "ZipCode": 95128,
+    "rides": 58
+  },
+  {
+    "ZipCode": 95018,
+    "rides": 58
+  },
+  {
+    "ZipCode": 94521,
+    "rides": 56
+  },
+  {
+    "ZipCode": 95476,
+    "rides": 56
+  },
+  {
+    "ZipCode": 55,
+    "rides": 53
+  },
+  {
+    "ZipCode": 95746,
+    "rides": 53
+  },
+  {
+    "ZipCode": 94130,
+    "rides": 51
+  },
+  {
+    "ZipCode": 10011,
+    "rides": 50
+  },
+  {
+    "ZipCode": 46,
+    "rides": 50
+  },
+  {
+    "ZipCode": 90210,
+    "rides": 50
+  },
+  {
+    "ZipCode": 11215,
+    "rides": 50
+  },
+  {
+    "ZipCode": 94542,
+    "rides": 49
+  },
+  {
+    "ZipCode": 94304,
+    "rides": 49
+  },
+  {
+    "ZipCode": 94126,
+    "rides": 49
+  },
+  {
+    "ZipCode": 95608,
+    "rides": 48
+  },
+  {
+    "ZipCode": 95121,
+    "rides": 48
+  },
+  {
+    "ZipCode": 97214,
+    "rides": 46
+  },
+  {
+    "ZipCode": 61,
+    "rides": 46
+  },
+  {
+    "ZipCode": 94806,
+    "rides": 46
+  },
+  {
+    "ZipCode": 94507,
+    "rides": 46
+  },
+  {
+    "ZipCode": 80203,
+    "rides": 45
+  },
+  {
+    "ZipCode": 27,
+    "rides": 44
+  },
+  {
+    "ZipCode": 886,
+    "rides": 43
+  },
+  {
+    "ZipCode": 94566,
+    "rides": 43
+  },
+  {
+    "ZipCode": 92882,
+    "rides": 41
+  },
+  {
+    "ZipCode": 353,
+    "rides": 41
+  },
+  {
+    "ZipCode": 90024,
+    "rides": 41
+  },
+  {
+    "ZipCode": 95472,
+    "rides": 40
+  },
+  {
+    "ZipCode": 90069,
+    "rides": 40
+  },
+  {
+    "ZipCode": 94545,
+    "rides": 39
+  },
+  {
+    "ZipCode": 92122,
+    "rides": 39
+  },
+  {
+    "ZipCode": 84060,
+    "rides": 38
+  },
+  {
+    "ZipCode": 10025,
+    "rides": 38
+  },
+  {
+    "ZipCode": 95370,
+    "rides": 38
+  },
+  {
+    "ZipCode": 94957,
+    "rides": 37
+  },
+  {
+    "ZipCode": 97212,
+    "rides": 37
+  },
+  {
+    "ZipCode": 33,
+    "rides": 37
+  },
+  {
+    "ZipCode": 90066,
+    "rides": 37
+  },
+  {
+    "ZipCode": 95138,
+    "rides": 36
+  },
+  {
+    "ZipCode": 60614,
+    "rides": 36
+  },
+  {
+    "ZipCode": 10001,
+    "rides": 36
+  },
+  {
+    "ZipCode": 20009,
+    "rides": 35
+  },
+  {
+    "ZipCode": 95132,
+    "rides": 32
+  },
+  {
+    "ZipCode": 10024,
+    "rides": 32
+  },
+  {
+    "ZipCode": 30189,
+    "rides": 32
+  },
+  {
+    "ZipCode": 94120,
+    "rides": 31
+  },
+  {
+    "ZipCode": 60647,
+    "rides": 30
+  },
+  {
+    "ZipCode": 92103,
+    "rides": 29
+  },
+  {
+    "ZipCode": 10027,
+    "rides": 29
+  },
+  {
+    "ZipCode": 95348,
+    "rides": 29
+  },
+  {
+    "ZipCode": 7302,
+    "rides": 29
+  },
+  {
+    "ZipCode": 10012,
+    "rides": 28
+  },
+  {
+    "ZipCode": 80220,
+    "rides": 28
+  },
+  {
+    "ZipCode": 95003,
+    "rides": 28
+  },
+  {
+    "ZipCode": 85281,
+    "rides": 28
+  },
+  {
+    "ZipCode": 2135,
+    "rides": 28
+  },
+  {
+    "ZipCode": 87123,
+    "rides": 28
+  },
+  {
+    "ZipCode": 47,
+    "rides": 27
+  },
+  {
+    "ZipCode": 95687,
+    "rides": 27
+  },
+  {
+    "ZipCode": 10003,
+    "rides": 27
+  },
+  {
+    "ZipCode": 95366,
+    "rides": 27
+  },
+  {
+    "ZipCode": 95109,
+    "rides": 27
+  },
+  {
+    "ZipCode": 33139,
+    "rides": 27
+  },
+  {
+    "ZipCode": 95404,
+    "rides": 26
+  },
+  {
+    "ZipCode": 90272,
+    "rides": 26
+  },
+  {
+    "ZipCode": 33131,
+    "rides": 26
+  },
+  {
+    "ZipCode": 84020,
+    "rides": 26
+  },
+  {
+    "ZipCode": 32,
+    "rides": 26
+  },
+  {
+    "ZipCode": 95616,
+    "rides": 26
+  },
+  {
+    "ZipCode": 60565,
+    "rides": 25
+  },
+  {
+    "ZipCode": 90025,
+    "rides": 25
+  },
+  {
+    "ZipCode": 55124,
+    "rides": 25
+  },
+  {
+    "ZipCode": "v6z2x",
+    "rides": 25
+  },
+  {
+    "ZipCode": 10013,
+    "rides": 25
+  },
+  {
+    "ZipCode": 92866,
+    "rides": 25
+  },
+  {
+    "ZipCode": 84095,
+    "rides": 24
+  },
+  {
+    "ZipCode": 91351,
+    "rides": 24
+  },
+  {
+    "ZipCode": 90027,
+    "rides": 24
+  },
+  {
+    "ZipCode": 90405,
+    "rides": 24
+  },
+  {
+    "ZipCode": 21901,
+    "rides": 24
+  },
+  {
+    "ZipCode": 95135,
+    "rides": 23
+  },
+  {
+    "ZipCode": 2118,
+    "rides": 23
+  },
+  {
+    "ZipCode": 2143,
+    "rides": 23
+  },
+  {
+    "ZipCode": 14850,
+    "rides": 23
+  },
+  {
+    "ZipCode": 20007,
+    "rides": 23
+  },
+  {
+    "ZipCode": 90028,
+    "rides": 23
+  },
+  {
+    "ZipCode": 10019,
+    "rides": 23
+  },
+  {
+    "ZipCode": 95030,
+    "rides": 23
+  },
+  {
+    "ZipCode": 20008,
+    "rides": 23
+  },
+  {
+    "ZipCode": 70119,
+    "rides": 22
+  },
+  {
+    "ZipCode": 0,
+    "rides": 22
+  },
+  {
+    "ZipCode": 80129,
+    "rides": 22
+  },
+  {
+    "ZipCode": 11201,
+    "rides": 22
+  },
+  {
+    "ZipCode": 26120,
+    "rides": 22
+  },
+  {
+    "ZipCode": 95765,
+    "rides": 22
+  },
+  {
+    "ZipCode": 92109,
+    "rides": 22
+  },
+  {
+    "ZipCode": 10018,
+    "rides": 22
+  },
+  {
+    "ZipCode": 94017,
+    "rides": 22
+  },
+  {
+    "ZipCode": 19130,
+    "rides": 22
+  },
+  {
+    "ZipCode": 3051,
+    "rides": 22
+  },
+  {
+    "ZipCode": 94005,
+    "rides": 22
+  },
+  {
+    "ZipCode": 94966,
+    "rides": 21
+  },
+  {
+    "ZipCode": 90802,
+    "rides": 21
+  },
+  {
+    "ZipCode": 11238,
+    "rides": 21
+  },
+  {
+    "ZipCode": 94583,
+    "rides": 21
+  },
+  {
+    "ZipCode": 91147,
+    "rides": 21
+  },
+  {
+    "ZipCode": 60068,
+    "rides": 21
+  },
+  {
+    "ZipCode": 10014,
+    "rides": 21
+  },
+  {
+    "ZipCode": 94513,
+    "rides": 21
+  },
+  {
+    "ZipCode": 90046,
+    "rides": 21
+  },
+  {
+    "ZipCode": 41,
+    "rides": 21
+  },
+  {
+    "ZipCode": 11373,
+    "rides": 21
+  },
+  {
+    "ZipCode": 94018,
+    "rides": 21
+  },
+  {
+    "ZipCode": 7,
+    "rides": 20
+  },
+  {
+    "ZipCode": 78705,
+    "rides": 20
+  },
+  {
+    "ZipCode": 90266,
+    "rides": 20
+  },
+  {
+    "ZipCode": 97008,
+    "rides": 20
+  },
+  {
+    "ZipCode": 10023,
+    "rides": 20
+  },
+  {
+    "ZipCode": 93611,
+    "rides": 20
+  },
+  {
+    "ZipCode": 10028,
+    "rides": 20
+  },
+  {
+    "ZipCode": 91789,
+    "rides": 20
+  },
+  {
+    "ZipCode": 85282,
+    "rides": 20
+  },
+  {
+    "ZipCode": 60657,
+    "rides": 20
+  },
+  {
+    "ZipCode": 1778,
+    "rides": 20
+  },
+  {
+    "ZipCode": 98107,
+    "rides": 20
+  },
+  {
+    "ZipCode": 98122,
+    "rides": 20
+  },
+  {
+    "ZipCode": 54,
+    "rides": 19
+  },
+  {
+    "ZipCode": 80526,
+    "rides": 19
+  },
+  {
+    "ZipCode": "94103-2585",
+    "rides": 19
+  },
+  {
+    "ZipCode": 94146,
+    "rides": 19
+  },
+  {
+    "ZipCode": 60642,
+    "rides": 19
+  },
+  {
+    "ZipCode": 98121,
+    "rides": 19
+  },
+  {
+    "ZipCode": 1720,
+    "rides": 19
+  },
+  {
+    "ZipCode": 32708,
+    "rides": 19
+  },
+  {
+    "ZipCode": 92620,
+    "rides": 19
+  },
+  {
+    "ZipCode": 22201,
+    "rides": 19
+  },
+  {
+    "ZipCode": 92101,
+    "rides": 19
+  },
+  {
+    "ZipCode": 84098,
+    "rides": 18
+  },
+  {
+    "ZipCode": 28020,
+    "rides": 18
+  },
+  {
+    "ZipCode": 90035,
+    "rides": 18
+  },
+  {
+    "ZipCode": 91765,
+    "rides": 18
+  },
+  {
+    "ZipCode": 98103,
+    "rides": 18
+  },
+  {
+    "ZipCode": 82,
+    "rides": 18
+  },
+  {
+    "ZipCode": 97213,
+    "rides": 18
+  },
+  {
+    "ZipCode": 91030,
+    "rides": 18
+  },
+  {
+    "ZipCode": 28203,
+    "rides": 18
+  },
+  {
+    "ZipCode": 90004,
+    "rides": 18
+  },
+  {
+    "ZipCode": 98112,
+    "rides": 18
+  },
+  {
+    "ZipCode": 20002,
+    "rides": 18
+  },
+  {
+    "ZipCode": 94164,
+    "rides": 17
+  },
+  {
+    "ZipCode": 91316,
+    "rides": 17
+  },
+  {
+    "ZipCode": 94720,
+    "rides": 17
+  },
+  {
+    "ZipCode": 92025,
+    "rides": 17
+  },
+  {
+    "ZipCode": 20003,
+    "rides": 17
+  },
+  {
+    "ZipCode": 22206,
+    "rides": 17
+  },
+  {
+    "ZipCode": 30319,
+    "rides": 17
+  },
+  {
+    "ZipCode": 10002,
+    "rides": 17
+  },
+  {
+    "ZipCode": 94019,
+    "rides": 17
+  },
+  {
+    "ZipCode": 98052,
+    "rides": 17
+  },
+  {
+    "ZipCode": 95816,
+    "rides": 17
+  },
+  {
+    "ZipCode": 96817,
+    "rides": 17
+  },
+  {
+    "ZipCode": 91387,
+    "rides": 17
+  },
+  {
+    "ZipCode": 60201,
+    "rides": 17
+  },
+  {
+    "ZipCode": 27617,
+    "rides": 17
+  },
+  {
+    "ZipCode": 44500,
+    "rides": 16
+  },
+  {
+    "ZipCode": 60661,
+    "rides": 16
+  },
+  {
+    "ZipCode": 27701,
+    "rides": 16
+  },
+  {
+    "ZipCode": 10110,
+    "rides": 16
+  },
+  {
+    "ZipCode": 60654,
+    "rides": 16
+  },
+  {
+    "ZipCode": 2113,
+    "rides": 16
+  },
+  {
+    "ZipCode": 96003,
+    "rides": 16
+  },
+  {
+    "ZipCode": 84108,
+    "rides": 16
+  },
+  {
+    "ZipCode": 53711,
+    "rides": 16
+  },
+  {
+    "ZipCode": 94520,
+    "rides": 16
+  },
+  {
+    "ZipCode": 179,
+    "rides": 16
+  },
+  {
+    "ZipCode": 55414,
+    "rides": 16
+  },
+  {
+    "ZipCode": 19508,
+    "rides": 16
+  },
+  {
+    "ZipCode": 95355,
+    "rides": 16
+  },
+  {
+    "ZipCode": 30308,
+    "rides": 16
+  },
+  {
+    "ZipCode": 76031,
+    "rides": 16
+  },
+  {
+    "ZipCode": 92660,
+    "rides": 16
+  },
+  {
+    "ZipCode": 4683,
+    "rides": 16
+  },
+  {
+    "ZipCode": 91101,
+    "rides": 16
+  },
+  {
+    "ZipCode": 56,
+    "rides": 16
+  },
+  {
+    "ZipCode": 30341,
+    "rides": 16
+  },
+  {
+    "ZipCode": 93546,
+    "rides": 16
+  },
+  {
+    "ZipCode": 91,
+    "rides": 16
+  },
+  {
+    "ZipCode": 97211,
+    "rides": 16
+  },
+  {
+    "ZipCode": 98036,
+    "rides": 16
+  },
+  {
+    "ZipCode": 92653,
+    "rides": 16
+  },
+  {
+    "ZipCode": 10021,
+    "rides": 16
+  },
+  {
+    "ZipCode": 2144,
+    "rides": 15
+  },
+  {
+    "ZipCode": 2115,
+    "rides": 15
+  },
+  {
+    "ZipCode": 75024,
+    "rides": 15
+  },
+  {
+    "ZipCode": 91107,
+    "rides": 15
+  },
+  {
+    "ZipCode": 100,
+    "rides": 15
+  },
+  {
+    "ZipCode": 95757,
+    "rides": 15
+  },
+  {
+    "ZipCode": 94560,
+    "rides": 15
+  },
+  {
+    "ZipCode": 1023,
+    "rides": 15
+  },
+  {
+    "ZipCode": 60608,
+    "rides": 15
+  },
+  {
+    "ZipCode": 95691,
+    "rides": 15
+  },
+  {
+    "ZipCode": 92804,
+    "rides": 15
+  },
+  {
+    "ZipCode": 90803,
+    "rides": 15
+  },
+  {
+    "ZipCode": 30080,
+    "rides": 15
+  },
+  {
+    "ZipCode": 90292,
+    "rides": 15
+  },
+  {
+    "ZipCode": 98105,
+    "rides": 15
+  },
+  {
+    "ZipCode": 93930,
+    "rides": 15
+  },
+  {
+    "ZipCode": 95828,
+    "rides": 15
+  },
+  {
+    "ZipCode": 80305,
+    "rides": 14
+  },
+  {
+    "ZipCode": 93720,
+    "rides": 14
+  },
+  {
+    "ZipCode": 75206,
+    "rides": 14
+  },
+  {
+    "ZipCode": 14300,
+    "rides": 14
+  },
+  {
+    "ZipCode": 98118,
+    "rides": 14
+  },
+  {
+    "ZipCode": 19002,
+    "rides": 14
+  },
+  {
+    "ZipCode": 90403,
+    "rides": 14
+  },
+  {
+    "ZipCode": 20815,
+    "rides": 14
+  },
+  {
+    "ZipCode": 90017,
+    "rides": 14
+  },
+  {
+    "ZipCode": 94956,
+    "rides": 14
+  },
+  {
+    "ZipCode": 78703,
+    "rides": 14
+  },
+  {
+    "ZipCode": 75010,
+    "rides": 14
+  },
+  {
+    "ZipCode": 90005,
+    "rides": 14
+  },
+  {
+    "ZipCode": 68131,
+    "rides": 14
+  },
+  {
+    "ZipCode": 92064,
+    "rides": 14
+  },
+  {
+    "ZipCode": 98006,
+    "rides": 14
+  },
+  {
+    "ZipCode": 94559,
+    "rides": 14
+  },
+  {
+    "ZipCode": 6511,
+    "rides": 14
+  },
+  {
+    "ZipCode": 81654,
+    "rides": 14
+  },
+  {
+    "ZipCode": 11211,
+    "rides": 14
+  },
+  {
+    "ZipCode": 93405,
+    "rides": 14
+  },
+  {
+    "ZipCode": 77005,
+    "rides": 14
+  },
+  {
+    "ZipCode": 22033,
+    "rides": 14
+  },
+  {
+    "ZipCode": 85253,
+    "rides": 14
+  },
+  {
+    "ZipCode": 9170,
+    "rides": 14
+  },
+  {
+    "ZipCode": 22030,
+    "rides": 14
+  },
+  {
+    "ZipCode": 85016,
+    "rides": 14
+  },
+  {
+    "ZipCode": 90100,
+    "rides": 14
+  },
+  {
+    "ZipCode": 45,
+    "rides": 14
+  },
+  {
+    "ZipCode": 75019,
+    "rides": 14
+  },
+  {
+    "ZipCode": 27516,
+    "rides": 13
+  },
+  {
+    "ZipCode": 93401,
+    "rides": 13
+  },
+  {
+    "ZipCode": 37015,
+    "rides": 13
+  },
+  {
+    "ZipCode": 9107,
+    "rides": 13
+  },
+  {
+    "ZipCode": 1056,
+    "rides": 13
+  },
+  {
+    "ZipCode": 78739,
+    "rides": 13
+  },
+  {
+    "ZipCode": 95242,
+    "rides": 13
+  },
+  {
+    "ZipCode": 93101,
+    "rides": 13
+  },
+  {
+    "ZipCode": 20895,
+    "rides": 13
+  },
+  {
+    "ZipCode": 84106,
+    "rides": 13
+  },
+  {
+    "ZipCode": 11231,
+    "rides": 13
+  },
+  {
+    "ZipCode": 98117,
+    "rides": 13
+  },
+  {
+    "ZipCode": 95815,
+    "rides": 13
+  },
+  {
+    "ZipCode": 53705,
+    "rides": 13
+  },
+  {
+    "ZipCode": 2169,
+    "rides": 13
+  },
+  {
+    "ZipCode": 20010,
+    "rides": 13
+  },
+  {
+    "ZipCode": 10022,
+    "rides": 13
+  },
+  {
+    "ZipCode": 92780,
+    "rides": 13
+  },
+  {
+    "ZipCode": 80020,
+    "rides": 13
+  },
+  {
+    "ZipCode": 11206,
+    "rides": 13
+  },
+  {
+    "ZipCode": 90049,
+    "rides": 13
+  },
+  {
+    "ZipCode": 11222,
+    "rides": 13
+  },
+  {
+    "ZipCode": 93940,
+    "rides": 13
+  },
+  {
+    "ZipCode": 84604,
+    "rides": 13
+  },
+  {
+    "ZipCode": 55117,
+    "rides": 13
+  },
+  {
+    "ZipCode": 12345,
+    "rides": 13
+  },
+  {
+    "ZipCode": 11375,
+    "rides": 13
+  },
+  {
+    "ZipCode": 92626,
+    "rides": 13
+  },
+  {
+    "ZipCode": 8544,
+    "rides": 13
+  },
+  {
+    "ZipCode": 89123,
+    "rides": 13
+  },
+  {
+    "ZipCode": 55407,
+    "rides": 13
+  },
+  {
+    "ZipCode": 78746,
+    "rides": 13
+  },
+  {
+    "ZipCode": 95407,
+    "rides": 13
+  },
+  {
+    "ZipCode": 2130,
+    "rides": 13
+  },
+  {
+    "ZipCode": 95066,
+    "rides": 13
+  },
+  {
+    "ZipCode": 60622,
+    "rides": 13
+  },
+  {
+    "ZipCode": 44115,
+    "rides": 13
+  },
+  {
+    "ZipCode": 84102,
+    "rides": 12
+  },
+  {
+    "ZipCode": 6820,
+    "rides": 12
+  },
+  {
+    "ZipCode": 75219,
+    "rides": 12
+  },
+  {
+    "ZipCode": 60611,
+    "rides": 12
+  },
+  {
+    "ZipCode": 55401,
+    "rides": 12
+  },
+  {
+    "ZipCode": 91754,
+    "rides": 12
+  },
+  {
+    "ZipCode": 60605,
+    "rides": 12
+  },
+  {
+    "ZipCode": 98023,
+    "rides": 12
+  },
+  {
+    "ZipCode": 95831,
+    "rides": 12
+  },
+  {
+    "ZipCode": 11357,
+    "rides": 12
+  },
+  {
+    "ZipCode": 94589,
+    "rides": 12
+  },
+  {
+    "ZipCode": 42104,
+    "rides": 12
+  },
+  {
+    "ZipCode": 97086,
+    "rides": 12
+  },
+  {
+    "ZipCode": 80209,
+    "rides": 12
+  },
+  {
+    "ZipCode": 21409,
+    "rides": 12
+  },
+  {
+    "ZipCode": 85295,
+    "rides": 12
+  },
+  {
+    "ZipCode": 3000,
+    "rides": 12
+  },
+  {
+    "ZipCode": 6570035,
+    "rides": 12
+  },
+  {
+    "ZipCode": 92067,
+    "rides": 12
+  },
+  {
+    "ZipCode": 85225,
+    "rides": 12
+  },
+  {
+    "ZipCode": 89510,
+    "rides": 12
+  },
+  {
+    "ZipCode": 92646,
+    "rides": 12
+  },
+  {
+    "ZipCode": 75001,
+    "rides": 12
+  },
+  {
+    "ZipCode": 41091,
+    "rides": 12
+  },
+  {
+    "ZipCode": 90057,
+    "rides": 12
+  },
+  {
+    "ZipCode": 92227,
+    "rides": 12
+  },
+  {
+    "ZipCode": 54022,
+    "rides": 12
+  },
+  {
+    "ZipCode": 2446,
+    "rides": 12
+  },
+  {
+    "ZipCode": 75080,
+    "rides": 12
+  },
+  {
+    "ZipCode": 94038,
+    "rides": 12
+  },
+  {
+    "ZipCode": 11590,
+    "rides": 12
+  },
+  {
+    "ZipCode": 91206,
+    "rides": 12
+  },
+  {
+    "ZipCode": 24047,
+    "rides": 12
+  },
+  {
+    "ZipCode": 75018,
+    "rides": 12
+  },
+  {
+    "ZipCode": 818,
+    "rides": 12
+  },
+  {
+    "ZipCode": 94801,
+    "rides": 12
+  },
+  {
+    "ZipCode": 18018,
+    "rides": 12
+  },
+  {
+    "ZipCode": 2474,
+    "rides": 12
+  },
+  {
+    "ZipCode": 6006,
+    "rides": 12
+  },
+  {
+    "ZipCode": 84037,
+    "rides": 12
+  },
+  {
+    "ZipCode": 80302,
+    "rides": 12
+  },
+  {
+    "ZipCode": 80439,
+    "rides": 12
+  },
+  {
+    "ZipCode": 90277,
+    "rides": 12
+  },
+  {
+    "ZipCode": 14261,
+    "rides": 12
+  },
+  {
+    "ZipCode": 15217,
+    "rides": 12
+  },
+  {
+    "ZipCode": 90036,
+    "rides": 12
+  },
+  {
+    "ZipCode": 79912,
+    "rides": 12
+  },
+  {
+    "ZipCode": 80301,
+    "rides": 11
+  },
+  {
+    "ZipCode": 6605,
+    "rides": 11
+  },
+  {
+    "ZipCode": 97330,
+    "rides": 11
+  },
+  {
+    "ZipCode": 33129,
+    "rides": 11
+  },
+  {
+    "ZipCode": 80435,
+    "rides": 11
+  },
+  {
+    "ZipCode": 92058,
+    "rides": 11
+  },
+  {
+    "ZipCode": 3660,
+    "rides": 11
+  },
+  {
+    "ZipCode": 11109,
+    "rides": 11
+  },
+  {
+    "ZipCode": 64,
+    "rides": 11
+  },
+  {
+    "ZipCode": 29841,
+    "rides": 11
+  },
+  {
+    "ZipCode": 94310,
+    "rides": 11
+  },
+  {
+    "ZipCode": 92200,
+    "rides": 11
+  },
+  {
+    "ZipCode": 92651,
+    "rides": 11
+  },
+  {
+    "ZipCode": 92612,
+    "rides": 11
+  },
+  {
+    "ZipCode": 46142,
+    "rides": 11
+  },
+  {
+    "ZipCode": 15206,
+    "rides": 11
+  },
+  {
+    "ZipCode": 91105,
+    "rides": 11
+  },
+  {
+    "ZipCode": 99615,
+    "rides": 11
+  },
+  {
+    "ZipCode": 97223,
+    "rides": 11
+  },
+  {
+    "ZipCode": 81631,
+    "rides": 11
+  },
+  {
+    "ZipCode": 3020,
+    "rides": 11
+  },
+  {
+    "ZipCode": 93117,
+    "rides": 11
+  },
+  {
+    "ZipCode": 63104,
+    "rides": 11
+  },
+  {
+    "ZipCode": 90254,
+    "rides": 11
+  },
+  {
+    "ZipCode": 27613,
+    "rides": 11
+  },
+  {
+    "ZipCode": 41017,
+    "rides": 11
+  },
+  {
+    "ZipCode": 10065,
+    "rides": 11
+  },
+  {
+    "ZipCode": 95747,
+    "rides": 11
+  },
+  {
+    "ZipCode": 28403,
+    "rides": 11
+  },
+  {
+    "ZipCode": 11217,
+    "rides": 11
+  },
+  {
+    "ZipCode": 30342,
+    "rides": 11
+  },
+  {
+    "ZipCode": 33160,
+    "rides": 11
+  },
+  {
+    "ZipCode": 95605,
+    "rides": 11
+  },
+  {
+    "ZipCode": 95350,
+    "rides": 11
+  },
+  {
+    "ZipCode": 94564,
+    "rides": 11
+  },
+  {
+    "ZipCode": 93277,
+    "rides": 11
+  },
+  {
+    "ZipCode": 94000,
+    "rides": 11
+  },
+  {
+    "ZipCode": 11235,
+    "rides": 11
+  },
+  {
+    "ZipCode": 11964,
+    "rides": 11
+  },
+  {
+    "ZipCode": 21218,
+    "rides": 11
+  },
+  {
+    "ZipCode": 94547,
+    "rides": 11
+  },
+  {
+    "ZipCode": 95062,
+    "rides": 11
+  },
+  {
+    "ZipCode": 91501,
+    "rides": 11
+  },
+  {
+    "ZipCode": 44100,
+    "rides": 11
+  },
+  {
+    "ZipCode": 10017,
+    "rides": 11
+  },
+  {
+    "ZipCode": 21201,
+    "rides": 11
+  },
+  {
+    "ZipCode": 95835,
+    "rides": 11
+  },
+  {
+    "ZipCode": 2114,
+    "rides": 11
+  },
+  {
+    "ZipCode": 34952,
+    "rides": 11
+  },
+  {
+    "ZipCode": 8832,
+    "rides": 10
+  },
+  {
+    "ZipCode": 11237,
+    "rides": 10
+  },
+  {
+    "ZipCode": 90706,
+    "rides": 10
+  },
+  {
+    "ZipCode": 98033,
+    "rides": 10
+  },
+  {
+    "ZipCode": 30345,
+    "rides": 10
+  },
+  {
+    "ZipCode": 29631,
+    "rides": 10
+  },
+  {
+    "ZipCode": 12188,
+    "rides": 10
+  },
+  {
+    "ZipCode": 23220,
+    "rides": 10
+  },
+  {
+    "ZipCode": 2000,
+    "rides": 10
+  },
+  {
+    "ZipCode": 95139,
+    "rides": 10
+  },
+  {
+    "ZipCode": 4901,
+    "rides": 10
+  },
+  {
+    "ZipCode": 10280,
+    "rides": 10
+  },
+  {
+    "ZipCode": 90008,
+    "rides": 10
+  },
+  {
+    "ZipCode": 27000,
+    "rides": 10
+  },
+  {
+    "ZipCode": 92024,
+    "rides": 10
+  },
+  {
+    "ZipCode": 7040,
+    "rides": 10
+  },
+  {
+    "ZipCode": 33149,
+    "rides": 10
+  },
+  {
+    "ZipCode": 5400,
+    "rides": 10
+  },
+  {
+    "ZipCode": 37212,
+    "rides": 10
+  },
+  {
+    "ZipCode": 98043,
+    "rides": 10
+  },
+  {
+    "ZipCode": 98119,
+    "rides": 10
+  },
+  {
+    "ZipCode": 29407,
+    "rides": 10
+  },
+  {
+    "ZipCode": 53704,
+    "rides": 10
+  },
+  {
+    "ZipCode": 28209,
+    "rides": 10
+  },
+  {
+    "ZipCode": 78704,
+    "rides": 10
+  },
+  {
+    "ZipCode": 8009,
+    "rides": 10
+  },
+  {
+    "ZipCode": 92117,
+    "rides": 10
+  },
+  {
+    "ZipCode": 949,
+    "rides": 10
+  },
+  {
+    "ZipCode": 90404,
+    "rides": 10
+  },
+  {
+    "ZipCode": 33136,
+    "rides": 10
+  },
+  {
+    "ZipCode": 84104,
+    "rides": 10
+  },
+  {
+    "ZipCode": 47906,
+    "rides": 10
+  },
+  {
+    "ZipCode": 2053,
+    "rides": 10
+  },
+  {
+    "ZipCode": 60660,
+    "rides": 10
+  },
+  {
+    "ZipCode": 92663,
+    "rides": 10
+  },
+  {
+    "ZipCode": 22213,
+    "rides": 10
+  },
+  {
+    "ZipCode": 60015,
+    "rides": 10
+  },
+  {
+    "ZipCode": 30309,
+    "rides": 10
+  },
+  {
+    "ZipCode": 65,
+    "rides": 10
+  },
+  {
+    "ZipCode": 11101,
+    "rides": 10
+  },
+  {
+    "ZipCode": 39,
+    "rides": 10
+  },
+  {
+    "ZipCode": 95133,
+    "rides": 10
+  },
+  {
+    "ZipCode": 97124,
+    "rides": 10
+  },
+  {
+    "ZipCode": 24133,
+    "rides": 10
+  },
+  {
+    "ZipCode": 47401,
+    "rides": 10
+  },
+  {
+    "ZipCode": 80123,
+    "rides": 10
+  },
+  {
+    "ZipCode": 91302,
+    "rides": 10
+  },
+  {
+    "ZipCode": 20005,
+    "rides": 10
+  },
+  {
+    "ZipCode": 94183,
+    "rides": 10
+  },
+  {
+    "ZipCode": 30324,
+    "rides": 9
+  },
+  {
+    "ZipCode": 93230,
+    "rides": 9
+  },
+  {
+    "ZipCode": 2200,
+    "rides": 9
+  },
+  {
+    "ZipCode": 80401,
+    "rides": 9
+  },
+  {
+    "ZipCode": 32301,
+    "rides": 9
+  },
+  {
+    "ZipCode": 53718,
+    "rides": 9
+  },
+  {
+    "ZipCode": 92129,
+    "rides": 9
+  },
+  {
+    "ZipCode": 2138,
+    "rides": 9
+  },
+  {
+    "ZipCode": 98144,
+    "rides": 9
+  },
+  {
+    "ZipCode": 93906,
+    "rides": 9
+  },
+  {
+    "ZipCode": 98104,
+    "rides": 9
+  },
+  {
+    "ZipCode": 72116,
+    "rides": 9
+  },
+  {
+    "ZipCode": 3090,
+    "rides": 9
+  },
+  {
+    "ZipCode": 65193,
+    "rides": 9
+  },
+  {
+    "ZipCode": 10128,
+    "rides": 9
+  },
+  {
+    "ZipCode": 97201,
+    "rides": 9
+  },
+  {
+    "ZipCode": 21042,
+    "rides": 9
+  },
+  {
+    "ZipCode": 11050,
+    "rides": 9
+  },
+  {
+    "ZipCode": 89012,
+    "rides": 9
+  },
+  {
+    "ZipCode": 90250,
+    "rides": 9
+  },
+  {
+    "ZipCode": 8724,
+    "rides": 9
+  },
+  {
+    "ZipCode": 85044,
+    "rides": 9
+  },
+  {
+    "ZipCode": 91367,
+    "rides": 9
+  },
+  {
+    "ZipCode": 33133,
+    "rides": 9
+  },
+  {
+    "ZipCode": 92014,
+    "rides": 9
+  },
+  {
+    "ZipCode": 92672,
+    "rides": 9
+  },
+  {
+    "ZipCode": 60601,
+    "rides": 9
+  },
+  {
+    "ZipCode": 95046,
+    "rides": 9
+  },
+  {
+    "ZipCode": 10463,
+    "rides": 9
+  },
+  {
+    "ZipCode": 63044,
+    "rides": 9
+  },
+  {
+    "ZipCode": 93933,
+    "rides": 9
+  },
+  {
+    "ZipCode": 92808,
+    "rides": 9
+  },
+  {
+    "ZipCode": 2127,
+    "rides": 9
+  },
+  {
+    "ZipCode": 91602,
+    "rides": 9
+  },
+  {
+    "ZipCode": 93901,
+    "rides": 9
+  },
+  {
+    "ZipCode": 30004,
+    "rides": 9
+  },
+  {
+    "ZipCode": 19104,
+    "rides": 9
+  },
+  {
+    "ZipCode": 95380,
+    "rides": 9
+  },
+  {
+    "ZipCode": 91739,
+    "rides": 9
+  },
+  {
+    "ZipCode": 60607,
+    "rides": 9
+  },
+  {
+    "ZipCode": 96161,
+    "rides": 9
+  },
+  {
+    "ZipCode": 84105,
+    "rides": 9
+  },
+  {
+    "ZipCode": 2215,
+    "rides": 9
+  },
+  {
+    "ZipCode": 92127,
+    "rides": 9
+  },
+  {
+    "ZipCode": 94515,
+    "rides": 9
+  },
+  {
+    "ZipCode": 852,
+    "rides": 9
+  },
+  {
+    "ZipCode": 91801,
+    "rides": 9
+  },
+  {
+    "ZipCode": 10036,
+    "rides": 9
+  },
+  {
+    "ZipCode": 85259,
+    "rides": 9
+  },
+  {
+    "ZipCode": 80211,
+    "rides": 9
+  },
+  {
+    "ZipCode": 78751,
+    "rides": 9
+  },
+  {
+    "ZipCode": 11365,
+    "rides": 9
+  },
+  {
+    "ZipCode": 60085,
+    "rides": 9
+  },
+  {
+    "ZipCode": 55408,
+    "rides": 9
+  },
+  {
+    "ZipCode": 11790,
+    "rides": 9
+  },
+  {
+    "ZipCode": 149,
+    "rides": 9
+  },
+  {
+    "ZipCode": 5401,
+    "rides": 9
+  },
+  {
+    "ZipCode": 7801,
+    "rides": 9
+  },
+  {
+    "ZipCode": 87122,
+    "rides": 9
+  },
+  {
+    "ZipCode": 10032,
+    "rides": 9
+  },
+  {
+    "ZipCode": 90249,
+    "rides": 9
+  },
+  {
+    "ZipCode": 53045,
+    "rides": 9
+  },
+  {
+    "ZipCode": 93003,
+    "rides": 9
+  },
+  {
+    "ZipCode": 90068,
+    "rides": 9
+  },
+  {
+    "ZipCode": 2466,
+    "rides": 9
+  },
+  {
+    "ZipCode": 89122,
+    "rides": 9
+  },
+  {
+    "ZipCode": 92803,
+    "rides": 9
+  },
+  {
+    "ZipCode": 85042,
+    "rides": 9
+  },
+  {
+    "ZipCode": 92081,
+    "rides": 9
+  },
+  {
+    "ZipCode": 972,
+    "rides": 9
+  },
+  {
+    "ZipCode": 10016,
+    "rides": 9
+  },
+  {
+    "ZipCode": 712456,
+    "rides": 9
+  },
+  {
+    "ZipCode": 21136,
+    "rides": 9
+  },
+  {
+    "ZipCode": 98027,
+    "rides": 9
+  },
+  {
+    "ZipCode": 11205,
+    "rides": 8
+  },
+  {
+    "ZipCode": 10250,
+    "rides": 8
+  },
+  {
+    "ZipCode": 93013,
+    "rides": 8
+  },
+  {
+    "ZipCode": 95015,
+    "rides": 8
+  },
+  {
+    "ZipCode": 42206,
+    "rides": 8
+  },
+  {
+    "ZipCode": 93001,
+    "rides": 8
+  },
+  {
+    "ZipCode": 98109,
+    "rides": 8
+  },
+  {
+    "ZipCode": 94509,
+    "rides": 8
+  },
+  {
+    "ZipCode": 11385,
+    "rides": 8
+  },
+  {
+    "ZipCode": 3582,
+    "rides": 8
+  },
+  {
+    "ZipCode": 10038,
+    "rides": 8
+  },
+  {
+    "ZipCode": 19147,
+    "rides": 8
+  },
+  {
+    "ZipCode": 2478,
+    "rides": 8
+  },
+  {
+    "ZipCode": 8017,
+    "rides": 8
+  },
+  {
+    "ZipCode": 91403,
+    "rides": 8
+  },
+  {
+    "ZipCode": 30318,
+    "rides": 8
+  },
+  {
+    "ZipCode": 3801,
+    "rides": 8
+  },
+  {
+    "ZipCode": 91423,
+    "rides": 8
+  },
+  {
+    "ZipCode": 93190,
+    "rides": 8
+  },
+  {
+    "ZipCode": 1457,
+    "rides": 8
+  },
+  {
+    "ZipCode": 98801,
+    "rides": 8
+  },
+  {
+    "ZipCode": 94805,
+    "rides": 8
+  },
+  {
+    "ZipCode": 93463,
+    "rides": 8
+  },
+  {
+    "ZipCode": 429581,
+    "rides": 8
+  },
+  {
+    "ZipCode": 91362,
+    "rides": 8
+  },
+  {
+    "ZipCode": 27708,
+    "rides": 8
+  },
+  {
+    "ZipCode": 90212,
+    "rides": 8
+  },
+  {
+    "ZipCode": 35223,
+    "rides": 8
+  },
+  {
+    "ZipCode": 15632,
+    "rides": 8
+  },
+  {
+    "ZipCode": 560016,
+    "rides": 8
+  },
+  {
+    "ZipCode": 44240,
+    "rides": 8
+  },
+  {
+    "ZipCode": 32751,
+    "rides": 8
+  },
+  {
+    "ZipCode": 6070,
+    "rides": 8
+  },
+  {
+    "ZipCode": 30312,
+    "rides": 8
+  },
+  {
+    "ZipCode": 91320,
+    "rides": 8
+  },
+  {
+    "ZipCode": 14627,
+    "rides": 8
+  },
+  {
+    "ZipCode": 93704,
+    "rides": 8
+  },
+  {
+    "ZipCode": 34108,
+    "rides": 8
+  },
+  {
+    "ZipCode": 68503,
+    "rides": 8
+  },
+  {
+    "ZipCode": 85202,
+    "rides": 8
+  },
+  {
+    "ZipCode": 98139,
+    "rides": 8
+  },
+  {
+    "ZipCode": 6040,
+    "rides": 8
+  },
+  {
+    "ZipCode": 84006,
+    "rides": 8
+  },
+  {
+    "ZipCode": 93727,
+    "rides": 8
+  },
+  {
+    "ZipCode": 2233,
+    "rides": 8
+  },
+  {
+    "ZipCode": 68105,
+    "rides": 8
+  },
+  {
+    "ZipCode": 35242,
+    "rides": 8
+  },
+  {
+    "ZipCode": 55331,
+    "rides": 8
+  },
+  {
+    "ZipCode": 90704,
+    "rides": 8
+  },
+  {
+    "ZipCode": 8004,
+    "rides": 8
+  },
+  {
+    "ZipCode": 2134,
+    "rides": 8
+  },
+  {
+    "ZipCode": 2670066,
+    "rides": 8
+  },
+  {
+    "ZipCode": 98059,
+    "rides": 8
+  },
+  {
+    "ZipCode": 55108,
+    "rides": 8
+  },
+  {
+    "ZipCode": 6902,
+    "rides": 8
+  },
+  {
+    "ZipCode": 80636,
+    "rides": 8
+  },
+  {
+    "ZipCode": 10026,
+    "rides": 8
+  },
+  {
+    "ZipCode": 92648,
+    "rides": 8
+  },
+  {
+    "ZipCode": 29464,
+    "rides": 8
+  },
+  {
+    "ZipCode": 4038,
+    "rides": 8
+  },
+  {
+    "ZipCode": 9,
+    "rides": 8
+  },
+  {
+    "ZipCode": 92705,
+    "rides": 8
+  },
+  {
+    "ZipCode": 33319,
+    "rides": 8
+  },
+  {
+    "ZipCode": 60618,
+    "rides": 8
+  },
+  {
+    "ZipCode": 84058,
+    "rides": 8
+  },
+  {
+    "ZipCode": 63122,
+    "rides": 8
+  },
+  {
+    "ZipCode": 6065,
+    "rides": 8
+  },
+  {
+    "ZipCode": 91355,
+    "rides": 8
+  },
+  {
+    "ZipCode": 38112,
+    "rides": 8
+  },
+  {
+    "ZipCode": 97756,
+    "rides": 8
+  },
+  {
+    "ZipCode": 19146,
+    "rides": 8
+  },
+  {
+    "ZipCode": 96150,
+    "rides": 8
+  },
+  {
+    "ZipCode": 35010,
+    "rides": 8
+  },
+  {
+    "ZipCode": 85249,
+    "rides": 8
+  },
+  {
+    "ZipCode": 2142,
+    "rides": 8
+  },
+  {
+    "ZipCode": 6878,
+    "rides": 8
+  },
+  {
+    "ZipCode": 22204,
+    "rides": 8
+  },
+  {
+    "ZipCode": 80631,
+    "rides": 8
+  },
+  {
+    "ZipCode": 20001,
+    "rides": 8
+  },
+  {
+    "ZipCode": 64110,
+    "rides": 8
+  },
+  {
+    "ZipCode": 92020,
+    "rides": 8
+  },
+  {
+    "ZipCode": 99601,
+    "rides": 8
+  },
+  {
+    "ZipCode": 91360,
+    "rides": 8
+  },
+  {
+    "ZipCode": 90007,
+    "rides": 8
+  },
+  {
+    "ZipCode": 90255,
+    "rides": 8
+  },
+  {
+    "ZipCode": 89103,
+    "rides": 8
+  },
+  {
+    "ZipCode": 33327,
+    "rides": 8
+  },
+  {
+    "ZipCode": 44070,
+    "rides": 8
+  },
+  {
+    "ZipCode": 20012,
+    "rides": 8
+  },
+  {
+    "ZipCode": 46077,
+    "rides": 8
+  },
+  {
+    "ZipCode": 94106,
+    "rides": 8
+  },
+  {
+    "ZipCode": 29401,
+    "rides": 7
+  },
+  {
+    "ZipCode": 53714,
+    "rides": 7
+  },
+  {
+    "ZipCode": 85251,
+    "rides": 7
+  },
+  {
+    "ZipCode": 6883,
+    "rides": 7
+  },
+  {
+    "ZipCode": 92500,
+    "rides": 7
+  },
+  {
+    "ZipCode": 80218,
+    "rides": 7
+  },
+  {
+    "ZipCode": 21045,
+    "rides": 7
+  },
+  {
+    "ZipCode": 11249,
+    "rides": 7
+  },
+  {
+    "ZipCode": 2111,
+    "rides": 7
+  },
+  {
+    "ZipCode": 10530,
+    "rides": 7
+  },
+  {
+    "ZipCode": 10010,
+    "rides": 7
+  },
+  {
+    "ZipCode": 310,
+    "rides": 7
+  },
+  {
+    "ZipCode": 93944,
+    "rides": 7
+  },
+  {
+    "ZipCode": 84065,
+    "rides": 7
+  },
+  {
+    "ZipCode": 75254,
+    "rides": 7
+  },
+  {
+    "ZipCode": 92562,
+    "rides": 7
+  },
+  {
+    "ZipCode": 83340,
+    "rides": 7
+  },
+  {
+    "ZipCode": 94137,
+    "rides": 7
+  },
+  {
+    "ZipCode": 48009,
+    "rides": 7
+  },
+  {
+    "ZipCode": 90012,
+    "rides": 7
+  },
+  {
+    "ZipCode": 92107,
+    "rides": 7
+  },
+  {
+    "ZipCode": 75235,
+    "rides": 7
+  },
+  {
+    "ZipCode": 92131,
+    "rides": 7
+  },
+  {
+    "ZipCode": 80207,
+    "rides": 7
+  },
+  {
+    "ZipCode": 91214,
+    "rides": 7
+  },
+  {
+    "ZipCode": 60062,
+    "rides": 7
+  },
+  {
+    "ZipCode": 98004,
+    "rides": 7
+  },
+  {
+    "ZipCode": 92592,
+    "rides": 7
+  },
+  {
+    "ZipCode": 19342,
+    "rides": 7
+  },
+  {
+    "ZipCode": 80797,
+    "rides": 7
+  },
+  {
+    "ZipCode": 92679,
+    "rides": 7
+  },
+  {
+    "ZipCode": 2140,
+    "rides": 7
+  },
+  {
+    "ZipCode": 11735,
+    "rides": 7
+  },
+  {
+    "ZipCode": 10547,
+    "rides": 7
+  },
+  {
+    "ZipCode": 6853,
+    "rides": 7
+  },
+  {
+    "ZipCode": 85201,
+    "rides": 7
+  },
+  {
+    "ZipCode": 37203,
+    "rides": 7
+  },
+  {
+    "ZipCode": 89521,
+    "rides": 7
+  },
+  {
+    "ZipCode": 92130,
+    "rides": 7
+  },
+  {
+    "ZipCode": 30009,
+    "rides": 7
+  },
+  {
+    "ZipCode": 95814,
+    "rides": 7
+  },
+  {
+    "ZipCode": 32811,
+    "rides": 7
+  },
+  {
+    "ZipCode": 30339,
+    "rides": 7
+  },
+  {
+    "ZipCode": 97070,
+    "rides": 7
+  },
+  {
+    "ZipCode": 90505,
+    "rides": 7
+  },
+  {
+    "ZipCode": 95073,
+    "rides": 7
+  },
+  {
+    "ZipCode": 91361,
+    "rides": 7
+  },
+  {
+    "ZipCode": 8302,
+    "rides": 7
+  },
+  {
+    "ZipCode": 77479,
+    "rides": 7
+  },
+  {
+    "ZipCode": 96160,
+    "rides": 7
+  },
+  {
+    "ZipCode": 2116,
+    "rides": 7
+  },
+  {
+    "ZipCode": 94525,
+    "rides": 7
+  },
+  {
+    "ZipCode": 94928,
+    "rides": 7
+  },
+  {
+    "ZipCode": 20037,
+    "rides": 7
+  },
+  {
+    "ZipCode": 9405,
+    "rides": 7
+  },
+  {
+    "ZipCode": 19103,
+    "rides": 7
+  },
+  {
+    "ZipCode": 34471,
+    "rides": 7
+  },
+  {
+    "ZipCode": 97202,
+    "rides": 7
+  },
+  {
+    "ZipCode": 33629,
+    "rides": 7
+  },
+  {
+    "ZipCode": 58201,
+    "rides": 7
+  },
+  {
+    "ZipCode": 95356,
+    "rides": 7
+  },
+  {
+    "ZipCode": 89218550,
+    "rides": 7
+  },
+  {
+    "ZipCode": 84097,
+    "rides": 7
+  },
+  {
+    "ZipCode": 97520,
+    "rides": 7
+  },
+  {
+    "ZipCode": 78610,
+    "rides": 7
+  },
+  {
+    "ZipCode": 80202,
+    "rides": 7
+  },
+  {
+    "ZipCode": 32312,
+    "rides": 7
+  },
+  {
+    "ZipCode": 7030,
+    "rides": 7
+  },
+  {
+    "ZipCode": 81925,
+    "rides": 7
+  },
+  {
+    "ZipCode": 19803,
+    "rides": 7
+  },
+  {
+    "ZipCode": 30066,
+    "rides": 7
+  },
+  {
+    "ZipCode": 94533,
+    "rides": 7
+  },
+  {
+    "ZipCode": 8002,
+    "rides": 7
+  },
+  {
+    "ZipCode": 7310,
+    "rides": 7
+  },
+  {
+    "ZipCode": 37772,
+    "rides": 7
+  },
+  {
+    "ZipCode": 32129,
+    "rides": 7
+  },
+  {
+    "ZipCode": 33060,
+    "rides": 7
+  },
+  {
+    "ZipCode": 77573,
+    "rides": 7
+  },
+  {
+    "ZipCode": 80304,
+    "rides": 7
+  },
+  {
+    "ZipCode": 94113,
+    "rides": 7
+  },
+  {
+    "ZipCode": 33446,
+    "rides": 7
+  },
+  {
+    "ZipCode": 30269,
+    "rides": 7
+  },
+  {
+    "ZipCode": 91344,
+    "rides": 7
+  },
+  {
+    "ZipCode": 28277,
+    "rides": 7
+  },
+  {
+    "ZipCode": 98101,
+    "rides": 7
+  },
+  {
+    "ZipCode": 55406,
+    "rides": 7
+  },
+  {
+    "ZipCode": 20913,
+    "rides": 7
+  },
+  {
+    "ZipCode": 5462,
+    "rides": 7
+  },
+  {
+    "ZipCode": 2852,
+    "rides": 7
+  },
+  {
+    "ZipCode": 598,
+    "rides": 7
+  },
+  {
+    "ZipCode": 32566,
+    "rides": 7
+  },
+  {
+    "ZipCode": 19144,
+    "rides": 7
+  },
+  {
+    "ZipCode": 1409,
+    "rides": 7
+  },
+  {
+    "ZipCode": 10281,
+    "rides": 7
+  },
+  {
+    "ZipCode": 57,
+    "rides": 7
+  },
+  {
+    "ZipCode": 98007,
+    "rides": 7
+  },
+  {
+    "ZipCode": 90006,
+    "rides": 7
+  },
+  {
+    "ZipCode": 20817,
+    "rides": 7
+  },
+  {
+    "ZipCode": 51,
+    "rides": 6
+  },
+  {
+    "ZipCode": 77377,
+    "rides": 6
+  },
+  {
+    "ZipCode": 15210,
+    "rides": 6
+  },
+  {
+    "ZipCode": 90042,
+    "rides": 6
+  },
+  {
+    "ZipCode": 6300,
+    "rides": 6
+  },
+  {
+    "ZipCode": 43209,
+    "rides": 6
+  },
+  {
+    "ZipCode": 90503,
+    "rides": 6
+  },
+  {
+    "ZipCode": 11,
+    "rides": 6
+  },
+  {
+    "ZipCode": 33028,
+    "rides": 6
+  },
+  {
+    "ZipCode": 2108,
+    "rides": 6
+  },
+  {
+    "ZipCode": 91709,
+    "rides": 6
+  },
+  {
+    "ZipCode": 90041,
+    "rides": 6
+  },
+  {
+    "ZipCode": 89145,
+    "rides": 6
+  },
+  {
+    "ZipCode": 1012,
+    "rides": 6
+  },
+  {
+    "ZipCode": 45050,
+    "rides": 6
+  },
+  {
+    "ZipCode": 80303,
+    "rides": 6
+  },
+  {
+    "ZipCode": 94535,
+    "rides": 6
+  },
+  {
+    "ZipCode": 8540,
+    "rides": 6
+  },
+  {
+    "ZipCode": 5280,
+    "rides": 6
+  },
+  {
+    "ZipCode": 33069,
+    "rides": 6
+  },
+  {
+    "ZipCode": 12866,
+    "rides": 6
+  },
+  {
+    "ZipCode": 80210,
+    "rides": 6
+  },
+  {
+    "ZipCode": 93465,
+    "rides": 6
+  },
+  {
+    "ZipCode": 95630,
+    "rides": 6
+  },
+  {
+    "ZipCode": 91311,
+    "rides": 6
+  },
+  {
+    "ZipCode": 65400,
+    "rides": 6
+  },
+  {
+    "ZipCode": 92169,
+    "rides": 6
+  },
+  {
+    "ZipCode": 29803,
+    "rides": 6
+  },
+  {
+    "ZipCode": 570,
+    "rides": 6
+  },
+  {
+    "ZipCode": 95826,
+    "rides": 6
+  },
+  {
+    "ZipCode": 92120,
+    "rides": 6
+  },
+  {
+    "ZipCode": 49073,
+    "rides": 6
+  },
+  {
+    "ZipCode": 91208,
+    "rides": 6
+  },
+  {
+    "ZipCode": 91711,
+    "rides": 6
+  },
+  {
+    "ZipCode": 67901,
+    "rides": 6
+  },
+  {
+    "ZipCode": 35203,
+    "rides": 6
+  },
+  {
+    "ZipCode": 90620,
+    "rides": 6
+  },
+  {
+    "ZipCode": 7407,
+    "rides": 6
+  },
+  {
+    "ZipCode": 97232,
+    "rides": 6
+  },
+  {
+    "ZipCode": 18078,
+    "rides": 6
+  },
+  {
+    "ZipCode": 7764,
+    "rides": 6
+  },
+  {
+    "ZipCode": 90045,
+    "rides": 6
+  },
+  {
+    "ZipCode": 33134,
+    "rides": 6
+  },
+  {
+    "ZipCode": 82225,
+    "rides": 6
+  },
+  {
+    "ZipCode": 90270,
+    "rides": 6
+  },
+  {
+    "ZipCode": 91730,
+    "rides": 6
+  },
+  {
+    "ZipCode": 85284,
+    "rides": 6
+  },
+  {
+    "ZipCode": 92124,
+    "rides": 6
+  },
+  {
+    "ZipCode": 90032,
+    "rides": 6
+  },
+  {
+    "ZipCode": 93314,
+    "rides": 6
+  },
+  {
+    "ZipCode": 92677,
+    "rides": 6
+  },
+  {
+    "ZipCode": 93280,
+    "rides": 6
+  },
+  {
+    "ZipCode": 18010,
+    "rides": 6
+  },
+  {
+    "ZipCode": 95367,
+    "rides": 6
+  },
+  {
+    "ZipCode": 7747,
+    "rides": 6
+  },
+  {
+    "ZipCode": 91764,
+    "rides": 6
+  },
+  {
+    "ZipCode": 1860,
+    "rides": 6
+  },
+  {
+    "ZipCode": 51100,
+    "rides": 6
+  },
+  {
+    "ZipCode": 95818,
+    "rides": 6
+  },
+  {
+    "ZipCode": 83616,
+    "rides": 6
+  },
+  {
+    "ZipCode": 92614,
+    "rides": 6
+  },
+  {
+    "ZipCode": 97701,
+    "rides": 6
+  },
+  {
+    "ZipCode": 95928,
+    "rides": 6
+  },
+  {
+    "ZipCode": 28270,
+    "rides": 6
+  },
+  {
+    "ZipCode": 83014,
+    "rides": 6
+  },
+  {
+    "ZipCode": 11362,
+    "rides": 6
+  },
+  {
+    "ZipCode": 27896,
+    "rides": 6
+  },
+  {
+    "ZipCode": 67071,
+    "rides": 6
+  },
+  {
+    "ZipCode": 95010,
+    "rides": 6
+  },
+  {
+    "ZipCode": 54143,
+    "rides": 6
+  },
+  {
+    "ZipCode": 44483,
+    "rides": 6
+  },
+  {
+    "ZipCode": 85255,
+    "rides": 6
+  },
+  {
+    "ZipCode": 2038,
+    "rides": 6
+  },
+  {
+    "ZipCode": 7860,
+    "rides": 6
+  },
+  {
+    "ZipCode": 11700,
+    "rides": 6
+  },
+  {
+    "ZipCode": 89134,
+    "rides": 6
+  },
+  {
+    "ZipCode": 22602,
+    "rides": 6
+  },
+  {
+    "ZipCode": 90907,
+    "rides": 6
+  },
+  {
+    "ZipCode": 30306,
+    "rides": 6
+  },
+  {
+    "ZipCode": 85286,
+    "rides": 6
+  },
+  {
+    "ZipCode": 9413,
+    "rides": 6
+  },
+  {
+    "ZipCode": 19335,
+    "rides": 6
+  },
+  {
+    "ZipCode": 48084,
+    "rides": 6
+  },
+  {
+    "ZipCode": 30180120,
+    "rides": 6
+  },
+  {
+    "ZipCode": 55426,
+    "rides": 6
+  },
+  {
+    "ZipCode": 95650,
+    "rides": 6
+  },
+  {
+    "ZipCode": 23661,
+    "rides": 6
+  },
+  {
+    "ZipCode": 21224,
+    "rides": 6
+  },
+  {
+    "ZipCode": 60115,
+    "rides": 6
+  },
+  {
+    "ZipCode": 292,
+    "rides": 6
+  },
+  {
+    "ZipCode": 49783,
+    "rides": 6
+  },
+  {
+    "ZipCode": 70448,
+    "rides": 6
+  },
+  {
+    "ZipCode": 32206,
+    "rides": 6
+  },
+  {
+    "ZipCode": 93263,
+    "rides": 6
+  },
+  {
+    "ZipCode": 1604,
+    "rides": 6
+  },
+  {
+    "ZipCode": 89135,
+    "rides": 6
+  },
+  {
+    "ZipCode": 33126,
+    "rides": 6
+  },
+  {
+    "ZipCode": 91324,
+    "rides": 6
+  },
+  {
+    "ZipCode": 8005,
+    "rides": 6
+  },
+  {
+    "ZipCode": 96746,
+    "rides": 6
+  },
+  {
+    "ZipCode": 92833,
+    "rides": 6
+  },
+  {
+    "ZipCode": 19145,
+    "rides": 6
+  },
+  {
+    "ZipCode": 8525,
+    "rides": 6
+  },
+  {
+    "ZipCode": 62275,
+    "rides": 6
+  },
+  {
+    "ZipCode": 80023,
+    "rides": 6
+  },
+  {
+    "ZipCode": 30062,
+    "rides": 6
+  },
+  {
+    "ZipCode": 85233,
+    "rides": 6
+  },
+  {
+    "ZipCode": 94578,
+    "rides": 6
+  },
+  {
+    "ZipCode": 90247,
+    "rides": 6
+  },
+  {
+    "ZipCode": 75098,
+    "rides": 6
+  },
+  {
+    "ZipCode": 91306,
+    "rides": 6
+  },
+  {
+    "ZipCode": 10301,
+    "rides": 6
+  },
+  {
+    "ZipCode": 75063,
+    "rides": 6
+  },
+  {
+    "ZipCode": 48073,
+    "rides": 6
+  },
+  {
+    "ZipCode": 83704,
+    "rides": 6
+  },
+  {
+    "ZipCode": 11530,
+    "rides": 6
+  },
+  {
+    "ZipCode": 96145,
+    "rides": 6
+  },
+  {
+    "ZipCode": 95405,
+    "rides": 6
+  },
+  {
+    "ZipCode": 91603,
+    "rides": 6
+  },
+  {
+    "ZipCode": 85226,
+    "rides": 6
+  },
+  {
+    "ZipCode": 93960,
+    "rides": 6
+  },
+  {
+    "ZipCode": 16801,
+    "rides": 6
+  },
+  {
+    "ZipCode": 91356,
+    "rides": 6
+  },
+  {
+    "ZipCode": 98034,
+    "rides": 6
+  },
+  {
+    "ZipCode": 4102,
+    "rides": 6
+  },
+  {
+    "ZipCode": 95820,
+    "rides": 6
+  },
+  {
+    "ZipCode": 7436,
+    "rides": 6
+  },
+  {
+    "ZipCode": 7011,
+    "rides": 6
+  },
+  {
+    "ZipCode": 92886,
+    "rides": 6
+  },
+  {
+    "ZipCode": 85014,
+    "rides": 6
+  },
+  {
+    "ZipCode": 60613,
+    "rides": 6
+  },
+  {
+    "ZipCode": 31110,
+    "rides": 6
+  },
+  {
+    "ZipCode": 11561,
+    "rides": 6
+  },
+  {
+    "ZipCode": 90037,
+    "rides": 6
+  },
+  {
+    "ZipCode": 91750,
+    "rides": 6
+  },
+  {
+    "ZipCode": 87059,
+    "rides": 6
+  },
+  {
+    "ZipCode": 82072,
+    "rides": 6
+  },
+  {
+    "ZipCode": 90062,
+    "rides": 6
+  },
+  {
+    "ZipCode": 80228,
+    "rides": 6
+  },
+  {
+    "ZipCode": 92708,
+    "rides": 6
+  },
+  {
+    "ZipCode": 33304,
+    "rides": 6
+  },
+  {
+    "ZipCode": 92404,
+    "rides": 6
+  },
+  {
+    "ZipCode": 80122,
+    "rides": 6
+  },
+  {
+    "ZipCode": 4544,
+    "rides": 6
+  },
+  {
+    "ZipCode": 27705,
+    "rides": 6
+  },
+  {
+    "ZipCode": 15208,
+    "rides": 6
+  },
+  {
+    "ZipCode": 91792,
+    "rides": 6
+  },
+  {
+    "ZipCode": 88058500,
+    "rides": 6
+  },
+  {
+    "ZipCode": 29576,
+    "rides": 6
+  },
+  {
+    "ZipCode": 98042,
+    "rides": 6
+  },
+  {
+    "ZipCode": 96779,
+    "rides": 6
+  },
+  {
+    "ZipCode": 80482,
+    "rides": 6
+  },
+  {
+    "ZipCode": 98126,
+    "rides": 6
+  },
+  {
+    "ZipCode": 48104,
+    "rides": 6
+  },
+  {
+    "ZipCode": 95822,
+    "rides": 6
+  },
+  {
+    "ZipCode": 7086,
+    "rides": 6
+  },
+  {
+    "ZipCode": 58039,
+    "rides": 6
+  },
+  {
+    "ZipCode": 6830,
+    "rides": 6
+  },
+  {
+    "ZipCode": 13849,
+    "rides": 6
+  },
+  {
+    "ZipCode": 56072,
+    "rides": 6
+  },
+  {
+    "ZipCode": 80108,
+    "rides": 6
+  },
+  {
+    "ZipCode": 20904,
+    "rides": 6
+  },
+  {
+    "ZipCode": 92844,
+    "rides": 6
+  },
+  {
+    "ZipCode": 55403,
+    "rides": 6
+  },
+  {
+    "ZipCode": 73084,
+    "rides": 6
+  },
+  {
+    "ZipCode": 8000,
+    "rides": 6
+  },
+  {
+    "ZipCode": 59715,
+    "rides": 6
+  },
+  {
+    "ZipCode": 75009,
+    "rides": 6
+  },
+  {
+    "ZipCode": 27704,
+    "rides": 6
+  },
+  {
+    "ZipCode": 80504,
+    "rides": 6
+  },
+  {
+    "ZipCode": 1121,
+    "rides": 6
+  },
+  {
+    "ZipCode": 95843,
+    "rides": 6
+  },
+  {
+    "ZipCode": 94931,
+    "rides": 6
+  },
+  {
+    "ZipCode": 84129,
+    "rides": 6
+  },
+  {
+    "ZipCode": 98115,
+    "rides": 6
+  },
+  {
+    "ZipCode": 77006,
+    "rides": 6
+  },
+  {
+    "ZipCode": 78741,
+    "rides": 6
+  },
+  {
+    "ZipCode": 78730,
+    "rides": 6
+  },
+  {
+    "ZipCode": 93065,
+    "rides": 6
+  },
+  {
+    "ZipCode": 98075,
+    "rides": 6
+  },
+  {
+    "ZipCode": 45810,
+    "rides": 6
+  },
+  {
+    "ZipCode": 26501,
+    "rides": 6
+  },
+  {
+    "ZipCode": 48105,
+    "rides": 6
+  },
+  {
+    "ZipCode": 56304,
+    "rides": 6
+  },
+  {
+    "ZipCode": 55113,
+    "rides": 6
+  },
+  {
+    "ZipCode": 93662,
+    "rides": 6
+  },
+  {
+    "ZipCode": 91910,
+    "rides": 5
+  },
+  {
+    "ZipCode": 85022,
+    "rides": 5
+  },
+  {
+    "ZipCode": 32606,
+    "rides": 5
+  },
+  {
+    "ZipCode": 6033,
+    "rides": 5
+  },
+  {
+    "ZipCode": 87120,
+    "rides": 5
+  },
+  {
+    "ZipCode": 21401,
+    "rides": 5
+  },
+  {
+    "ZipCode": 80120,
+    "rides": 5
+  },
+  {
+    "ZipCode": 90026,
+    "rides": 5
+  },
+  {
+    "ZipCode": 97437,
+    "rides": 5
+  },
+  {
+    "ZipCode": 96035,
+    "rides": 5
+  },
+  {
+    "ZipCode": 1099,
+    "rides": 5
+  },
+  {
+    "ZipCode": 30067,
+    "rides": 5
+  },
+  {
+    "ZipCode": 33428,
+    "rides": 5
+  },
+  {
+    "ZipCode": 5000,
+    "rides": 5
+  },
+  {
+    "ZipCode": 91006,
+    "rides": 5
+  },
+  {
+    "ZipCode": 32266,
+    "rides": 5
+  },
+  {
+    "ZipCode": 29615,
+    "rides": 5
+  },
+  {
+    "ZipCode": 92691,
+    "rides": 5
+  },
+  {
+    "ZipCode": 72712,
+    "rides": 5
+  },
+  {
+    "ZipCode": 92692,
+    "rides": 5
+  },
+  {
+    "ZipCode": 27510,
+    "rides": 5
+  },
+  {
+    "ZipCode": 32308,
+    "rides": 5
+  },
+  {
+    "ZipCode": 29601,
+    "rides": 5
+  },
+  {
+    "ZipCode": 89183,
+    "rides": 5
+  },
+  {
+    "ZipCode": 85213,
+    "rides": 5
+  },
+  {
+    "ZipCode": 78756,
+    "rides": 5
+  },
+  {
+    "ZipCode": 89109,
+    "rides": 5
+  },
+  {
+    "ZipCode": 92069,
+    "rides": 5
+  },
+  {
+    "ZipCode": 87508,
+    "rides": 5
+  },
+  {
+    "ZipCode": 93109,
+    "rides": 5
+  },
+  {
+    "ZipCode": 3214301,
+    "rides": 5
+  },
+  {
+    "ZipCode": 79762,
+    "rides": 5
+  },
+  {
+    "ZipCode": 55044,
+    "rides": 5
+  },
+  {
+    "ZipCode": 90638,
+    "rides": 5
+  },
+  {
+    "ZipCode": 44118,
+    "rides": 5
+  },
+  {
+    "ZipCode": 36830,
+    "rides": 5
+  },
+  {
+    "ZipCode": 95156,
+    "rides": 5
+  },
+  {
+    "ZipCode": 92106,
+    "rides": 5
+  },
+  {
+    "ZipCode": 11216,
+    "rides": 5
+  },
+  {
+    "ZipCode": 97104,
+    "rides": 5
+  },
+  {
+    "ZipCode": 90402,
+    "rides": 5
+  },
+  {
+    "ZipCode": 8012,
+    "rides": 5
+  },
+  {
+    "ZipCode": 93103,
+    "rides": 5
+  },
+  {
+    "ZipCode": 90278,
+    "rides": 5
+  },
+  {
+    "ZipCode": 14623,
+    "rides": 5
+  },
+  {
+    "ZipCode": 79151,
+    "rides": 5
+  },
+  {
+    "ZipCode": 35171,
+    "rides": 5
+  },
+  {
+    "ZipCode": 1845,
+    "rides": 5
+  },
+  {
+    "ZipCode": 92647,
+    "rides": 5
+  },
+  {
+    "ZipCode": 20814,
+    "rides": 5
+  },
+  {
+    "ZipCode": 2481,
+    "rides": 5
+  },
+  {
+    "ZipCode": 75015,
+    "rides": 5
+  },
+  {
+    "ZipCode": 15853,
+    "rides": 5
+  },
+  {
+    "ZipCode": 23230,
+    "rides": 5
+  },
+  {
+    "ZipCode": 90064,
+    "rides": 5
+  },
+  {
+    "ZipCode": 90039,
+    "rides": 5
+  },
+  {
+    "ZipCode": 906003,
+    "rides": 5
+  },
+  {
+    "ZipCode": 93711,
+    "rides": 5
+  },
+  {
+    "ZipCode": 5602,
+    "rides": 5
+  },
+  {
+    "ZipCode": 98102,
+    "rides": 5
+  },
+  {
+    "ZipCode": 19518,
+    "rides": 5
+  },
+  {
+    "ZipCode": 94101,
+    "rides": 5
+  },
+  {
+    "ZipCode": 93905,
+    "rides": 5
+  },
+  {
+    "ZipCode": 55416,
+    "rides": 5
+  },
+  {
+    "ZipCode": 80205,
+    "rides": 5
+  },
+  {
+    "ZipCode": 71201,
+    "rides": 5
+  },
+  {
+    "ZipCode": 1147,
+    "rides": 5
+  },
+  {
+    "ZipCode": 98208,
+    "rides": 5
+  },
+  {
+    "ZipCode": 92683,
+    "rides": 5
+  },
+  {
+    "ZipCode": 95204,
+    "rides": 5
+  },
+  {
+    "ZipCode": 83651,
+    "rides": 5
+  },
+  {
+    "ZipCode": 11209,
+    "rides": 5
+  },
+  {
+    "ZipCode": 27040,
+    "rides": 5
+  },
+  {
+    "ZipCode": 34957,
+    "rides": 5
+  },
+  {
+    "ZipCode": 98715,
+    "rides": 5
+  },
+  {
+    "ZipCode": 98028,
+    "rides": 5
+  },
+  {
+    "ZipCode": 30039,
+    "rides": 5
+  },
+  {
+    "ZipCode": 93955,
+    "rides": 5
+  },
+  {
+    "ZipCode": 75204,
+    "rides": 5
+  },
+  {
+    "ZipCode": 32127,
+    "rides": 5
+  },
+  {
+    "ZipCode": 76201,
+    "rides": 5
+  },
+  {
+    "ZipCode": 97217,
+    "rides": 5
+  },
+  {
+    "ZipCode": 30315,
+    "rides": 5
+  },
+  {
+    "ZipCode": 29910,
+    "rides": 5
+  },
+  {
+    "ZipCode": 90710,
+    "rides": 5
+  },
+  {
+    "ZipCode": 97070800,
+    "rides": 5
+  },
+  {
+    "ZipCode": 33180,
+    "rides": 5
+  },
+  {
+    "ZipCode": 11228,
+    "rides": 5
+  },
+  {
+    "ZipCode": 46321,
+    "rides": 5
+  },
+  {
+    "ZipCode": 10033,
+    "rides": 5
+  },
+  {
+    "ZipCode": 93455,
+    "rides": 5
+  },
+  {
+    "ZipCode": 23510,
+    "rides": 5
+  },
+  {
+    "ZipCode": 380,
+    "rides": 5
+  },
+  {
+    "ZipCode": 80424,
+    "rides": 5
+  },
+  {
+    "ZipCode": 31200,
+    "rides": 5
+  },
+  {
+    "ZipCode": 91438,
+    "rides": 5
+  },
+  {
+    "ZipCode": 92139,
+    "rides": 5
+  },
+  {
+    "ZipCode": 20906,
+    "rides": 5
+  },
+  {
+    "ZipCode": 33071,
+    "rides": 5
+  },
+  {
+    "ZipCode": 5033,
+    "rides": 5
+  },
+  {
+    "ZipCode": 30218,
+    "rides": 5
+  },
+  {
+    "ZipCode": 91209,
+    "rides": 5
+  },
+  {
+    "ZipCode": 75205,
+    "rides": 5
+  },
+  {
+    "ZipCode": 10536,
+    "rides": 5
+  },
+  {
+    "ZipCode": 5511,
+    "rides": 5
+  },
+  {
+    "ZipCode": 11560,
+    "rides": 5
+  },
+  {
+    "ZipCode": 95521,
+    "rides": 5
+  },
+  {
+    "ZipCode": 1944,
+    "rides": 5
+  },
+  {
+    "ZipCode": 2724,
+    "rides": 5
+  },
+  {
+    "ZipCode": 45226,
+    "rides": 5
+  },
+  {
+    "ZipCode": 20011,
+    "rides": 5
+  },
+  {
+    "ZipCode": 53703,
+    "rides": 5
+  },
+  {
+    "ZipCode": 91776,
+    "rides": 5
+  },
+  {
+    "ZipCode": 8807,
+    "rides": 5
+  },
+  {
+    "ZipCode": 3030,
+    "rides": 5
+  },
+  {
+    "ZipCode": 7551,
+    "rides": 5
+  },
+  {
+    "ZipCode": 77081,
+    "rides": 5
+  },
+  {
+    "ZipCode": 95076,
+    "rides": 5
+  },
+  {
+    "ZipCode": 78702,
+    "rides": 5
+  },
+  {
+    "ZipCode": 92270,
+    "rides": 5
+  },
+  {
+    "ZipCode": 75012,
+    "rides": 5
+  },
+  {
+    "ZipCode": 95688,
+    "rides": 5
+  },
+  {
+    "ZipCode": 2458,
+    "rides": 5
+  },
+  {
+    "ZipCode": 20015,
+    "rides": 5
+  },
+  {
+    "ZipCode": 85008,
+    "rides": 5
+  },
+  {
+    "ZipCode": 84103,
+    "rides": 5
+  },
+  {
+    "ZipCode": 80005,
+    "rides": 5
+  },
+  {
+    "ZipCode": 7920,
+    "rides": 5
+  },
+  {
+    "ZipCode": 89117,
+    "rides": 5
+  },
+  {
+    "ZipCode": 55441,
+    "rides": 5
+  },
+  {
+    "ZipCode": 15232,
+    "rides": 5
+  },
+  {
+    "ZipCode": 80204,
+    "rides": 5
+  },
+  {
+    "ZipCode": 58102,
+    "rides": 5
+  },
+  {
+    "ZipCode": 63301,
+    "rides": 5
+  },
+  {
+    "ZipCode": 6760813,
+    "rides": 5
+  },
+  {
+    "ZipCode": 97401,
+    "rides": 5
+  },
+  {
+    "ZipCode": 78759,
+    "rides": 5
+  },
+  {
+    "ZipCode": 60202,
+    "rides": 5
+  },
+  {
+    "ZipCode": 78701,
+    "rides": 5
+  },
+  {
+    "ZipCode": 55109,
+    "rides": 5
+  },
+  {
+    "ZipCode": 9494,
+    "rides": 5
+  },
+  {
+    "ZipCode": 54601,
+    "rides": 5
+  },
+  {
+    "ZipCode": 77008,
+    "rides": 5
+  },
+  {
+    "ZipCode": 77550,
+    "rides": 5
+  },
+  {
+    "ZipCode": 22801,
+    "rides": 5
+  },
+  {
+    "ZipCode": 15233,
+    "rides": 5
+  },
+  {
+    "ZipCode": 15218,
+    "rides": 5
+  },
+  {
+    "ZipCode": 97220,
+    "rides": 5
+  },
+  {
+    "ZipCode": 6020,
+    "rides": 5
+  },
+  {
+    "ZipCode": 55804,
+    "rides": 5
+  },
+  {
+    "ZipCode": 60030,
+    "rides": 5
+  },
+  {
+    "ZipCode": 49503,
+    "rides": 5
+  },
+  {
+    "ZipCode": 55116,
+    "rides": 5
+  },
+  {
+    "ZipCode": 91405,
+    "rides": 5
+  },
+  {
+    "ZipCode": 55436,
+    "rides": 5
+  },
+  {
+    "ZipCode": 43402,
+    "rides": 5
+  },
+  {
+    "ZipCode": 30340,
+    "rides": 5
+  },
+  {
+    "ZipCode": 43219,
+    "rides": 5
+  },
+  {
+    "ZipCode": 94580,
+    "rides": 5
+  },
+  {
+    "ZipCode": 50216,
+    "rides": 5
+  },
+  {
+    "ZipCode": 78744,
+    "rides": 5
+  },
+  {
+    "ZipCode": 8904,
+    "rides": 5
+  },
+  {
+    "ZipCode": 20016,
+    "rides": 5
+  },
+  {
+    "ZipCode": 63119,
+    "rides": 5
+  },
+  {
+    "ZipCode": 1002,
+    "rides": 5
+  },
+  {
+    "ZipCode": 2420,
+    "rides": 5
+  },
+  {
+    "ZipCode": 4635080,
+    "rides": 5
+  },
+  {
+    "ZipCode": 93110,
+    "rides": 5
+  },
+  {
+    "ZipCode": 75074,
+    "rides": 5
+  },
+  {
+    "ZipCode": 94574,
+    "rides": 5
+  },
+  {
+    "ZipCode": 21214,
+    "rides": 5
+  },
+  {
+    "ZipCode": 21231,
+    "rides": 5
+  },
+  {
+    "ZipCode": 41048,
+    "rides": 5
+  },
+  {
+    "ZipCode": 90010,
+    "rides": 5
+  },
+  {
+    "ZipCode": 95519,
+    "rides": 4
+  },
+  {
+    "ZipCode": 84606,
+    "rides": 4
+  },
+  {
+    "ZipCode": 55443,
+    "rides": 4
+  },
+  {
+    "ZipCode": 91767,
+    "rides": 4
+  },
+  {
+    "ZipCode": 93636,
+    "rides": 4
+  },
+  {
+    "ZipCode": 11106,
+    "rides": 4
+  },
+  {
+    "ZipCode": 23462,
+    "rides": 4
+  },
+  {
+    "ZipCode": 7054,
+    "rides": 4
+  },
+  {
+    "ZipCode": 21117,
+    "rides": 4
+  },
+  {
+    "ZipCode": 2129,
+    "rides": 4
+  },
+  {
+    "ZipCode": 28401,
+    "rides": 4
+  },
+  {
+    "ZipCode": 85254,
+    "rides": 4
+  },
+  {
+    "ZipCode": 940,
+    "rides": 4
+  },
+  {
+    "ZipCode": 60486,
+    "rides": 4
+  },
+  {
+    "ZipCode": 7652,
+    "rides": 4
+  },
+  {
+    "ZipCode": 90029,
+    "rides": 4
+  },
+  {
+    "ZipCode": 94302,
+    "rides": 4
+  },
+  {
+    "ZipCode": 6831,
+    "rides": 4
+  },
+  {
+    "ZipCode": 60193,
+    "rides": 4
+  },
+  {
+    "ZipCode": 64114,
+    "rides": 4
+  },
+  {
+    "ZipCode": 12037,
+    "rides": 4
+  },
+  {
+    "ZipCode": 55305,
+    "rides": 4
+  },
+  {
+    "ZipCode": 45208,
+    "rides": 4
+  },
+  {
+    "ZipCode": 52416,
+    "rides": 4
+  },
+  {
+    "ZipCode": 30350,
+    "rides": 4
+  },
+  {
+    "ZipCode": 11427,
+    "rides": 4
+  },
+  {
+    "ZipCode": 92627,
+    "rides": 4
+  },
+  {
+    "ZipCode": 15238,
+    "rides": 4
+  },
+  {
+    "ZipCode": 13007,
+    "rides": 4
+  },
+  {
+    "ZipCode": 50613,
+    "rides": 4
+  },
+  {
+    "ZipCode": 33324,
+    "rides": 4
+  },
+  {
+    "ZipCode": 98225,
+    "rides": 4
+  },
+  {
+    "ZipCode": 92865,
+    "rides": 4
+  },
+  {
+    "ZipCode": 8,
+    "rides": 4
+  },
+  {
+    "ZipCode": 89450,
+    "rides": 4
+  },
+  {
+    "ZipCode": 95492,
+    "rides": 4
+  },
+  {
+    "ZipCode": 21060,
+    "rides": 4
+  },
+  {
+    "ZipCode": 35137,
+    "rides": 4
+  },
+  {
+    "ZipCode": 66202,
+    "rides": 4
+  },
+  {
+    "ZipCode": 19063,
+    "rides": 4
+  },
+  {
+    "ZipCode": 76123,
+    "rides": 4
+  },
+  {
+    "ZipCode": 91364,
+    "rides": 4
+  },
+  {
+    "ZipCode": 110100,
+    "rides": 4
+  },
+  {
+    "ZipCode": 94973,
+    "rides": 4
+  },
+  {
+    "ZipCode": 97068,
+    "rides": 4
+  },
+  {
+    "ZipCode": 77003,
+    "rides": 4
+  },
+  {
+    "ZipCode": 90650,
+    "rides": 4
+  },
+  {
+    "ZipCode": 201200,
+    "rides": 4
+  },
+  {
+    "ZipCode": 33015,
+    "rides": 4
+  },
+  {
+    "ZipCode": 85306,
+    "rides": 4
+  },
+  {
+    "ZipCode": 65520,
+    "rides": 4
+  },
+  {
+    "ZipCode": 22102,
+    "rides": 4
+  },
+  {
+    "ZipCode": 97115,
+    "rides": 4
+  },
+  {
+    "ZipCode": 65806,
+    "rides": 4
+  },
+  {
+    "ZipCode": 6468,
+    "rides": 4
+  },
+  {
+    "ZipCode": 11714,
+    "rides": 4
+  },
+  {
+    "ZipCode": 45410,
+    "rides": 4
+  },
+  {
+    "ZipCode": 94954,
+    "rides": 4
+  },
+  {
+    "ZipCode": 60133,
+    "rides": 4
+  },
+  {
+    "ZipCode": 84790,
+    "rides": 4
+  },
+  {
+    "ZipCode": 3110,
+    "rides": 4
+  },
+  {
+    "ZipCode": 80206,
+    "rides": 4
+  },
+  {
+    "ZipCode": 91106,
+    "rides": 4
+  },
+  {
+    "ZipCode": 35037,
+    "rides": 4
+  },
+  {
+    "ZipCode": 6437,
+    "rides": 4
+  },
+  {
+    "ZipCode": 48864,
+    "rides": 4
+  },
+  {
+    "ZipCode": 121353,
+    "rides": 4
+  },
+  {
+    "ZipCode": 92354,
+    "rides": 4
+  },
+  {
+    "ZipCode": 89147,
+    "rides": 4
+  },
+  {
+    "ZipCode": 93311,
+    "rides": 4
+  },
+  {
+    "ZipCode": 1106,
+    "rides": 4
+  },
+  {
+    "ZipCode": 94417,
+    "rides": 4
+  },
+  {
+    "ZipCode": 73072,
+    "rides": 4
+  },
+  {
+    "ZipCode": 55317,
+    "rides": 4
+  },
+  {
+    "ZipCode": 89507,
+    "rides": 4
+  },
+  {
+    "ZipCode": 27103,
+    "rides": 4
+  },
+  {
+    "ZipCode": 92617,
+    "rides": 4
+  },
+  {
+    "ZipCode": 56377,
+    "rides": 4
+  },
+  {
+    "ZipCode": 39402,
+    "rides": 4
+  },
+  {
+    "ZipCode": 95391,
+    "rides": 4
+  },
+  {
+    "ZipCode": 12245,
+    "rides": 4
+  },
+  {
+    "ZipCode": 111141,
+    "rides": 4
+  },
+  {
+    "ZipCode": 48901,
+    "rides": 4
+  },
+  {
+    "ZipCode": 60130,
+    "rides": 4
+  },
+  {
+    "ZipCode": 87501,
+    "rides": 4
+  },
+  {
+    "ZipCode": 98406,
+    "rides": 4
+  },
+  {
+    "ZipCode": 97210,
+    "rides": 4
+  },
+  {
+    "ZipCode": 95610,
+    "rides": 4
+  },
+  {
+    "ZipCode": 8402,
+    "rides": 4
+  },
+  {
+    "ZipCode": 33070,
+    "rides": 4
+  },
+  {
+    "ZipCode": 94508,
+    "rides": 4
+  },
+  {
+    "ZipCode": 91740,
+    "rides": 4
+  },
+  {
+    "ZipCode": 30092,
+    "rides": 4
+  },
+  {
+    "ZipCode": 5959,
+    "rides": 4
+  },
+  {
+    "ZipCode": 61100,
+    "rides": 4
+  },
+  {
+    "ZipCode": 95655,
+    "rides": 4
+  },
+  {
+    "ZipCode": 95660,
+    "rides": 4
+  },
+  {
+    "ZipCode": 63028,
+    "rides": 4
+  },
+  {
+    "ZipCode": 55666,
+    "rides": 4
+  },
+  {
+    "ZipCode": 75011,
+    "rides": 4
+  },
+  {
+    "ZipCode": 11598,
+    "rides": 4
+  },
+  {
+    "ZipCode": 19806,
+    "rides": 4
+  },
+  {
+    "ZipCode": 90013,
+    "rides": 4
+  },
+  {
+    "ZipCode": 84124,
+    "rides": 4
+  },
+  {
+    "ZipCode": 2191,
+    "rides": 4
+  },
+  {
+    "ZipCode": 31405,
+    "rides": 4
+  },
+  {
+    "ZipCode": 92104,
+    "rides": 4
+  },
+  {
+    "ZipCode": 7083,
+    "rides": 4
+  },
+  {
+    "ZipCode": 84070,
+    "rides": 4
+  },
+  {
+    "ZipCode": 11741,
+    "rides": 4
+  },
+  {
+    "ZipCode": 22041,
+    "rides": 4
+  },
+  {
+    "ZipCode": 30542,
+    "rides": 4
+  },
+  {
+    "ZipCode": 44864,
+    "rides": 4
+  },
+  {
+    "ZipCode": 48236,
+    "rides": 4
+  },
+  {
+    "ZipCode": 76016,
+    "rides": 4
+  },
+  {
+    "ZipCode": 19428,
+    "rides": 4
+  },
+  {
+    "ZipCode": 19124,
+    "rides": 4
+  },
+  {
+    "ZipCode": 90,
+    "rides": 4
+  },
+  {
+    "ZipCode": 100004,
+    "rides": 4
+  },
+  {
+    "ZipCode": 7932,
+    "rides": 4
+  },
+  {
+    "ZipCode": 59601,
+    "rides": 4
+  },
+  {
+    "ZipCode": 3246,
+    "rides": 4
+  },
+  {
+    "ZipCode": 3591106,
+    "rides": 4
+  },
+  {
+    "ZipCode": 45409,
+    "rides": 4
+  },
+  {
+    "ZipCode": 84047,
+    "rides": 4
+  },
+  {
+    "ZipCode": 30041,
+    "rides": 4
+  },
+  {
+    "ZipCode": 27519,
+    "rides": 4
+  },
+  {
+    "ZipCode": 748,
+    "rides": 4
+  },
+  {
+    "ZipCode": 90621,
+    "rides": 4
+  },
+  {
+    "ZipCode": 94100,
+    "rides": 4
+  },
+  {
+    "ZipCode": 1184,
+    "rides": 4
+  },
+  {
+    "ZipCode": 90108,
+    "rides": 4
+  },
+  {
+    "ZipCode": 20006,
+    "rides": 4
+  },
+  {
+    "ZipCode": 8633,
+    "rides": 4
+  },
+  {
+    "ZipCode": 90712,
+    "rides": 4
+  },
+  {
+    "ZipCode": 27605,
+    "rides": 4
+  },
+  {
+    "ZipCode": 89074,
+    "rides": 4
+  },
+  {
+    "ZipCode": 10705,
+    "rides": 4
+  },
+  {
+    "ZipCode": 11358,
+    "rides": 4
+  },
+  {
+    "ZipCode": 38125,
+    "rides": 4
+  },
+  {
+    "ZipCode": 3141,
+    "rides": 4
+  },
+  {
+    "ZipCode": 1084,
+    "rides": 4
+  },
+  {
+    "ZipCode": 94505,
+    "rides": 4
+  },
+  {
+    "ZipCode": 19129,
+    "rides": 4
+  },
+  {
+    "ZipCode": 58103,
+    "rides": 4
+  },
+  {
+    "ZipCode": 2223,
+    "rides": 4
+  },
+  {
+    "ZipCode": 32746,
+    "rides": 4
+  },
+  {
+    "ZipCode": 34110,
+    "rides": 4
+  },
+  {
+    "ZipCode": 32207,
+    "rides": 4
+  },
+  {
+    "ZipCode": 20740,
+    "rides": 4
+  },
+  {
+    "ZipCode": 32114,
+    "rides": 4
+  },
+  {
+    "ZipCode": 91126,
+    "rides": 4
+  },
+  {
+    "ZipCode": 92037,
+    "rides": 4
+  },
+  {
+    "ZipCode": 33143,
+    "rides": 4
+  },
+  {
+    "ZipCode": 10031,
+    "rides": 4
+  },
+  {
+    "ZipCode": 77019,
+    "rides": 4
+  },
+  {
+    "ZipCode": 78726,
+    "rides": 4
+  },
+  {
+    "ZipCode": 84341,
+    "rides": 4
+  },
+  {
+    "ZipCode": 95105,
+    "rides": 4
+  },
+  {
+    "ZipCode": 63368,
+    "rides": 4
+  },
+  {
+    "ZipCode": 1460,
+    "rides": 4
+  },
+  {
+    "ZipCode": 91202,
+    "rides": 4
+  },
+  {
+    "ZipCode": 11755,
+    "rides": 4
+  },
+  {
+    "ZipCode": 8550,
+    "rides": 4
+  },
+  {
+    "ZipCode": 15542,
+    "rides": 4
+  },
+  {
+    "ZipCode": 19446,
+    "rides": 4
+  },
+  {
+    "ZipCode": 79925,
+    "rides": 4
+  },
+  {
+    "ZipCode": 27455,
+    "rides": 4
+  },
+  {
+    "ZipCode": 95033,
+    "rides": 4
+  },
+  {
+    "ZipCode": 94224,
+    "rides": 4
+  },
+  {
+    "ZipCode": 1183,
+    "rides": 4
+  },
+  {
+    "ZipCode": 1923,
+    "rides": 4
+  },
+  {
+    "ZipCode": 2132,
+    "rides": 4
+  },
+  {
+    "ZipCode": 5009,
+    "rides": 4
+  },
+  {
+    "ZipCode": 37402,
+    "rides": 4
+  },
+  {
+    "ZipCode": 32701,
+    "rides": 4
+  },
+  {
+    "ZipCode": 2141,
+    "rides": 4
+  },
+  {
+    "ZipCode": 11374,
+    "rides": 4
+  },
+  {
+    "ZipCode": 59718,
+    "rides": 4
+  },
+  {
+    "ZipCode": 90020,
+    "rides": 4
+  },
+  {
+    "ZipCode": 91354,
+    "rides": 4
+  },
+  {
+    "ZipCode": 2445,
+    "rides": 4
+  },
+  {
+    "ZipCode": 95403,
+    "rides": 4
+  },
+  {
+    "ZipCode": 6014,
+    "rides": 4
+  },
+  {
+    "ZipCode": 92123,
+    "rides": 4
+  },
+  {
+    "ZipCode": 77063,
+    "rides": 4
+  },
+  {
+    "ZipCode": 80525,
+    "rides": 4
+  },
+  {
+    "ZipCode": 58038,
+    "rides": 4
+  },
+  {
+    "ZipCode": 89014,
+    "rides": 4
+  },
+  {
+    "ZipCode": 27101,
+    "rides": 4
+  },
+  {
+    "ZipCode": 30606,
+    "rides": 4
+  },
+  {
+    "ZipCode": 29445,
+    "rides": 4
+  },
+  {
+    "ZipCode": 86305,
+    "rides": 4
+  },
+  {
+    "ZipCode": 97203,
+    "rides": 4
+  },
+  {
+    "ZipCode": 32578,
+    "rides": 4
+  },
+  {
+    "ZipCode": 91748,
+    "rides": 4
+  },
+  {
+    "ZipCode": 9061,
+    "rides": 4
+  },
+  {
+    "ZipCode": 80906,
+    "rides": 4
+  },
+  {
+    "ZipCode": 10520,
+    "rides": 4
+  },
+  {
+    "ZipCode": 80014,
+    "rides": 4
+  },
+  {
+    "ZipCode": 14230,
+    "rides": 4
+  },
+  {
+    "ZipCode": 10567,
+    "rides": 4
+  },
+  {
+    "ZipCode": 77815,
+    "rides": 4
+  },
+  {
+    "ZipCode": 1701,
+    "rides": 4
+  },
+  {
+    "ZipCode": 45213,
+    "rides": 4
+  },
+  {
+    "ZipCode": 96162,
+    "rides": 4
+  },
+  {
+    "ZipCode": 6410,
+    "rides": 4
+  },
+  {
+    "ZipCode": 85258,
+    "rides": 4
+  },
+  {
+    "ZipCode": 89129,
+    "rides": 4
+  },
+  {
+    "ZipCode": 95926,
+    "rides": 4
+  },
+  {
+    "ZipCode": 92057,
+    "rides": 4
+  },
+  {
+    "ZipCode": 2476,
+    "rides": 4
+  },
+  {
+    "ZipCode": 85338,
+    "rides": 4
+  },
+  {
+    "ZipCode": 11791,
+    "rides": 4
+  },
+  {
+    "ZipCode": 91601,
+    "rides": 4
+  },
+  {
+    "ZipCode": 95330,
+    "rides": 4
+  },
+  {
+    "ZipCode": 9401,
+    "rides": 4
+  },
+  {
+    "ZipCode": 95762,
+    "rides": 4
+  },
+  {
+    "ZipCode": 15216,
+    "rides": 4
+  },
+  {
+    "ZipCode": 575572,
+    "rides": 4
+  },
+  {
+    "ZipCode": 953770,
+    "rides": 4
+  },
+  {
+    "ZipCode": 95441,
+    "rides": 4
+  },
+  {
+    "ZipCode": 40764,
+    "rides": 4
+  },
+  {
+    "ZipCode": 91710,
+    "rides": 4
+  },
+  {
+    "ZipCode": 60640,
+    "rides": 4
+  },
+  {
+    "ZipCode": 60516,
+    "rides": 4
+  },
+  {
+    "ZipCode": 53202,
+    "rides": 4
+  },
+  {
+    "ZipCode": 66213,
+    "rides": 4
+  },
+  {
+    "ZipCode": 91942,
+    "rides": 4
+  },
+  {
+    "ZipCode": 21702,
+    "rides": 4
+  },
+  {
+    "ZipCode": 95621,
+    "rides": 4
+  },
+  {
+    "ZipCode": 7076,
+    "rides": 4
+  },
+  {
+    "ZipCode": 93015,
+    "rides": 4
+  },
+  {
+    "ZipCode": 91744,
+    "rides": 4
+  },
+  {
+    "ZipCode": 8221,
+    "rides": 4
+  },
+  {
+    "ZipCode": 85086,
+    "rides": 4
+  },
+  {
+    "ZipCode": 84601,
+    "rides": 4
+  },
+  {
+    "ZipCode": 5360001,
+    "rides": 4
+  },
+  {
+    "ZipCode": 92506,
+    "rides": 4
+  },
+  {
+    "ZipCode": 123,
+    "rides": 4
+  },
+  {
+    "ZipCode": 28041,
+    "rides": 4
+  },
+  {
+    "ZipCode": 92026,
+    "rides": 4
+  },
+  {
+    "ZipCode": 95006,
+    "rides": 4
+  },
+  {
+    "ZipCode": 2232,
+    "rides": 4
+  },
+  {
+    "ZipCode": 80214,
+    "rides": 4
+  },
+  {
+    "ZipCode": 2128,
+    "rides": 4
+  },
+  {
+    "ZipCode": 9513,
+    "rides": 4
+  },
+  {
+    "ZipCode": 90804,
+    "rides": 4
+  },
+  {
+    "ZipCode": 95618,
+    "rides": 4
+  },
+  {
+    "ZipCode": 1800,
+    "rides": 4
+  },
+  {
+    "ZipCode": 97219,
+    "rides": 4
+  },
+  {
+    "ZipCode": 89434,
+    "rides": 4
+  },
+  {
+    "ZipCode": 8820,
+    "rides": 4
+  },
+  {
+    "ZipCode": 8038,
+    "rides": 4
+  },
+  {
+    "ZipCode": 1055,
+    "rides": 4
+  },
+  {
+    "ZipCode": 7869,
+    "rides": 4
+  },
+  {
+    "ZipCode": 91000,
+    "rides": 4
+  },
+  {
+    "ZipCode": 60641,
+    "rides": 4
+  },
+  {
+    "ZipCode": 90065,
+    "rides": 4
+  },
+  {
+    "ZipCode": 40023,
+    "rides": 4
+  },
+  {
+    "ZipCode": 8400,
+    "rides": 4
+  },
+  {
+    "ZipCode": 82718,
+    "rides": 4
+  },
+  {
+    "ZipCode": 1945,
+    "rides": 4
+  },
+  {
+    "ZipCode": 92011,
+    "rides": 4
+  },
+  {
+    "ZipCode": 77382,
+    "rides": 4
+  },
+  {
+    "ZipCode": 1803,
+    "rides": 4
+  },
+  {
+    "ZipCode": 23061,
+    "rides": 4
+  },
+  {
+    "ZipCode": 43062,
+    "rides": 4
+  },
+  {
+    "ZipCode": 44136,
+    "rides": 4
+  },
+  {
+    "ZipCode": 93422,
+    "rides": 4
+  },
+  {
+    "ZipCode": 60189,
+    "rides": 4
+  },
+  {
+    "ZipCode": 51600,
+    "rides": 4
+  },
+  {
+    "ZipCode": 80134,
+    "rides": 4
+  },
+  {
+    "ZipCode": 83716,
+    "rides": 4
+  },
+  {
+    "ZipCode": 91103,
+    "rides": 4
+  },
+  {
+    "ZipCode": 75602,
+    "rides": 3
+  },
+  {
+    "ZipCode": 93561,
+    "rides": 3
+  },
+  {
+    "ZipCode": 94309,
+    "rides": 3
+  },
+  {
+    "ZipCode": 91326,
+    "rides": 3
+  },
+  {
+    "ZipCode": 95834,
+    "rides": 3
+  },
+  {
+    "ZipCode": 27560,
+    "rides": 3
+  },
+  {
+    "ZipCode": 9835,
+    "rides": 3
+  },
+  {
+    "ZipCode": 1425,
+    "rides": 3
+  },
+  {
+    "ZipCode": 67156,
+    "rides": 3
+  },
+  {
+    "ZipCode": 10512,
+    "rides": 3
+  },
+  {
+    "ZipCode": 55904,
+    "rides": 3
+  },
+  {
+    "ZipCode": 98057,
+    "rides": 3
+  },
+  {
+    "ZipCode": 85032,
+    "rides": 3
+  },
+  {
+    "ZipCode": 33703,
+    "rides": 3
+  },
+  {
+    "ZipCode": 8876,
+    "rides": 3
+  },
+  {
+    "ZipCode": 20024,
+    "rides": 3
+  },
+  {
+    "ZipCode": 21228,
+    "rides": 3
+  },
+  {
+    "ZipCode": 91301,
+    "rides": 3
+  },
+  {
+    "ZipCode": 54308,
+    "rides": 3
+  },
+  {
+    "ZipCode": 23223,
+    "rides": 3
+  },
+  {
+    "ZipCode": 7006,
+    "rides": 3
+  },
+  {
+    "ZipCode": 91604,
+    "rides": 3
+  },
+  {
+    "ZipCode": 33782,
+    "rides": 3
+  },
+  {
+    "ZipCode": 33162,
+    "rides": 3
+  },
+  {
+    "ZipCode": 95357,
+    "rides": 3
+  },
+  {
+    "ZipCode": 8527,
+    "rides": 3
+  },
+  {
+    "ZipCode": 60564,
+    "rides": 3
+  },
+  {
+    "ZipCode": 44690,
+    "rides": 3
+  },
+  {
+    "ZipCode": 95207,
+    "rides": 3
+  },
+  {
+    "ZipCode": 77027,
+    "rides": 3
+  },
+  {
+    "ZipCode": 77002,
+    "rides": 3
+  },
+  {
+    "ZipCode": 50678,
+    "rides": 3
+  },
+  {
+    "ZipCode": 64630,
+    "rides": 3
+  },
+  {
+    "ZipCode": 11355,
+    "rides": 3
+  },
+  {
+    "ZipCode": 21209,
+    "rides": 3
+  },
+  {
+    "ZipCode": 16802,
+    "rides": 3
+  },
+  {
+    "ZipCode": 19102,
+    "rides": 3
+  },
+  {
+    "ZipCode": 1054,
+    "rides": 3
+  },
+  {
+    "ZipCode": 85250,
+    "rides": 3
+  },
+  {
+    "ZipCode": 15237,
+    "rides": 3
+  },
+  {
+    "ZipCode": 48642,
+    "rides": 3
+  },
+  {
+    "ZipCode": 89001,
+    "rides": 3
+  },
+  {
+    "ZipCode": 92111,
+    "rides": 3
+  },
+  {
+    "ZipCode": 90504,
+    "rides": 3
+  },
+  {
+    "ZipCode": 90014,
+    "rides": 3
+  },
+  {
+    "ZipCode": 93063,
+    "rides": 3
+  },
+  {
+    "ZipCode": 77389,
+    "rides": 3
+  },
+  {
+    "ZipCode": 97306,
+    "rides": 3
+  },
+  {
+    "ZipCode": 63146,
+    "rides": 3
+  },
+  {
+    "ZipCode": 57186,
+    "rides": 3
+  },
+  {
+    "ZipCode": 46225,
+    "rides": 3
+  },
+  {
+    "ZipCode": 6840,
+    "rides": 3
+  },
+  {
+    "ZipCode": 90016,
+    "rides": 3
+  },
+  {
+    "ZipCode": 90058,
+    "rides": 3
+  },
+  {
+    "ZipCode": 32817,
+    "rides": 3
+  },
+  {
+    "ZipCode": 60445,
+    "rides": 3
+  },
+  {
+    "ZipCode": 1910011,
+    "rides": 3
+  },
+  {
+    "ZipCode": 80907,
+    "rides": 3
+  },
+  {
+    "ZipCode": 11214,
+    "rides": 3
+  },
+  {
+    "ZipCode": 1004,
+    "rides": 3
+  },
+  {
+    "ZipCode": 84120,
+    "rides": 3
+  },
+  {
+    "ZipCode": 12354,
+    "rides": 3
+  },
+  {
+    "ZipCode": 23219,
+    "rides": 3
+  },
+  {
+    "ZipCode": 8854,
+    "rides": 3
+  },
+  {
+    "ZipCode": 92870,
+    "rides": 3
+  },
+  {
+    "ZipCode": 95161,
+    "rides": 3
+  },
+  {
+    "ZipCode": 77004,
+    "rides": 3
+  },
+  {
+    "ZipCode": 79902,
+    "rides": 3
+  },
+  {
+    "ZipCode": 53226,
+    "rides": 3
+  },
+  {
+    "ZipCode": 6812,
+    "rides": 3
+  },
+  {
+    "ZipCode": 97072,
+    "rides": 3
+  },
+  {
+    "ZipCode": 1010,
+    "rides": 3
+  },
+  {
+    "ZipCode": 20170,
+    "rides": 3
+  },
+  {
+    "ZipCode": 90034,
+    "rides": 3
+  },
+  {
+    "ZipCode": 2871,
+    "rides": 3
+  },
+  {
+    "ZipCode": 84043,
+    "rides": 3
+  },
+  {
+    "ZipCode": 92782,
+    "rides": 3
+  },
+  {
+    "ZipCode": 21131,
+    "rides": 3
+  },
+  {
+    "ZipCode": 21210,
+    "rides": 3
+  },
+  {
+    "ZipCode": 300,
+    "rides": 3
+  },
+  {
+    "ZipCode": 22152,
+    "rides": 3
+  },
+  {
+    "ZipCode": 11230,
+    "rides": 3
+  },
+  {
+    "ZipCode": 19001,
+    "rides": 3
+  },
+  {
+    "ZipCode": 46239,
+    "rides": 3
+  },
+  {
+    "ZipCode": 98110,
+    "rides": 3
+  },
+  {
+    "ZipCode": 75068,
+    "rides": 3
+  },
+  {
+    "ZipCode": 86001,
+    "rides": 3
+  },
+  {
+    "ZipCode": 80524,
+    "rides": 3
+  },
+  {
+    "ZipCode": 43201,
+    "rides": 3
+  },
+  {
+    "ZipCode": 67203,
+    "rides": 3
+  },
+  {
+    "ZipCode": 32164,
+    "rides": 3
+  },
+  {
+    "ZipCode": 55102,
+    "rides": 3
+  },
+  {
+    "ZipCode": 20152,
+    "rides": 3
+  },
+  {
+    "ZipCode": 12206,
+    "rides": 3
+  },
+  {
+    "ZipCode": 98321,
+    "rides": 3
+  },
+  {
+    "ZipCode": 93108,
+    "rides": 3
+  },
+  {
+    "ZipCode": 2009,
+    "rides": 3
+  },
+  {
+    "ZipCode": 1424,
+    "rides": 3
+  },
+  {
+    "ZipCode": 95864,
+    "rides": 3
+  },
+  {
+    "ZipCode": 84111,
+    "rides": 3
+  },
+  {
+    "ZipCode": 84003,
+    "rides": 3
+  },
+  {
+    "ZipCode": 95682,
+    "rides": 3
+  },
+  {
+    "ZipCode": 2631,
+    "rides": 3
+  },
+  {
+    "ZipCode": 6008,
+    "rides": 3
+  },
+  {
+    "ZipCode": 6907,
+    "rides": 3
+  },
+  {
+    "ZipCode": 11232,
+    "rides": 3
+  },
+  {
+    "ZipCode": 80113,
+    "rides": 3
+  },
+  {
+    "ZipCode": 97229,
+    "rides": 3
+  },
+  {
+    "ZipCode": 83706,
+    "rides": 3
+  },
+  {
+    "ZipCode": 45040,
+    "rides": 3
+  },
+  {
+    "ZipCode": 20154,
+    "rides": 3
+  },
+  {
+    "ZipCode": 6855,
+    "rides": 3
+  },
+  {
+    "ZipCode": 46901,
+    "rides": 3
+  },
+  {
+    "ZipCode": 94407,
+    "rides": 3
+  },
+  {
+    "ZipCode": 20166,
+    "rides": 3
+  },
+  {
+    "ZipCode": 92008,
+    "rides": 3
+  },
+  {
+    "ZipCode": 7605,
+    "rides": 3
+  },
+  {
+    "ZipCode": 78209,
+    "rides": 3
+  },
+  {
+    "ZipCode": 1017,
+    "rides": 3
+  },
+  {
+    "ZipCode": 69004,
+    "rides": 3
+  },
+  {
+    "ZipCode": 80331,
+    "rides": 3
+  },
+  {
+    "ZipCode": 119400,
+    "rides": 3
+  },
+  {
+    "ZipCode": 78258,
+    "rides": 3
+  },
+  {
+    "ZipCode": 92028,
+    "rides": 3
+  },
+  {
+    "ZipCode": 53726,
+    "rides": 3
+  },
+  {
+    "ZipCode": 85718,
+    "rides": 3
+  },
+  {
+    "ZipCode": 48124,
+    "rides": 3
+  },
+  {
+    "ZipCode": 95376,
+    "rides": 3
+  },
+  {
+    "ZipCode": 11378,
+    "rides": 3
+  },
+  {
+    "ZipCode": 61705,
+    "rides": 3
+  },
+  {
+    "ZipCode": 29732,
+    "rides": 3
+  },
+  {
+    "ZipCode": 6155,
+    "rides": 3
+  },
+  {
+    "ZipCode": 3301,
+    "rides": 3
+  },
+  {
+    "ZipCode": 84523,
+    "rides": 3
+  },
+  {
+    "ZipCode": 60061,
+    "rides": 3
+  },
+  {
+    "ZipCode": 1490,
+    "rides": 3
+  },
+  {
+    "ZipCode": 80223,
+    "rides": 3
+  },
+  {
+    "ZipCode": 59803,
+    "rides": 3
+  },
+  {
+    "ZipCode": 2494,
+    "rides": 3
+  },
+  {
+    "ZipCode": 19073,
+    "rides": 3
+  },
+  {
+    "ZipCode": 84092,
+    "rides": 3
+  },
+  {
+    "ZipCode": 21204,
+    "rides": 3
+  },
+  {
+    "ZipCode": 92105,
+    "rides": 3
+  },
+  {
+    "ZipCode": 15213,
+    "rides": 3
+  },
+  {
+    "ZipCode": 10543,
+    "rides": 3
+  },
+  {
+    "ZipCode": 9075909419,
+    "rides": 3
+  },
+  {
+    "ZipCode": 38111,
+    "rides": 3
+  },
+  {
+    "ZipCode": 11111,
+    "rides": 3
+  },
+  {
+    "ZipCode": 46208,
+    "rides": 3
+  },
+  {
+    "ZipCode": 22066,
+    "rides": 3
+  },
+  {
+    "ZipCode": 6051,
+    "rides": 3
+  },
+  {
+    "ZipCode": 32541,
+    "rides": 3
+  },
+  {
+    "ZipCode": 98134,
+    "rides": 3
+  },
+  {
+    "ZipCode": 10591,
+    "rides": 3
+  },
+  {
+    "ZipCode": 1210,
+    "rides": 3
+  },
+  {
+    "ZipCode": 1510053,
+    "rides": 3
+  },
+  {
+    "ZipCode": 34135,
+    "rides": 3
+  },
+  {
+    "ZipCode": 90703,
+    "rides": 3
+  },
+  {
+    "ZipCode": 90077,
+    "rides": 3
+  },
+  {
+    "ZipCode": 43206,
+    "rides": 3
+  },
+  {
+    "ZipCode": 12572,
+    "rides": 3
+  },
+  {
+    "ZipCode": 98168,
+    "rides": 3
+  },
+  {
+    "ZipCode": 23320,
+    "rides": 3
+  },
+  {
+    "ZipCode": 5140,
+    "rides": 3
+  },
+  {
+    "ZipCode": 2467,
+    "rides": 3
+  },
+  {
+    "ZipCode": 17257,
+    "rides": 3
+  },
+  {
+    "ZipCode": 29650,
+    "rides": 3
+  },
+  {
+    "ZipCode": 6810,
+    "rides": 3
+  },
+  {
+    "ZipCode": 5468,
+    "rides": 3
+  },
+  {
+    "ZipCode": 90731,
+    "rides": 3
+  },
+  {
+    "ZipCode": 2520317,
+    "rides": 3
+  },
+  {
+    "ZipCode": 78589,
+    "rides": 3
+  },
+  {
+    "ZipCode": 89052,
+    "rides": 3
+  },
+  {
+    "ZipCode": 18015,
+    "rides": 3
+  },
+  {
+    "ZipCode": 55016,
+    "rides": 3
+  },
+  {
+    "ZipCode": 92373,
+    "rides": 3
+  },
+  {
+    "ZipCode": 20877,
+    "rides": 3
+  },
+  {
+    "ZipCode": 84121,
+    "rides": 3
+  },
+  {
+    "ZipCode": 78261,
+    "rides": 3
+  },
+  {
+    "ZipCode": 4101,
+    "rides": 3
+  },
+  {
+    "ZipCode": 85207,
+    "rides": 3
+  },
+  {
+    "ZipCode": 55262,
+    "rides": 3
+  },
+  {
+    "ZipCode": 40,
+    "rides": 3
+  },
+  {
+    "ZipCode": 11565,
+    "rides": 3
+  },
+  {
+    "ZipCode": 8880,
+    "rides": 3
+  },
+  {
+    "ZipCode": 7600,
+    "rides": 3
+  },
+  {
+    "ZipCode": 91104,
+    "rides": 3
+  },
+  {
+    "ZipCode": 11105,
+    "rides": 3
+  },
+  {
+    "ZipCode": 84054,
+    "rides": 3
+  },
+  {
+    "ZipCode": 32804,
+    "rides": 3
+  },
+  {
+    "ZipCode": 1900,
+    "rides": 3
+  },
+  {
+    "ZipCode": 85435,
+    "rides": 3
+  },
+  {
+    "ZipCode": 1110023,
+    "rides": 3
+  },
+  {
+    "ZipCode": 22003,
+    "rides": 3
+  },
+  {
+    "ZipCode": 9025,
+    "rides": 3
+  },
+  {
+    "ZipCode": 5411,
+    "rides": 3
+  },
+  {
+    "ZipCode": 60616,
+    "rides": 3
+  },
+  {
+    "ZipCode": 92630,
+    "rides": 3
+  },
+  {
+    "ZipCode": 98082,
+    "rides": 3
+  },
+  {
+    "ZipCode": 650,
+    "rides": 3
+  },
+  {
+    "ZipCode": 92121,
+    "rides": 3
+  },
+  {
+    "ZipCode": 89131,
+    "rides": 3
+  },
+  {
+    "ZipCode": 14617,
+    "rides": 3
+  },
+  {
+    "ZipCode": 44304,
+    "rides": 3
+  },
+  {
+    "ZipCode": 95632,
+    "rides": 3
+  },
+  {
+    "ZipCode": 97209,
+    "rides": 3
+  },
+  {
+    "ZipCode": 24109,
+    "rides": 3
+  },
+  {
+    "ZipCode": 27514,
+    "rides": 3
+  },
+  {
+    "ZipCode": 89511,
+    "rides": 3
+  },
+  {
+    "ZipCode": 44859,
+    "rides": 3
+  },
+  {
+    "ZipCode": 55812,
+    "rides": 3
+  },
+  {
+    "ZipCode": 1886,
+    "rides": 3
+  },
+  {
+    "ZipCode": 3065,
+    "rides": 3
+  },
+  {
+    "ZipCode": 93033,
+    "rides": 3
+  },
+  {
+    "ZipCode": 120115,
+    "rides": 3
+  },
+  {
+    "ZipCode": 92688,
+    "rides": 3
+  },
+  {
+    "ZipCode": 84101,
+    "rides": 3
+  },
+  {
+    "ZipCode": 95695,
+    "rides": 3
+  },
+  {
+    "ZipCode": 4056,
+    "rides": 3
+  },
+  {
+    "ZipCode": 84158,
+    "rides": 3
+  },
+  {
+    "ZipCode": 75032,
+    "rides": 3
+  },
+  {
+    "ZipCode": 92701,
+    "rides": 3
+  },
+  {
+    "ZipCode": 98199,
+    "rides": 3
+  },
+  {
+    "ZipCode": 7102,
+    "rides": 3
+  },
+  {
+    "ZipCode": 48,
+    "rides": 3
+  },
+  {
+    "ZipCode": 33014,
+    "rides": 3
+  },
+  {
+    "ZipCode": 97109,
+    "rides": 3
+  },
+  {
+    "ZipCode": 1640,
+    "rides": 3
+  },
+  {
+    "ZipCode": 94026,
+    "rides": 3
+  },
+  {
+    "ZipCode": 89144,
+    "rides": 3
+  },
+  {
+    "ZipCode": 2125,
+    "rides": 3
+  },
+  {
+    "ZipCode": 7626,
+    "rides": 3
+  },
+  {
+    "ZipCode": 44140,
+    "rides": 3
+  },
+  {
+    "ZipCode": 12914475,
+    "rides": 3
+  },
+  {
+    "ZipCode": 55118,
+    "rides": 3
+  },
+  {
+    "ZipCode": 20017,
+    "rides": 3
+  },
+  {
+    "ZipCode": 60630,
+    "rides": 3
+  },
+  {
+    "ZipCode": 67,
+    "rides": 3
+  },
+  {
+    "ZipCode": 19447,
+    "rides": 3
+  },
+  {
+    "ZipCode": 7042,
+    "rides": 3
+  },
+  {
+    "ZipCode": 92571,
+    "rides": 3
+  },
+  {
+    "ZipCode": 10029,
+    "rides": 3
+  },
+  {
+    "ZipCode": 80021,
+    "rides": 3
+  },
+  {
+    "ZipCode": 55082,
+    "rides": 3
+  },
+  {
+    "ZipCode": 2617,
+    "rides": 3
+  },
+  {
+    "ZipCode": 7070,
+    "rides": 3
+  },
+  {
+    "ZipCode": 41127,
+    "rides": 3
+  },
+  {
+    "ZipCode": 98228,
+    "rides": 3
+  },
+  {
+    "ZipCode": 91125,
+    "rides": 3
+  },
+  {
+    "ZipCode": 33062,
+    "rides": 3
+  },
+  {
+    "ZipCode": 80013,
+    "rides": 3
+  },
+  {
+    "ZipCode": 3400,
+    "rides": 3
+  },
+  {
+    "ZipCode": 3011,
+    "rides": 3
+  },
+  {
+    "ZipCode": 78216,
+    "rides": 3
+  },
+  {
+    "ZipCode": 60126,
+    "rides": 3
+  },
+  {
+    "ZipCode": 88,
+    "rides": 3
+  },
+  {
+    "ZipCode": 33606,
+    "rides": 3
+  },
+  {
+    "ZipCode": 33756,
+    "rides": 3
+  },
+  {
+    "ZipCode": 78731,
+    "rides": 3
+  },
+  {
+    "ZipCode": 90051,
+    "rides": 3
+  },
+  {
+    "ZipCode": 10600,
+    "rides": 3
+  },
+  {
+    "ZipCode": 53211,
+    "rides": 3
+  },
+  {
+    "ZipCode": 91803,
+    "rides": 3
+  },
+  {
+    "ZipCode": 38103,
+    "rides": 3
+  },
+  {
+    "ZipCode": 85381,
+    "rides": 3
+  },
+  {
+    "ZipCode": 6790,
+    "rides": 3
+  },
+  {
+    "ZipCode": 33020,
+    "rides": 3
+  },
+  {
+    "ZipCode": 1952,
+    "rides": 3
+  },
+  {
+    "ZipCode": 11758,
+    "rides": 3
+  },
+  {
+    "ZipCode": 6614,
+    "rides": 3
+  },
+  {
+    "ZipCode": 77057,
+    "rides": 3
+  },
+  {
+    "ZipCode": 38501,
+    "rides": 3
+  },
+  {
+    "ZipCode": 14620,
+    "rides": 3
+  },
+  {
+    "ZipCode": 76226,
+    "rides": 3
+  },
+  {
+    "ZipCode": 28022,
+    "rides": 3
+  },
+  {
+    "ZipCode": 40205,
+    "rides": 3
+  },
+  {
+    "ZipCode": 95023,
+    "rides": 3
+  },
+  {
+    "ZipCode": 4603,
+    "rides": 3
+  },
+  {
+    "ZipCode": 19106,
+    "rides": 3
+  },
+  {
+    "ZipCode": 79102,
+    "rides": 3
+  },
+  {
+    "ZipCode": 43017,
+    "rides": 3
+  },
+  {
+    "ZipCode": 75225,
+    "rides": 3
+  },
+  {
+    "ZipCode": 19055,
+    "rides": 3
+  },
+  {
+    "ZipCode": 33178,
+    "rides": 3
+  },
+  {
+    "ZipCode": 95825,
+    "rides": 3
+  },
+  {
+    "ZipCode": 28607,
+    "rides": 3
+  },
+  {
+    "ZipCode": 90031,
+    "rides": 3
+  },
+  {
+    "ZipCode": 95628,
+    "rides": 3
+  },
+  {
+    "ZipCode": 75110,
+    "rides": 3
+  },
+  {
+    "ZipCode": 95358,
+    "rides": 3
+  },
+  {
+    "ZipCode": 60504,
+    "rides": 3
+  },
+  {
+    "ZipCode": 53818,
+    "rides": 3
+  },
+  {
+    "ZipCode": 43215,
+    "rides": 3
+  },
+  {
+    "ZipCode": 4043,
+    "rides": 3
+  },
+  {
+    "ZipCode": 55369,
+    "rides": 3
+  },
+  {
+    "ZipCode": 29403,
+    "rides": 3
+  },
+  {
+    "ZipCode": 49050,
+    "rides": 3
+  },
+  {
+    "ZipCode": 78737,
+    "rides": 3
+  },
+  {
+    "ZipCode": 27606,
+    "rides": 3
+  },
+  {
+    "ZipCode": 1075,
+    "rides": 3
+  },
+  {
+    "ZipCode": 90401,
+    "rides": 3
+  },
+  {
+    "ZipCode": 33625,
+    "rides": 3
+  },
+  {
+    "ZipCode": 45209,
+    "rides": 3
+  },
+  {
+    "ZipCode": 11950,
+    "rides": 3
+  },
+  {
+    "ZipCode": 10435,
+    "rides": 3
+  },
+  {
+    "ZipCode": 47403,
+    "rides": 3
+  },
+  {
+    "ZipCode": 99203,
+    "rides": 3
+  },
+  {
+    "ZipCode": 59937,
+    "rides": 3
+  },
+  {
+    "ZipCode": 2067,
+    "rides": 3
+  },
+  {
+    "ZipCode": 6102,
+    "rides": 3
+  },
+  {
+    "ZipCode": 15228,
+    "rides": 3
+  },
+  {
+    "ZipCode": 92625,
+    "rides": 3
+  },
+  {
+    "ZipCode": 48323,
+    "rides": 3
+  },
+  {
+    "ZipCode": 54295,
+    "rides": 3
+  },
+  {
+    "ZipCode": 79601,
+    "rides": 3
+  },
+  {
+    "ZipCode": 83709,
+    "rides": 3
+  },
+  {
+    "ZipCode": 35763,
+    "rides": 3
+  },
+  {
+    "ZipCode": 9142,
+    "rides": 3
+  },
+  {
+    "ZipCode": 92336,
+    "rides": 3
+  },
+  {
+    "ZipCode": 89451,
+    "rides": 3
+  },
+  {
+    "ZipCode": 3218,
+    "rides": 3
+  },
+  {
+    "ZipCode": 49423,
+    "rides": 3
+  },
+  {
+    "ZipCode": 18104,
+    "rides": 3
+  },
+  {
+    "ZipCode": 95673,
+    "rides": 3
+  },
+  {
+    "ZipCode": 10030,
+    "rides": 3
+  },
+  {
+    "ZipCode": 60025,
+    "rides": 3
+  },
+  {
+    "ZipCode": 91775,
+    "rides": 3
+  },
+  {
+    "ZipCode": 63105,
+    "rides": 3
+  },
+  {
+    "ZipCode": 77401,
+    "rides": 3
+  },
+  {
+    "ZipCode": 77007,
+    "rides": 3
+  },
+  {
+    "ZipCode": 46220,
+    "rides": 3
+  },
+  {
+    "ZipCode": 85018,
+    "rides": 3
+  },
+  {
+    "ZipCode": 71110,
+    "rides": 3
+  },
+  {
+    "ZipCode": 80104,
+    "rides": 3
+  },
+  {
+    "ZipCode": 2010,
+    "rides": 3
+  },
+  {
+    "ZipCode": 3070,
+    "rides": 3
+  },
+  {
+    "ZipCode": 321,
+    "rides": 3
+  },
+  {
+    "ZipCode": 99352,
+    "rides": 3
+  },
+  {
+    "ZipCode": 46202,
+    "rides": 3
+  },
+  {
+    "ZipCode": 7740,
+    "rides": 3
+  },
+  {
+    "ZipCode": 95819,
+    "rides": 3
+  },
+  {
+    "ZipCode": 91786,
+    "rides": 3
+  },
+  {
+    "ZipCode": 10461,
+    "rides": 3
+  },
+  {
+    "ZipCode": 11678,
+    "rides": 3
+  },
+  {
+    "ZipCode": 66223,
+    "rides": 3
+  },
+  {
+    "ZipCode": 8022,
+    "rides": 3
+  },
+  {
+    "ZipCode": 67220,
+    "rides": 3
+  },
+  {
+    "ZipCode": 47240,
+    "rides": 3
+  },
+  {
+    "ZipCode": 90631,
+    "rides": 3
+  },
+  {
+    "ZipCode": 37377,
+    "rides": 3
+  },
+  {
+    "ZipCode": 95063,
+    "rides": 3
+  },
+  {
+    "ZipCode": 78006,
+    "rides": 3
+  },
+  {
+    "ZipCode": 91731,
+    "rides": 3
+  },
+  {
+    "ZipCode": 30002,
+    "rides": 2
+  },
+  {
+    "ZipCode": 1090,
+    "rides": 2
+  },
+  {
+    "ZipCode": 11722,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60081,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92374,
+    "rides": 2
+  },
+  {
+    "ZipCode": 125445,
+    "rides": 2
+  },
+  {
+    "ZipCode": 41262,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7650,
+    "rides": 2
+  },
+  {
+    "ZipCode": 9407,
+    "rides": 2
+  },
+  {
+    "ZipCode": 16303,
+    "rides": 2
+  },
+  {
+    "ZipCode": 53223,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2888,
+    "rides": 2
+  },
+  {
+    "ZipCode": 81369,
+    "rides": 2
+  },
+  {
+    "ZipCode": 591,
+    "rides": 2
+  },
+  {
+    "ZipCode": 5052,
+    "rides": 2
+  },
+  {
+    "ZipCode": 43607,
+    "rides": 2
+  },
+  {
+    "ZipCode": 55014,
+    "rides": 2
+  },
+  {
+    "ZipCode": 38017,
+    "rides": 2
+  },
+  {
+    "ZipCode": 42071,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95382,
+    "rides": 2
+  },
+  {
+    "ZipCode": 8691,
+    "rides": 2
+  },
+  {
+    "ZipCode": 40038,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95969,
+    "rides": 2
+  },
+  {
+    "ZipCode": 19333,
+    "rides": 2
+  },
+  {
+    "ZipCode": 63129,
+    "rides": 2
+  },
+  {
+    "ZipCode": 97206,
+    "rides": 2
+  },
+  {
+    "ZipCode": 93306,
+    "rides": 2
+  },
+  {
+    "ZipCode": 97321,
+    "rides": 2
+  },
+  {
+    "ZipCode": 234,
+    "rides": 2
+  },
+  {
+    "ZipCode": 53716,
+    "rides": 2
+  },
+  {
+    "ZipCode": 94621,
+    "rides": 2
+  },
+  {
+    "ZipCode": 20020,
+    "rides": 2
+  },
+  {
+    "ZipCode": 31600,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91763,
+    "rides": 2
+  },
+  {
+    "ZipCode": 1207,
+    "rides": 2
+  },
+  {
+    "ZipCode": 77054,
+    "rides": 2
+  },
+  {
+    "ZipCode": 32174,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33445,
+    "rides": 2
+  },
+  {
+    "ZipCode": 78130,
+    "rides": 2
+  },
+  {
+    "ZipCode": 3740,
+    "rides": 2
+  },
+  {
+    "ZipCode": 5732,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92038,
+    "rides": 2
+  },
+  {
+    "ZipCode": 80911,
+    "rides": 2
+  },
+  {
+    "ZipCode": 19312,
+    "rides": 2
+  },
+  {
+    "ZipCode": 94034,
+    "rides": 2
+  },
+  {
+    "ZipCode": 49168,
+    "rides": 2
+  },
+  {
+    "ZipCode": 89512,
+    "rides": 2
+  },
+  {
+    "ZipCode": 12211,
+    "rides": 2
+  },
+  {
+    "ZipCode": 28079,
+    "rides": 2
+  },
+  {
+    "ZipCode": 87111,
+    "rides": 2
+  },
+  {
+    "ZipCode": 196600,
+    "rides": 2
+  },
+  {
+    "ZipCode": 96708,
+    "rides": 2
+  },
+  {
+    "ZipCode": 89084,
+    "rides": 2
+  },
+  {
+    "ZipCode": 15235,
+    "rides": 2
+  },
+  {
+    "ZipCode": 1111,
+    "rides": 2
+  },
+  {
+    "ZipCode": 30173,
+    "rides": 2
+  },
+  {
+    "ZipCode": 46240,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91720580,
+    "rides": 2
+  },
+  {
+    "ZipCode": 22408,
+    "rides": 2
+  },
+  {
+    "ZipCode": 58481,
+    "rides": 2
+  },
+  {
+    "ZipCode": 30281,
+    "rides": 2
+  },
+  {
+    "ZipCode": 32780,
+    "rides": 2
+  },
+  {
+    "ZipCode": 27410,
+    "rides": 2
+  },
+  {
+    "ZipCode": 37204,
+    "rides": 2
+  },
+  {
+    "ZipCode": 48306,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33410,
+    "rides": 2
+  },
+  {
+    "ZipCode": 8215,
+    "rides": 2
+  },
+  {
+    "ZipCode": 83705,
+    "rides": 2
+  },
+  {
+    "ZipCode": 4631,
+    "rides": 2
+  },
+  {
+    "ZipCode": 22124,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2155,
+    "rides": 2
+  },
+  {
+    "ZipCode": 70118,
+    "rides": 2
+  },
+  {
+    "ZipCode": 197371,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95736,
+    "rides": 2
+  },
+  {
+    "ZipCode": 99004,
+    "rides": 2
+  },
+  {
+    "ZipCode": 75038,
+    "rides": 2
+  },
+  {
+    "ZipCode": 10052,
+    "rides": 2
+  },
+  {
+    "ZipCode": 34275,
+    "rides": 2
+  },
+  {
+    "ZipCode": 556699,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92602,
+    "rides": 2
+  },
+  {
+    "ZipCode": 6807,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2738,
+    "rides": 2
+  },
+  {
+    "ZipCode": 6176,
+    "rides": 2
+  },
+  {
+    "ZipCode": 8600,
+    "rides": 2
+  },
+  {
+    "ZipCode": 48302,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91706,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2339,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95065,
+    "rides": 2
+  },
+  {
+    "ZipCode": 670,
+    "rides": 2
+  },
+  {
+    "ZipCode": 50312,
+    "rides": 2
+  },
+  {
+    "ZipCode": 966,
+    "rides": 2
+  },
+  {
+    "ZipCode": 53219,
+    "rides": 2
+  },
+  {
+    "ZipCode": 39211,
+    "rides": 2
+  },
+  {
+    "ZipCode": 18433,
+    "rides": 2
+  },
+  {
+    "ZipCode": 65428,
+    "rides": 2
+  },
+  {
+    "ZipCode": 66611,
+    "rides": 2
+  },
+  {
+    "ZipCode": 28110,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2564,
+    "rides": 2
+  },
+  {
+    "ZipCode": 55076,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2017,
+    "rides": 2
+  },
+  {
+    "ZipCode": 30188,
+    "rides": 2
+  },
+  {
+    "ZipCode": 53707,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91761,
+    "rides": 2
+  },
+  {
+    "ZipCode": 1089,
+    "rides": 2
+  },
+  {
+    "ZipCode": 1640001,
+    "rides": 2
+  },
+  {
+    "ZipCode": 894,
+    "rides": 2
+  },
+  {
+    "ZipCode": 93021,
+    "rides": 2
+  },
+  {
+    "ZipCode": 68901,
+    "rides": 2
+  },
+  {
+    "ZipCode": 30307,
+    "rides": 2
+  },
+  {
+    "ZipCode": 88001,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33193,
+    "rides": 2
+  },
+  {
+    "ZipCode": 98665,
+    "rides": 2
+  },
+  {
+    "ZipCode": 93140,
+    "rides": 2
+  },
+  {
+    "ZipCode": 15005,
+    "rides": 2
+  },
+  {
+    "ZipCode": 30030,
+    "rides": 2
+  },
+  {
+    "ZipCode": 94047,
+    "rides": 2
+  },
+  {
+    "ZipCode": 98404,
+    "rides": 2
+  },
+  {
+    "ZipCode": 32803,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33100,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33824,
+    "rides": 2
+  },
+  {
+    "ZipCode": 80403,
+    "rides": 2
+  },
+  {
+    "ZipCode": 98685,
+    "rides": 2
+  },
+  {
+    "ZipCode": 10514,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7607,
+    "rides": 2
+  },
+  {
+    "ZipCode": 18444,
+    "rides": 2
+  },
+  {
+    "ZipCode": 98704,
+    "rides": 2
+  },
+  {
+    "ZipCode": 80238,
+    "rides": 2
+  },
+  {
+    "ZipCode": 1070,
+    "rides": 2
+  },
+  {
+    "ZipCode": 556,
+    "rides": 2
+  },
+  {
+    "ZipCode": 80069,
+    "rides": 2
+  },
+  {
+    "ZipCode": 22085,
+    "rides": 2
+  },
+  {
+    "ZipCode": 28202,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91745,
+    "rides": 2
+  },
+  {
+    "ZipCode": 742,
+    "rides": 2
+  },
+  {
+    "ZipCode": 4086,
+    "rides": 2
+  },
+  {
+    "ZipCode": 94083,
+    "rides": 2
+  },
+  {
+    "ZipCode": 48188,
+    "rides": 2
+  },
+  {
+    "ZipCode": 21211,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60453,
+    "rides": 2
+  },
+  {
+    "ZipCode": 93304,
+    "rides": 2
+  },
+  {
+    "ZipCode": 55122,
+    "rides": 2
+  },
+  {
+    "ZipCode": 94572,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33401,
+    "rides": 2
+  },
+  {
+    "ZipCode": 400107,
+    "rides": 2
+  },
+  {
+    "ZipCode": 70115,
+    "rides": 2
+  },
+  {
+    "ZipCode": 93036,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7670,
+    "rides": 2
+  },
+  {
+    "ZipCode": 98275,
+    "rides": 2
+  },
+  {
+    "ZipCode": 61820,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91115,
+    "rides": 2
+  },
+  {
+    "ZipCode": 93953,
+    "rides": 2
+  },
+  {
+    "ZipCode": 11226,
+    "rides": 2
+  },
+  {
+    "ZipCode": 83442,
+    "rides": 2
+  },
+  {
+    "ZipCode": 14222,
+    "rides": 2
+  },
+  {
+    "ZipCode": 55419,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7300,
+    "rides": 2
+  },
+  {
+    "ZipCode": 49107,
+    "rides": 2
+  },
+  {
+    "ZipCode": 85119,
+    "rides": 2
+  },
+  {
+    "ZipCode": 10552,
+    "rides": 2
+  },
+  {
+    "ZipCode": 37919,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7079,
+    "rides": 2
+  },
+  {
+    "ZipCode": 466,
+    "rides": 2
+  },
+  {
+    "ZipCode": 77010,
+    "rides": 2
+  },
+  {
+    "ZipCode": 14853,
+    "rides": 2
+  },
+  {
+    "ZipCode": 75134,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2131,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60510,
+    "rides": 2
+  },
+  {
+    "ZipCode": 94007,
+    "rides": 2
+  },
+  {
+    "ZipCode": 85406,
+    "rides": 2
+  },
+  {
+    "ZipCode": 53201,
+    "rides": 2
+  },
+  {
+    "ZipCode": 123456,
+    "rides": 2
+  },
+  {
+    "ZipCode": 96002,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92071,
+    "rides": 2
+  },
+  {
+    "ZipCode": 77077,
+    "rides": 2
+  },
+  {
+    "ZipCode": 29412,
+    "rides": 2
+  },
+  {
+    "ZipCode": 21229,
+    "rides": 2
+  },
+  {
+    "ZipCode": 31320,
+    "rides": 2
+  },
+  {
+    "ZipCode": 25524,
+    "rides": 2
+  },
+  {
+    "ZipCode": 20132,
+    "rides": 2
+  },
+  {
+    "ZipCode": 25304,
+    "rides": 2
+  },
+  {
+    "ZipCode": 53154,
+    "rides": 2
+  },
+  {
+    "ZipCode": 68102,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60318,
+    "rides": 2
+  },
+  {
+    "ZipCode": 807277,
+    "rides": 2
+  },
+  {
+    "ZipCode": 61265,
+    "rides": 2
+  },
+  {
+    "ZipCode": 15800,
+    "rides": 2
+  },
+  {
+    "ZipCode": 98072,
+    "rides": 2
+  },
+  {
+    "ZipCode": 70005,
+    "rides": 2
+  },
+  {
+    "ZipCode": 21017,
+    "rides": 2
+  },
+  {
+    "ZipCode": 3350,
+    "rides": 2
+  },
+  {
+    "ZipCode": 11229,
+    "rides": 2
+  },
+  {
+    "ZipCode": 9713,
+    "rides": 2
+  },
+  {
+    "ZipCode": 32223,
+    "rides": 2
+  },
+  {
+    "ZipCode": 6210,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90630,
+    "rides": 2
+  },
+  {
+    "ZipCode": 94807,
+    "rides": 2
+  },
+  {
+    "ZipCode": 44210,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92095,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91335,
+    "rides": 2
+  },
+  {
+    "ZipCode": 1505,
+    "rides": 2
+  },
+  {
+    "ZipCode": 80807,
+    "rides": 2
+  },
+  {
+    "ZipCode": 85716,
+    "rides": 2
+  },
+  {
+    "ZipCode": 55114,
+    "rides": 2
+  },
+  {
+    "ZipCode": 55024,
+    "rides": 2
+  },
+  {
+    "ZipCode": 66208,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90293,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60466,
+    "rides": 2
+  },
+  {
+    "ZipCode": 56267,
+    "rides": 2
+  },
+  {
+    "ZipCode": 98545,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90107,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60016,
+    "rides": 2
+  },
+  {
+    "ZipCode": 88279,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33716,
+    "rides": 2
+  },
+  {
+    "ZipCode": 97373,
+    "rides": 2
+  },
+  {
+    "ZipCode": 77489,
+    "rides": 2
+  },
+  {
+    "ZipCode": 19711,
+    "rides": 2
+  },
+  {
+    "ZipCode": 4512,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95824,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91433,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2300,
+    "rides": 2
+  },
+  {
+    "ZipCode": 14228,
+    "rides": 2
+  },
+  {
+    "ZipCode": 10462,
+    "rides": 2
+  },
+  {
+    "ZipCode": 89101,
+    "rides": 2
+  },
+  {
+    "ZipCode": 77030,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95337,
+    "rides": 2
+  },
+  {
+    "ZipCode": 96931,
+    "rides": 2
+  },
+  {
+    "ZipCode": 80222,
+    "rides": 2
+  },
+  {
+    "ZipCode": 93203,
+    "rides": 2
+  },
+  {
+    "ZipCode": 4458,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91732,
+    "rides": 2
+  },
+  {
+    "ZipCode": 505,
+    "rides": 2
+  },
+  {
+    "ZipCode": 75201,
+    "rides": 2
+  },
+  {
+    "ZipCode": 6500,
+    "rides": 2
+  },
+  {
+    "ZipCode": 21213,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91330430,
+    "rides": 2
+  },
+  {
+    "ZipCode": 38642,
+    "rides": 2
+  },
+  {
+    "ZipCode": 97838,
+    "rides": 2
+  },
+  {
+    "ZipCode": 14607,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90304,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33137,
+    "rides": 2
+  },
+  {
+    "ZipCode": 73538,
+    "rides": 2
+  },
+  {
+    "ZipCode": 9519,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60656,
+    "rides": 2
+  },
+  {
+    "ZipCode": 614,
+    "rides": 2
+  },
+  {
+    "ZipCode": 166,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7009,
+    "rides": 2
+  },
+  {
+    "ZipCode": 50010,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95087,
+    "rides": 2
+  },
+  {
+    "ZipCode": 28806,
+    "rides": 2
+  },
+  {
+    "ZipCode": 53207,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91377,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92801,
+    "rides": 2
+  },
+  {
+    "ZipCode": 55402,
+    "rides": 2
+  },
+  {
+    "ZipCode": 22765005,
+    "rides": 2
+  },
+  {
+    "ZipCode": 66297,
+    "rides": 2
+  },
+  {
+    "ZipCode": 37013,
+    "rides": 2
+  },
+  {
+    "ZipCode": 59106,
+    "rides": 2
+  },
+  {
+    "ZipCode": 70810,
+    "rides": 2
+  },
+  {
+    "ZipCode": 19425,
+    "rides": 2
+  },
+  {
+    "ZipCode": 37040,
+    "rides": 2
+  },
+  {
+    "ZipCode": 52074,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2900,
+    "rides": 2
+  },
+  {
+    "ZipCode": 48328,
+    "rides": 2
+  },
+  {
+    "ZipCode": 10165,
+    "rides": 2
+  },
+  {
+    "ZipCode": 38804,
+    "rides": 2
+  },
+  {
+    "ZipCode": 93444,
+    "rides": 2
+  },
+  {
+    "ZipCode": 46012,
+    "rides": 2
+  },
+  {
+    "ZipCode": 84044,
+    "rides": 2
+  },
+  {
+    "ZipCode": 1419,
+    "rides": 2
+  },
+  {
+    "ZipCode": 83030,
+    "rides": 2
+  },
+  {
+    "ZipCode": 22203,
+    "rides": 2
+  },
+  {
+    "ZipCode": 500081,
+    "rides": 2
+  },
+  {
+    "ZipCode": 98902,
+    "rides": 2
+  },
+  {
+    "ZipCode": 84651,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92840,
+    "rides": 2
+  },
+  {
+    "ZipCode": 85629,
+    "rides": 2
+  },
+  {
+    "ZipCode": 44139,
+    "rides": 2
+  },
+  {
+    "ZipCode": 65203,
+    "rides": 2
+  },
+  {
+    "ZipCode": 27609,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95401,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7052,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92835,
+    "rides": 2
+  },
+  {
+    "ZipCode": 12487,
+    "rides": 2
+  },
+  {
+    "ZipCode": 32905,
+    "rides": 2
+  },
+  {
+    "ZipCode": 31004,
+    "rides": 2
+  },
+  {
+    "ZipCode": 6373,
+    "rides": 2
+  },
+  {
+    "ZipCode": 97540,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90720,
+    "rides": 2
+  },
+  {
+    "ZipCode": 97207,
+    "rides": 2
+  },
+  {
+    "ZipCode": 54987,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95842,
+    "rides": 2
+  },
+  {
+    "ZipCode": 6811,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2459,
+    "rides": 2
+  },
+  {
+    "ZipCode": 96001,
+    "rides": 2
+  },
+  {
+    "ZipCode": 93308,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60462,
+    "rides": 2
+  },
+  {
+    "ZipCode": 94211,
+    "rides": 2
+  },
+  {
+    "ZipCode": 43616,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92007,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60067,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90723,
+    "rides": 2
+  },
+  {
+    "ZipCode": 77015,
+    "rides": 2
+  },
+  {
+    "ZipCode": 84107,
+    "rides": 2
+  },
+  {
+    "ZipCode": 52240,
+    "rides": 2
+  },
+  {
+    "ZipCode": 53713,
+    "rides": 2
+  },
+  {
+    "ZipCode": 56045,
+    "rides": 2
+  },
+  {
+    "ZipCode": 65201,
+    "rides": 2
+  },
+  {
+    "ZipCode": 75023,
+    "rides": 2
+  },
+  {
+    "ZipCode": 85396,
+    "rides": 2
+  },
+  {
+    "ZipCode": 97007,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90241,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7630,
+    "rides": 2
+  },
+  {
+    "ZipCode": 19343,
+    "rides": 2
+  },
+  {
+    "ZipCode": 13078,
+    "rides": 2
+  },
+  {
+    "ZipCode": 30068,
+    "rides": 2
+  },
+  {
+    "ZipCode": 84062,
+    "rides": 2
+  },
+  {
+    "ZipCode": 4416,
+    "rides": 2
+  },
+  {
+    "ZipCode": 85023,
+    "rides": 2
+  },
+  {
+    "ZipCode": 85302,
+    "rides": 2
+  },
+  {
+    "ZipCode": 22046,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90201,
+    "rides": 2
+  },
+  {
+    "ZipCode": 85040,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7728,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60563,
+    "rides": 2
+  },
+  {
+    "ZipCode": 89044,
+    "rides": 2
+  },
+  {
+    "ZipCode": 48108,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90002,
+    "rides": 2
+  },
+  {
+    "ZipCode": 76051,
+    "rides": 2
+  },
+  {
+    "ZipCode": 64844,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92821,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95117,
+    "rides": 2
+  },
+  {
+    "ZipCode": 5277,
+    "rides": 2
+  },
+  {
+    "ZipCode": 8723,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91770,
+    "rides": 2
+  },
+  {
+    "ZipCode": 85388,
+    "rides": 2
+  },
+  {
+    "ZipCode": 702,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33432,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60714,
+    "rides": 2
+  },
+  {
+    "ZipCode": 93912,
+    "rides": 2
+  },
+  {
+    "ZipCode": 12107,
+    "rides": 2
+  },
+  {
+    "ZipCode": 10990,
+    "rides": 2
+  },
+  {
+    "ZipCode": 10577,
+    "rides": 2
+  },
+  {
+    "ZipCode": 96813,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33326,
+    "rides": 2
+  },
+  {
+    "ZipCode": 18707,
+    "rides": 2
+  },
+  {
+    "ZipCode": 98371,
+    "rides": 2
+  },
+  {
+    "ZipCode": 94064,
+    "rides": 2
+  },
+  {
+    "ZipCode": 98503,
+    "rides": 2
+  },
+  {
+    "ZipCode": 28152,
+    "rides": 2
+  },
+  {
+    "ZipCode": 85335,
+    "rides": 2
+  },
+  {
+    "ZipCode": 46237,
+    "rides": 2
+  },
+  {
+    "ZipCode": 94662,
+    "rides": 2
+  },
+  {
+    "ZipCode": 99516,
+    "rides": 2
+  },
+  {
+    "ZipCode": 1051,
+    "rides": 2
+  },
+  {
+    "ZipCode": 77381,
+    "rides": 2
+  },
+  {
+    "ZipCode": 83120,
+    "rides": 2
+  },
+  {
+    "ZipCode": 11423,
+    "rides": 2
+  },
+  {
+    "ZipCode": 93631,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95833,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95543,
+    "rides": 2
+  },
+  {
+    "ZipCode": 43204,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90245,
+    "rides": 2
+  },
+  {
+    "ZipCode": 14608,
+    "rides": 2
+  },
+  {
+    "ZipCode": 22557,
+    "rides": 2
+  },
+  {
+    "ZipCode": 72150,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92570,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95726,
+    "rides": 2
+  },
+  {
+    "ZipCode": 94013,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90741,
+    "rides": 2
+  },
+  {
+    "ZipCode": 34540,
+    "rides": 2
+  },
+  {
+    "ZipCode": 11743,
+    "rides": 2
+  },
+  {
+    "ZipCode": 8010,
+    "rides": 2
+  },
+  {
+    "ZipCode": 55431,
+    "rides": 2
+  },
+  {
+    "ZipCode": 9410,
+    "rides": 2
+  },
+  {
+    "ZipCode": 21093,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91381,
+    "rides": 2
+  },
+  {
+    "ZipCode": 49101,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7803,
+    "rides": 2
+  },
+  {
+    "ZipCode": 55410,
+    "rides": 2
+  },
+  {
+    "ZipCode": 1527,
+    "rides": 2
+  },
+  {
+    "ZipCode": 46032,
+    "rides": 2
+  },
+  {
+    "ZipCode": 17110,
+    "rides": 2
+  },
+  {
+    "ZipCode": 6550,
+    "rides": 2
+  },
+  {
+    "ZipCode": 77414,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90717,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33609,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95518,
+    "rides": 2
+  },
+  {
+    "ZipCode": 55404,
+    "rides": 2
+  },
+  {
+    "ZipCode": 77657,
+    "rides": 2
+  },
+  {
+    "ZipCode": 97150,
+    "rides": 2
+  },
+  {
+    "ZipCode": 70100,
+    "rides": 2
+  },
+  {
+    "ZipCode": 77047,
+    "rides": 2
+  },
+  {
+    "ZipCode": 77845,
+    "rides": 2
+  },
+  {
+    "ZipCode": 6026,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91945,
+    "rides": 2
+  },
+  {
+    "ZipCode": 48197,
+    "rides": 2
+  },
+  {
+    "ZipCode": 44223,
+    "rides": 2
+  },
+  {
+    "ZipCode": 97034,
+    "rides": 2
+  },
+  {
+    "ZipCode": 98056,
+    "rides": 2
+  },
+  {
+    "ZipCode": 18109,
+    "rides": 2
+  },
+  {
+    "ZipCode": 44256,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95758,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91505,
+    "rides": 2
+  },
+  {
+    "ZipCode": 68390,
+    "rides": 2
+  },
+  {
+    "ZipCode": 4534004,
+    "rides": 2
+  },
+  {
+    "ZipCode": 53406,
+    "rides": 2
+  },
+  {
+    "ZipCode": 12180,
+    "rides": 2
+  },
+  {
+    "ZipCode": 96822,
+    "rides": 2
+  },
+  {
+    "ZipCode": 941080,
+    "rides": 2
+  },
+  {
+    "ZipCode": 9414,
+    "rides": 2
+  },
+  {
+    "ZipCode": 10920,
+    "rides": 2
+  },
+  {
+    "ZipCode": 55364,
+    "rides": 2
+  },
+  {
+    "ZipCode": 1426,
+    "rides": 2
+  },
+  {
+    "ZipCode": 6854,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60599,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95354,
+    "rides": 2
+  },
+  {
+    "ZipCode": 97331,
+    "rides": 2
+  },
+  {
+    "ZipCode": 20115,
+    "rides": 2
+  },
+  {
+    "ZipCode": 3122,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7422,
+    "rides": 2
+  },
+  {
+    "ZipCode": 64112,
+    "rides": 2
+  },
+  {
+    "ZipCode": 3304,
+    "rides": 2
+  },
+  {
+    "ZipCode": 97224,
+    "rides": 2
+  },
+  {
+    "ZipCode": 78620,
+    "rides": 2
+  },
+  {
+    "ZipCode": 37206,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92083,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60914,
+    "rides": 2
+  },
+  {
+    "ZipCode": 22079,
+    "rides": 2
+  },
+  {
+    "ZipCode": 1742,
+    "rides": 2
+  },
+  {
+    "ZipCode": 6016,
+    "rides": 2
+  },
+  {
+    "ZipCode": 31522,
+    "rides": 2
+  },
+  {
+    "ZipCode": 76262,
+    "rides": 2
+  },
+  {
+    "ZipCode": 78750,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95620,
+    "rides": 2
+  },
+  {
+    "ZipCode": 30535,
+    "rides": 2
+  },
+  {
+    "ZipCode": 93510,
+    "rides": 2
+  },
+  {
+    "ZipCode": 10510,
+    "rides": 2
+  },
+  {
+    "ZipCode": 83440,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33156,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92557,
+    "rides": 2
+  },
+  {
+    "ZipCode": 48307,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60035,
+    "rides": 2
+  },
+  {
+    "ZipCode": 94581,
+    "rides": 2
+  },
+  {
+    "ZipCode": 55127,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7760,
+    "rides": 2
+  },
+  {
+    "ZipCode": 77009,
+    "rides": 2
+  },
+  {
+    "ZipCode": 24450,
+    "rides": 2
+  },
+  {
+    "ZipCode": 5020,
+    "rides": 2
+  },
+  {
+    "ZipCode": 8736,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90232,
+    "rides": 2
+  },
+  {
+    "ZipCode": 20036,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60637,
+    "rides": 2
+  },
+  {
+    "ZipCode": 59044,
+    "rides": 2
+  },
+  {
+    "ZipCode": 454100,
+    "rides": 2
+  },
+  {
+    "ZipCode": 11432,
+    "rides": 2
+  },
+  {
+    "ZipCode": 98674,
+    "rides": 2
+  },
+  {
+    "ZipCode": 12346,
+    "rides": 2
+  },
+  {
+    "ZipCode": 36507,
+    "rides": 2
+  },
+  {
+    "ZipCode": 98682,
+    "rides": 2
+  },
+  {
+    "ZipCode": 88212,
+    "rides": 2
+  },
+  {
+    "ZipCode": 14482,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95351,
+    "rides": 2
+  },
+  {
+    "ZipCode": 48360,
+    "rides": 2
+  },
+  {
+    "ZipCode": 89433,
+    "rides": 2
+  },
+  {
+    "ZipCode": 32819,
+    "rides": 2
+  },
+  {
+    "ZipCode": 10606,
+    "rides": 2
+  },
+  {
+    "ZipCode": 9404,
+    "rides": 2
+  },
+  {
+    "ZipCode": 45243,
+    "rides": 2
+  },
+  {
+    "ZipCode": 85326,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60610,
+    "rides": 2
+  },
+  {
+    "ZipCode": 45233,
+    "rides": 2
+  },
+  {
+    "ZipCode": 450000,
+    "rides": 2
+  },
+  {
+    "ZipCode": 68516,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2908,
+    "rides": 2
+  },
+  {
+    "ZipCode": 78052,
+    "rides": 2
+  },
+  {
+    "ZipCode": 68510,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2594,
+    "rides": 2
+  },
+  {
+    "ZipCode": 10471,
+    "rides": 2
+  },
+  {
+    "ZipCode": 13555,
+    "rides": 2
+  },
+  {
+    "ZipCode": 11011,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91407,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92805,
+    "rides": 2
+  },
+  {
+    "ZipCode": 8210,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95967,
+    "rides": 2
+  },
+  {
+    "ZipCode": 22901,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7034,
+    "rides": 2
+  },
+  {
+    "ZipCode": 1080,
+    "rides": 2
+  },
+  {
+    "ZipCode": 66400,
+    "rides": 2
+  },
+  {
+    "ZipCode": 89102,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92313,
+    "rides": 2
+  },
+  {
+    "ZipCode": 96815,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60626,
+    "rides": 2
+  },
+  {
+    "ZipCode": 9491,
+    "rides": 2
+  },
+  {
+    "ZipCode": 85743,
+    "rides": 2
+  },
+  {
+    "ZipCode": 37752,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7082,
+    "rides": 2
+  },
+  {
+    "ZipCode": 4612,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92591,
+    "rides": 2
+  },
+  {
+    "ZipCode": 30022,
+    "rides": 2
+  },
+  {
+    "ZipCode": 1050,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92337,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90605,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91607,
+    "rides": 2
+  },
+  {
+    "ZipCode": 74500,
+    "rides": 2
+  },
+  {
+    "ZipCode": 10559,
+    "rides": 2
+  },
+  {
+    "ZipCode": 19123,
+    "rides": 2
+  },
+  {
+    "ZipCode": 81004,
+    "rides": 2
+  },
+  {
+    "ZipCode": 43617,
+    "rides": 2
+  },
+  {
+    "ZipCode": 83333,
+    "rides": 2
+  },
+  {
+    "ZipCode": 6005,
+    "rides": 2
+  },
+  {
+    "ZipCode": 78733,
+    "rides": 2
+  },
+  {
+    "ZipCode": 85308,
+    "rides": 2
+  },
+  {
+    "ZipCode": 6516,
+    "rides": 2
+  },
+  {
+    "ZipCode": 37221,
+    "rides": 2
+  },
+  {
+    "ZipCode": 5330,
+    "rides": 2
+  },
+  {
+    "ZipCode": 75202,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60624,
+    "rides": 2
+  },
+  {
+    "ZipCode": 9458,
+    "rides": 2
+  },
+  {
+    "ZipCode": 81667,
+    "rides": 2
+  },
+  {
+    "ZipCode": 85283,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33982,
+    "rides": 2
+  },
+  {
+    "ZipCode": 73034,
+    "rides": 2
+  },
+  {
+    "ZipCode": 8134,
+    "rides": 2
+  },
+  {
+    "ZipCode": 28031,
+    "rides": 2
+  },
+  {
+    "ZipCode": 73013,
+    "rides": 2
+  },
+  {
+    "ZipCode": 687,
+    "rides": 2
+  },
+  {
+    "ZipCode": 122011,
+    "rides": 2
+  },
+  {
+    "ZipCode": 4558,
+    "rides": 2
+  },
+  {
+    "ZipCode": 8032,
+    "rides": 2
+  },
+  {
+    "ZipCode": 20851,
+    "rides": 2
+  },
+  {
+    "ZipCode": 8406,
+    "rides": 2
+  },
+  {
+    "ZipCode": 84040,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60060,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2083,
+    "rides": 2
+  },
+  {
+    "ZipCode": 20120,
+    "rides": 2
+  },
+  {
+    "ZipCode": 3820,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60169,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33040,
+    "rides": 2
+  },
+  {
+    "ZipCode": 20190,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91108,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95160,
+    "rides": 2
+  },
+  {
+    "ZipCode": 15106,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60077,
+    "rides": 2
+  },
+  {
+    "ZipCode": 44333,
+    "rides": 2
+  },
+  {
+    "ZipCode": 37027,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2052,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60123,
+    "rides": 2
+  },
+  {
+    "ZipCode": 32835,
+    "rides": 2
+  },
+  {
+    "ZipCode": 64152,
+    "rides": 2
+  },
+  {
+    "ZipCode": 55311,
+    "rides": 2
+  },
+  {
+    "ZipCode": 75082,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95901,
+    "rides": 2
+  },
+  {
+    "ZipCode": 70124,
+    "rides": 2
+  },
+  {
+    "ZipCode": 50219,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7974,
+    "rides": 2
+  },
+  {
+    "ZipCode": 70570,
+    "rides": 2
+  },
+  {
+    "ZipCode": 78745,
+    "rides": 2
+  },
+  {
+    "ZipCode": 78747,
+    "rides": 2
+  },
+  {
+    "ZipCode": 99338,
+    "rides": 2
+  },
+  {
+    "ZipCode": 11421,
+    "rides": 2
+  },
+  {
+    "ZipCode": 80016,
+    "rides": 2
+  },
+  {
+    "ZipCode": 88230,
+    "rides": 2
+  },
+  {
+    "ZipCode": 18940,
+    "rides": 2
+  },
+  {
+    "ZipCode": 21234,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90265,
+    "rides": 2
+  },
+  {
+    "ZipCode": 97006,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90071,
+    "rides": 2
+  },
+  {
+    "ZipCode": 1060044,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2184,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60137,
+    "rides": 2
+  },
+  {
+    "ZipCode": 80027,
+    "rides": 2
+  },
+  {
+    "ZipCode": 61801,
+    "rides": 2
+  },
+  {
+    "ZipCode": 93111,
+    "rides": 2
+  },
+  {
+    "ZipCode": 200093,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92590,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33301,
+    "rides": 2
+  },
+  {
+    "ZipCode": 80126,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92690,
+    "rides": 2
+  },
+  {
+    "ZipCode": 45333,
+    "rides": 2
+  },
+  {
+    "ZipCode": 8848,
+    "rides": 2
+  },
+  {
+    "ZipCode": 55803,
+    "rides": 2
+  },
+  {
+    "ZipCode": 358,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90808,
+    "rides": 2
+  },
+  {
+    "ZipCode": 48081,
+    "rides": 2
+  },
+  {
+    "ZipCode": 78523,
+    "rides": 2
+  },
+  {
+    "ZipCode": 45206,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90713,
+    "rides": 2
+  },
+  {
+    "ZipCode": 5107721421,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90435,
+    "rides": 2
+  },
+  {
+    "ZipCode": 89519,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2830,
+    "rides": 2
+  },
+  {
+    "ZipCode": 84583,
+    "rides": 2
+  },
+  {
+    "ZipCode": 20004,
+    "rides": 2
+  },
+  {
+    "ZipCode": 98188,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92649,
+    "rides": 2
+  },
+  {
+    "ZipCode": 96789,
+    "rides": 2
+  },
+  {
+    "ZipCode": 93118,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92637,
+    "rides": 2
+  },
+  {
+    "ZipCode": 3313,
+    "rides": 2
+  },
+  {
+    "ZipCode": 960,
+    "rides": 2
+  },
+  {
+    "ZipCode": 16803,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91902,
+    "rides": 2
+  },
+  {
+    "ZipCode": 11782,
+    "rides": 2
+  },
+  {
+    "ZipCode": 10708,
+    "rides": 2
+  },
+  {
+    "ZipCode": 49417,
+    "rides": 2
+  },
+  {
+    "ZipCode": 54401,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91582,
+    "rides": 2
+  },
+  {
+    "ZipCode": 77024,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95988,
+    "rides": 2
+  },
+  {
+    "ZipCode": 125466,
+    "rides": 2
+  },
+  {
+    "ZipCode": 93004,
+    "rides": 2
+  },
+  {
+    "ZipCode": 34230,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60305,
+    "rides": 2
+  },
+  {
+    "ZipCode": 96744,
+    "rides": 2
+  },
+  {
+    "ZipCode": 1230,
+    "rides": 2
+  },
+  {
+    "ZipCode": 27513,
+    "rides": 2
+  },
+  {
+    "ZipCode": 55269,
+    "rides": 2
+  },
+  {
+    "ZipCode": 36207,
+    "rides": 2
+  },
+  {
+    "ZipCode": 98145,
+    "rides": 2
+  },
+  {
+    "ZipCode": 36070,
+    "rides": 2
+  },
+  {
+    "ZipCode": 63118,
+    "rides": 2
+  },
+  {
+    "ZipCode": 94142,
+    "rides": 2
+  },
+  {
+    "ZipCode": 73118,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91007,
+    "rides": 2
+  },
+  {
+    "ZipCode": 18000,
+    "rides": 2
+  },
+  {
+    "ZipCode": 23505,
+    "rides": 2
+  },
+  {
+    "ZipCode": 67433,
+    "rides": 2
+  },
+  {
+    "ZipCode": 77478,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92108,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91010,
+    "rides": 2
+  },
+  {
+    "ZipCode": 40200,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33773,
+    "rides": 2
+  },
+  {
+    "ZipCode": 99336,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91042,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91207,
+    "rides": 2
+  },
+  {
+    "ZipCode": 45220,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90670003,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33334,
+    "rides": 2
+  },
+  {
+    "ZipCode": 32821,
+    "rides": 2
+  },
+  {
+    "ZipCode": 77025,
+    "rides": 2
+  },
+  {
+    "ZipCode": 86401,
+    "rides": 2
+  },
+  {
+    "ZipCode": 21550,
+    "rides": 2
+  },
+  {
+    "ZipCode": 21403,
+    "rides": 2
+  },
+  {
+    "ZipCode": 172,
+    "rides": 2
+  },
+  {
+    "ZipCode": 50266,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7304,
+    "rides": 2
+  },
+  {
+    "ZipCode": 22450,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60910,
+    "rides": 2
+  },
+  {
+    "ZipCode": 34000,
+    "rides": 2
+  },
+  {
+    "ZipCode": 97333,
+    "rides": 2
+  },
+  {
+    "ZipCode": 1240,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90044,
+    "rides": 2
+  },
+  {
+    "ZipCode": 98405,
+    "rides": 2
+  },
+  {
+    "ZipCode": 77704,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2461,
+    "rides": 2
+  },
+  {
+    "ZipCode": 10061,
+    "rides": 2
+  },
+  {
+    "ZipCode": 12901,
+    "rides": 2
+  },
+  {
+    "ZipCode": 865555,
+    "rides": 2
+  },
+  {
+    "ZipCode": 93445,
+    "rides": 2
+  },
+  {
+    "ZipCode": 85048,
+    "rides": 2
+  },
+  {
+    "ZipCode": 35487,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7871,
+    "rides": 2
+  },
+  {
+    "ZipCode": 93923,
+    "rides": 2
+  },
+  {
+    "ZipCode": 125363,
+    "rides": 2
+  },
+  {
+    "ZipCode": 84414,
+    "rides": 2
+  },
+  {
+    "ZipCode": 45056,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92550,
+    "rides": 2
+  },
+  {
+    "ZipCode": 62,
+    "rides": 2
+  },
+  {
+    "ZipCode": 70128,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95067,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33170,
+    "rides": 2
+  },
+  {
+    "ZipCode": 78722,
+    "rides": 2
+  },
+  {
+    "ZipCode": 52244,
+    "rides": 2
+  },
+  {
+    "ZipCode": 47521,
+    "rides": 2
+  },
+  {
+    "ZipCode": 9512,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7024,
+    "rides": 2
+  },
+  {
+    "ZipCode": 97577,
+    "rides": 2
+  },
+  {
+    "ZipCode": 77336,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7722,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7666,
+    "rides": 2
+  },
+  {
+    "ZipCode": 96816,
+    "rides": 2
+  },
+  {
+    "ZipCode": 125413,
+    "rides": 2
+  },
+  {
+    "ZipCode": 37064,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90015,
+    "rides": 2
+  },
+  {
+    "ZipCode": 20210,
+    "rides": 2
+  },
+  {
+    "ZipCode": 96706,
+    "rides": 2
+  },
+  {
+    "ZipCode": 12931,
+    "rides": 2
+  },
+  {
+    "ZipCode": 19035,
+    "rides": 2
+  },
+  {
+    "ZipCode": 6433621,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2093,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60612,
+    "rides": 2
+  },
+  {
+    "ZipCode": 41011,
+    "rides": 2
+  },
+  {
+    "ZipCode": 80030,
+    "rides": 2
+  },
+  {
+    "ZipCode": 3104,
+    "rides": 2
+  },
+  {
+    "ZipCode": 97140,
+    "rides": 2
+  },
+  {
+    "ZipCode": 86821,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91390,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33140,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33150,
+    "rides": 2
+  },
+  {
+    "ZipCode": 78681,
+    "rides": 2
+  },
+  {
+    "ZipCode": 182,
+    "rides": 2
+  },
+  {
+    "ZipCode": 20110,
+    "rides": 2
+  },
+  {
+    "ZipCode": 4152,
+    "rides": 2
+  },
+  {
+    "ZipCode": 43202,
+    "rides": 2
+  },
+  {
+    "ZipCode": 80002,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91791,
+    "rides": 2
+  },
+  {
+    "ZipCode": 93104,
+    "rides": 2
+  },
+  {
+    "ZipCode": 22302,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7094,
+    "rides": 2
+  },
+  {
+    "ZipCode": 50588,
+    "rides": 2
+  },
+  {
+    "ZipCode": 55129,
+    "rides": 2
+  },
+  {
+    "ZipCode": 83001,
+    "rides": 2
+  },
+  {
+    "ZipCode": 74,
+    "rides": 2
+  },
+  {
+    "ZipCode": 96761,
+    "rides": 2
+  },
+  {
+    "ZipCode": 12900430,
+    "rides": 2
+  },
+  {
+    "ZipCode": 64850,
+    "rides": 2
+  },
+  {
+    "ZipCode": 11419,
+    "rides": 2
+  },
+  {
+    "ZipCode": 67800,
+    "rides": 2
+  },
+  {
+    "ZipCode": 6505,
+    "rides": 2
+  },
+  {
+    "ZipCode": 123423,
+    "rides": 2
+  },
+  {
+    "ZipCode": 20874,
+    "rides": 2
+  },
+  {
+    "ZipCode": 75223,
+    "rides": 2
+  },
+  {
+    "ZipCode": 38700,
+    "rides": 2
+  },
+  {
+    "ZipCode": 78613,
+    "rides": 2
+  },
+  {
+    "ZipCode": 32137,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92868,
+    "rides": 2
+  },
+  {
+    "ZipCode": 27614,
+    "rides": 2
+  },
+  {
+    "ZipCode": 48237,
+    "rides": 2
+  },
+  {
+    "ZipCode": 560751,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91737,
+    "rides": 2
+  },
+  {
+    "ZipCode": 469972,
+    "rides": 2
+  },
+  {
+    "ZipCode": 75248,
+    "rides": 2
+  },
+  {
+    "ZipCode": 93105,
+    "rides": 2
+  },
+  {
+    "ZipCode": 7719,
+    "rides": 2
+  },
+  {
+    "ZipCode": 90019,
+    "rides": 2
+  },
+  {
+    "ZipCode": 98257,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33594,
+    "rides": 2
+  },
+  {
+    "ZipCode": 17821,
+    "rides": 2
+  },
+  {
+    "ZipCode": 23005,
+    "rides": 2
+  },
+  {
+    "ZipCode": 41071,
+    "rides": 2
+  },
+  {
+    "ZipCode": 4069,
+    "rides": 2
+  },
+  {
+    "ZipCode": 33009,
+    "rides": 2
+  },
+  {
+    "ZipCode": 3800,
+    "rides": 2
+  },
+  {
+    "ZipCode": 47408,
+    "rides": 2
+  },
+  {
+    "ZipCode": 77354,
+    "rides": 2
+  },
+  {
+    "ZipCode": 30044,
+    "rides": 2
+  },
+  {
+    "ZipCode": 53546,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92102,
+    "rides": 2
+  },
+  {
+    "ZipCode": 80306,
+    "rides": 2
+  },
+  {
+    "ZipCode": 13210,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2381,
+    "rides": 2
+  },
+  {
+    "ZipCode": 32822,
+    "rides": 2
+  },
+  {
+    "ZipCode": 4052,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2639,
+    "rides": 2
+  },
+  {
+    "ZipCode": 55107,
+    "rides": 2
+  },
+  {
+    "ZipCode": 22032,
+    "rides": 2
+  },
+  {
+    "ZipCode": 70149,
+    "rides": 2
+  },
+  {
+    "ZipCode": 32258,
+    "rides": 2
+  },
+  {
+    "ZipCode": 83201,
+    "rides": 2
+  },
+  {
+    "ZipCode": 46268,
+    "rides": 2
+  },
+  {
+    "ZipCode": 96734,
+    "rides": 2
+  },
+  {
+    "ZipCode": 664,
+    "rides": 2
+  },
+  {
+    "ZipCode": 80920,
+    "rides": 2
+  },
+  {
+    "ZipCode": 10163,
+    "rides": 2
+  },
+  {
+    "ZipCode": 60302,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91210,
+    "rides": 2
+  },
+  {
+    "ZipCode": 30298,
+    "rides": 2
+  },
+  {
+    "ZipCode": 91406,
+    "rides": 2
+  },
+  {
+    "ZipCode": 472019,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92138,
+    "rides": 2
+  },
+  {
+    "ZipCode": 49287,
+    "rides": 2
+  },
+  {
+    "ZipCode": 95108,
+    "rides": 2
+  },
+  {
+    "ZipCode": 5046,
+    "rides": 2
+  },
+  {
+    "ZipCode": 8604,
+    "rides": 2
+  },
+  {
+    "ZipCode": 59000,
+    "rides": 2
+  },
+  {
+    "ZipCode": 87047,
+    "rides": 2
+  },
+  {
+    "ZipCode": 2040,
+    "rides": 2
+  },
+  {
+    "ZipCode": 48126,
+    "rides": 2
+  },
+  {
+    "ZipCode": 8523,
+    "rides": 2
+  },
+  {
+    "ZipCode": 23233,
+    "rides": 2
+  },
+  {
+    "ZipCode": 85234,
+    "rides": 2
+  },
+  {
+    "ZipCode": 98040,
+    "rides": 2
+  },
+  {
+    "ZipCode": 92543,
+    "rides": 2
+  },
+  {
+    "ZipCode": 16541,
+    "rides": 2
+  },
+  {
+    "ZipCode": "94107-3471",
+    "rides": 2
+  },
+  {
+    "ZipCode": 80212,
+    "rides": 2
+  },
+  {
+    "ZipCode": 18034,
+    "rides": 2
+  },
+  {
+    "ZipCode": 44824,
+    "rides": 2
+  },
+  {
+    "ZipCode": 77502,
+    "rides": 2
+  },
+  {
+    "ZipCode": "M4S1P",
+    "rides": 2
+  },
+  {
+    "ZipCode": 95776,
+    "rides": 2
+  },
+  {
+    "ZipCode": 5372110,
+    "rides": 2
+  },
+  {
+    "ZipCode": 19095,
+    "rides": 1
+  },
+  {
+    "ZipCode": 93924,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8304,
+    "rides": 1
+  },
+  {
+    "ZipCode": 90022,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2136,
+    "rides": 1
+  },
+  {
+    "ZipCode": 43085,
+    "rides": 1
+  },
+  {
+    "ZipCode": 97239,
+    "rides": 1
+  },
+  {
+    "ZipCode": 41075,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94079,
+    "rides": 1
+  },
+  {
+    "ZipCode": 91780,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2034,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94004,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95948,
+    "rides": 1
+  },
+  {
+    "ZipCode": 77375,
+    "rides": 1
+  },
+  {
+    "ZipCode": 47933,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95662,
+    "rides": 1
+  },
+  {
+    "ZipCode": 88005,
+    "rides": 1
+  },
+  {
+    "ZipCode": 93942,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94599,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92706,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8701,
+    "rides": 1
+  },
+  {
+    "ZipCode": 77098,
+    "rides": 1
+  },
+  {
+    "ZipCode": 91766,
+    "rides": 1
+  },
+  {
+    "ZipCode": 77100,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33706,
+    "rides": 1
+  },
+  {
+    "ZipCode": 17033,
+    "rides": 1
+  },
+  {
+    "ZipCode": 53217,
+    "rides": 1
+  },
+  {
+    "ZipCode": 56040,
+    "rides": 1
+  },
+  {
+    "ZipCode": 9440,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95670,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92116,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6460,
+    "rides": 1
+  },
+  {
+    "ZipCode": 44233,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6500846,
+    "rides": 1
+  },
+  {
+    "ZipCode": 9456,
+    "rides": 1
+  },
+  {
+    "ZipCode": 36202,
+    "rides": 1
+  },
+  {
+    "ZipCode": 11021,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2012,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60160140,
+    "rides": 1
+  },
+  {
+    "ZipCode": 854,
+    "rides": 1
+  },
+  {
+    "ZipCode": 85374,
+    "rides": 1
+  },
+  {
+    "ZipCode": 41311,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95690,
+    "rides": 1
+  },
+  {
+    "ZipCode": 32003,
+    "rides": 1
+  },
+  {
+    "ZipCode": 9105,
+    "rides": 1
+  },
+  {
+    "ZipCode": 11364,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33306,
+    "rides": 1
+  },
+  {
+    "ZipCode": 54403,
+    "rides": 1
+  },
+  {
+    "ZipCode": 15211,
+    "rides": 1
+  },
+  {
+    "ZipCode": 9459,
+    "rides": 1
+  },
+  {
+    "ZipCode": 74115,
+    "rides": 1
+  },
+  {
+    "ZipCode": 351,
+    "rides": 1
+  },
+  {
+    "ZipCode": 58822,
+    "rides": 1
+  },
+  {
+    "ZipCode": 62062,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92704,
+    "rides": 1
+  },
+  {
+    "ZipCode": 48324,
+    "rides": 1
+  },
+  {
+    "ZipCode": 3400034,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2587,
+    "rides": 1
+  },
+  {
+    "ZipCode": 988110,
+    "rides": 1
+  },
+  {
+    "ZipCode": 91432,
+    "rides": 1
+  },
+  {
+    "ZipCode": 48103,
+    "rides": 1
+  },
+  {
+    "ZipCode": 626,
+    "rides": 1
+  },
+  {
+    "ZipCode": 90275,
+    "rides": 1
+  },
+  {
+    "ZipCode": 97062,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98058,
+    "rides": 1
+  },
+  {
+    "ZipCode": 78666,
+    "rides": 1
+  },
+  {
+    "ZipCode": 30338,
+    "rides": 1
+  },
+  {
+    "ZipCode": 20149,
+    "rides": 1
+  },
+  {
+    "ZipCode": 90412,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2031,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8840,
+    "rides": 1
+  },
+  {
+    "ZipCode": 4817,
+    "rides": 1
+  },
+  {
+    "ZipCode": 55422,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33713,
+    "rides": 1
+  },
+  {
+    "ZipCode": 59001,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60482,
+    "rides": 1
+  },
+  {
+    "ZipCode": 3,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1660015,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6109,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2026,
+    "rides": 1
+  },
+  {
+    "ZipCode": 42701,
+    "rides": 1
+  },
+  {
+    "ZipCode": 81243,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60515,
+    "rides": 1
+  },
+  {
+    "ZipCode": 96954,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33181,
+    "rides": 1
+  },
+  {
+    "ZipCode": 93625,
+    "rides": 1
+  },
+  {
+    "ZipCode": 652,
+    "rides": 1
+  },
+  {
+    "ZipCode": 3330961,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33541,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60131,
+    "rides": 1
+  },
+  {
+    "ZipCode": 47806,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94141,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92335,
+    "rides": 1
+  },
+  {
+    "ZipCode": 10152,
+    "rides": 1
+  },
+  {
+    "ZipCode": 48301,
+    "rides": 1
+  },
+  {
+    "ZipCode": 32303,
+    "rides": 1
+  },
+  {
+    "ZipCode": 9415,
+    "rides": 1
+  },
+  {
+    "ZipCode": 89128,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2100,
+    "rides": 1
+  },
+  {
+    "ZipCode": 250,
+    "rides": 1
+  },
+  {
+    "ZipCode": 65101,
+    "rides": 1
+  },
+  {
+    "ZipCode": 90230,
+    "rides": 1
+  },
+  {
+    "ZipCode": 85021,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33021,
+    "rides": 1
+  },
+  {
+    "ZipCode": 10709,
+    "rides": 1
+  },
+  {
+    "ZipCode": 7921,
+    "rides": 1
+  },
+  {
+    "ZipCode": 77079,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92234,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95206,
+    "rides": 1
+  },
+  {
+    "ZipCode": 75033,
+    "rides": 1
+  },
+  {
+    "ZipCode": 43081,
+    "rides": 1
+  },
+  {
+    "ZipCode": 143441,
+    "rides": 1
+  },
+  {
+    "ZipCode": 78729,
+    "rides": 1
+  },
+  {
+    "ZipCode": 20191,
+    "rides": 1
+  },
+  {
+    "ZipCode": 78201,
+    "rides": 1
+  },
+  {
+    "ZipCode": 56560,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6801,
+    "rides": 1
+  },
+  {
+    "ZipCode": 248000,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1984,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92021,
+    "rides": 1
+  },
+  {
+    "ZipCode": 11501,
+    "rides": 1
+  },
+  {
+    "ZipCode": 113299,
+    "rides": 1
+  },
+  {
+    "ZipCode": 44113,
+    "rides": 1
+  },
+  {
+    "ZipCode": 81541,
+    "rides": 1
+  },
+  {
+    "ZipCode": 50066,
+    "rides": 1
+  },
+  {
+    "ZipCode": 90280,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60617,
+    "rides": 1
+  },
+  {
+    "ZipCode": 21756,
+    "rides": 1
+  },
+  {
+    "ZipCode": 30117,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92009,
+    "rides": 1
+  },
+  {
+    "ZipCode": 10960,
+    "rides": 1
+  },
+  {
+    "ZipCode": 45014,
+    "rides": 1
+  },
+  {
+    "ZipCode": 39116,
+    "rides": 1
+  },
+  {
+    "ZipCode": 35,
+    "rides": 1
+  },
+  {
+    "ZipCode": 11787,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8836,
+    "rides": 1
+  },
+  {
+    "ZipCode": 530560,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2421,
+    "rides": 1
+  },
+  {
+    "ZipCode": 99026,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8057,
+    "rides": 1
+  },
+  {
+    "ZipCode": 20100,
+    "rides": 1
+  },
+  {
+    "ZipCode": 91722,
+    "rides": 1
+  },
+  {
+    "ZipCode": 90109,
+    "rides": 1
+  },
+  {
+    "ZipCode": 89108,
+    "rides": 1
+  },
+  {
+    "ZipCode": 10000,
+    "rides": 1
+  },
+  {
+    "ZipCode": 19426,
+    "rides": 1
+  },
+  {
+    "ZipCode": 3106,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92004,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33309,
+    "rides": 1
+  },
+  {
+    "ZipCode": 3300,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95631,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2350,
+    "rides": 1
+  },
+  {
+    "ZipCode": 91701,
+    "rides": 1
+  },
+  {
+    "ZipCode": 80610010,
+    "rides": 1
+  },
+  {
+    "ZipCode": 90419,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2056,
+    "rides": 1
+  },
+  {
+    "ZipCode": 78217,
+    "rides": 1
+  },
+  {
+    "ZipCode": 149110,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6422,
+    "rides": 1
+  },
+  {
+    "ZipCode": 55487,
+    "rides": 1
+  },
+  {
+    "ZipCode": 46815,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1486,
+    "rides": 1
+  },
+  {
+    "ZipCode": 36007,
+    "rides": 1
+  },
+  {
+    "ZipCode": 90501,
+    "rides": 1
+  },
+  {
+    "ZipCode": 43920,
+    "rides": 1
+  },
+  {
+    "ZipCode": 7401,
+    "rides": 1
+  },
+  {
+    "ZipCode": 46368,
+    "rides": 1
+  },
+  {
+    "ZipCode": 47406,
+    "rides": 1
+  },
+  {
+    "ZipCode": 12545,
+    "rides": 1
+  },
+  {
+    "ZipCode": 7018,
+    "rides": 1
+  },
+  {
+    "ZipCode": 5303000,
+    "rides": 1
+  },
+  {
+    "ZipCode": 47007,
+    "rides": 1
+  },
+  {
+    "ZipCode": 372,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95307,
+    "rides": 1
+  },
+  {
+    "ZipCode": 11221,
+    "rides": 1
+  },
+  {
+    "ZipCode": 30096,
+    "rides": 1
+  },
+  {
+    "ZipCode": 79518,
+    "rides": 1
+  },
+  {
+    "ZipCode": 26389,
+    "rides": 1
+  },
+  {
+    "ZipCode": 210001,
+    "rides": 1
+  },
+  {
+    "ZipCode": 88696,
+    "rides": 1
+  },
+  {
+    "ZipCode": 13090,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2037,
+    "rides": 1
+  },
+  {
+    "ZipCode": 21703,
+    "rides": 1
+  },
+  {
+    "ZipCode": 15201,
+    "rides": 1
+  },
+  {
+    "ZipCode": 75232,
+    "rides": 1
+  },
+  {
+    "ZipCode": 89502,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1930,
+    "rides": 1
+  },
+  {
+    "ZipCode": 9138,
+    "rides": 1
+  },
+  {
+    "ZipCode": 20619,
+    "rides": 1
+  },
+  {
+    "ZipCode": 44141,
+    "rides": 1
+  },
+  {
+    "ZipCode": 78212,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8810,
+    "rides": 1
+  },
+  {
+    "ZipCode": 9735,
+    "rides": 1
+  },
+  {
+    "ZipCode": 55901,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94977,
+    "rides": 1
+  },
+  {
+    "ZipCode": 65232,
+    "rides": 1
+  },
+  {
+    "ZipCode": 90408,
+    "rides": 1
+  },
+  {
+    "ZipCode": 21075,
+    "rides": 1
+  },
+  {
+    "ZipCode": 97351,
+    "rides": 1
+  },
+  {
+    "ZipCode": 64106,
+    "rides": 1
+  },
+  {
+    "ZipCode": 15241,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33025,
+    "rides": 1
+  },
+  {
+    "ZipCode": 74105,
+    "rides": 1
+  },
+  {
+    "ZipCode": 17055,
+    "rides": 1
+  },
+  {
+    "ZipCode": 68144,
+    "rides": 1
+  },
+  {
+    "ZipCode": 91402,
+    "rides": 1
+  },
+  {
+    "ZipCode": 72810,
+    "rides": 1
+  },
+  {
+    "ZipCode": 4526,
+    "rides": 1
+  },
+  {
+    "ZipCode": 54100,
+    "rides": 1
+  },
+  {
+    "ZipCode": 19030,
+    "rides": 1
+  },
+  {
+    "ZipCode": 53901,
+    "rides": 1
+  },
+  {
+    "ZipCode": 63116,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2210,
+    "rides": 1
+  },
+  {
+    "ZipCode": 10310,
+    "rides": 1
+  },
+  {
+    "ZipCode": 85028,
+    "rides": 1
+  },
+  {
+    "ZipCode": 4013,
+    "rides": 1
+  },
+  {
+    "ZipCode": 5160011,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8558,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60864455,
+    "rides": 1
+  },
+  {
+    "ZipCode": 90409,
+    "rides": 1
+  },
+  {
+    "ZipCode": 45111,
+    "rides": 1
+  },
+  {
+    "ZipCode": 89465,
+    "rides": 1
+  },
+  {
+    "ZipCode": 78749,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1940,
+    "rides": 1
+  },
+  {
+    "ZipCode": 411006,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95927,
+    "rides": 1
+  },
+  {
+    "ZipCode": 90274,
+    "rides": 1
+  },
+  {
+    "ZipCode": 22193,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6025,
+    "rides": 1
+  },
+  {
+    "ZipCode": 19000,
+    "rides": 1
+  },
+  {
+    "ZipCode": 11746,
+    "rides": 1
+  },
+  {
+    "ZipCode": 93012,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95991,
+    "rides": 1
+  },
+  {
+    "ZipCode": 85711,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98332,
+    "rides": 1
+  },
+  {
+    "ZipCode": 80000,
+    "rides": 1
+  },
+  {
+    "ZipCode": 54102,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8734,
+    "rides": 1
+  },
+  {
+    "ZipCode": 97031,
+    "rides": 1
+  },
+  {
+    "ZipCode": 93654,
+    "rides": 1
+  },
+  {
+    "ZipCode": 50400,
+    "rides": 1
+  },
+  {
+    "ZipCode": 45116,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33781,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1520,
+    "rides": 1
+  },
+  {
+    "ZipCode": 30033,
+    "rides": 1
+  },
+  {
+    "ZipCode": 195127,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33462,
+    "rides": 1
+  },
+  {
+    "ZipCode": 89509,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8817,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98065,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2803,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2711,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95172,
+    "rides": 1
+  },
+  {
+    "ZipCode": 76002,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92505,
+    "rides": 1
+  },
+  {
+    "ZipCode": 44116,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1182,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98272,
+    "rides": 1
+  },
+  {
+    "ZipCode": 59802,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92078,
+    "rides": 1
+  },
+  {
+    "ZipCode": 77046,
+    "rides": 1
+  },
+  {
+    "ZipCode": 3112,
+    "rides": 1
+  },
+  {
+    "ZipCode": 97205,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92860,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2751,
+    "rides": 1
+  },
+  {
+    "ZipCode": 97218,
+    "rides": 1
+  },
+  {
+    "ZipCode": 50126,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1337,
+    "rides": 1
+  },
+  {
+    "ZipCode": 99770,
+    "rides": 1
+  },
+  {
+    "ZipCode": 20871,
+    "rides": 1
+  },
+  {
+    "ZipCode": 11963,
+    "rides": 1
+  },
+  {
+    "ZipCode": 39157,
+    "rides": 1
+  },
+  {
+    "ZipCode": 30047,
+    "rides": 1
+  },
+  {
+    "ZipCode": 88011,
+    "rides": 1
+  },
+  {
+    "ZipCode": 89169,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60188,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1772,
+    "rides": 1
+  },
+  {
+    "ZipCode": 24018,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94537,
+    "rides": 1
+  },
+  {
+    "ZipCode": 10601,
+    "rides": 1
+  },
+  {
+    "ZipCode": 78728,
+    "rides": 1
+  },
+  {
+    "ZipCode": 19403,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2906,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94506,
+    "rides": 1
+  },
+  {
+    "ZipCode": 93035,
+    "rides": 1
+  },
+  {
+    "ZipCode": 79938,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33308,
+    "rides": 1
+  },
+  {
+    "ZipCode": 78645,
+    "rides": 1
+  },
+  {
+    "ZipCode": 28601,
+    "rides": 1
+  },
+  {
+    "ZipCode": 42737,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92211,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8055,
+    "rides": 1
+  },
+  {
+    "ZipCode": 56063,
+    "rides": 1
+  },
+  {
+    "ZipCode": 19067,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1851,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60645,
+    "rides": 1
+  },
+  {
+    "ZipCode": 75243,
+    "rides": 1
+  },
+  {
+    "ZipCode": 24937,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33186,
+    "rides": 1
+  },
+  {
+    "ZipCode": 75042,
+    "rides": 1
+  },
+  {
+    "ZipCode": 89448,
+    "rides": 1
+  },
+  {
+    "ZipCode": 79936,
+    "rides": 1
+  },
+  {
+    "ZipCode": 75252,
+    "rides": 1
+  },
+  {
+    "ZipCode": 77092,
+    "rides": 1
+  },
+  {
+    "ZipCode": 45889,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92845,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8003,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2148,
+    "rides": 1
+  },
+  {
+    "ZipCode": 14431,
+    "rides": 1
+  },
+  {
+    "ZipCode": 90048,
+    "rides": 1
+  },
+  {
+    "ZipCode": 32400,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98177,
+    "rides": 1
+  },
+  {
+    "ZipCode": 20910,
+    "rides": 1
+  },
+  {
+    "ZipCode": 10051,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94800,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1904,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95945,
+    "rides": 1
+  },
+  {
+    "ZipCode": 7700,
+    "rides": 1
+  },
+  {
+    "ZipCode": 99706,
+    "rides": 1
+  },
+  {
+    "ZipCode": 38732,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60103,
+    "rides": 1
+  },
+  {
+    "ZipCode": 91321,
+    "rides": 1
+  },
+  {
+    "ZipCode": 7020,
+    "rides": 1
+  },
+  {
+    "ZipCode": 53590,
+    "rides": 1
+  },
+  {
+    "ZipCode": 32839,
+    "rides": 1
+  },
+  {
+    "ZipCode": 29617,
+    "rides": 1
+  },
+  {
+    "ZipCode": 12159,
+    "rides": 1
+  },
+  {
+    "ZipCode": 37122,
+    "rides": 1
+  },
+  {
+    "ZipCode": 96067,
+    "rides": 1
+  },
+  {
+    "ZipCode": 96080,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33189,
+    "rides": 1
+  },
+  {
+    "ZipCode": 18972,
+    "rides": 1
+  },
+  {
+    "ZipCode": 76209,
+    "rides": 1
+  },
+  {
+    "ZipCode": 32951,
+    "rides": 1
+  },
+  {
+    "ZipCode": 52722,
+    "rides": 1
+  },
+  {
+    "ZipCode": 5700016,
+    "rides": 1
+  },
+  {
+    "ZipCode": 7753,
+    "rides": 1
+  },
+  {
+    "ZipCode": 11725,
+    "rides": 1
+  },
+  {
+    "ZipCode": 9494499,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2145,
+    "rides": 1
+  },
+  {
+    "ZipCode": 14223,
+    "rides": 1
+  },
+  {
+    "ZipCode": 55345,
+    "rides": 1
+  },
+  {
+    "ZipCode": 22900,
+    "rides": 1
+  },
+  {
+    "ZipCode": 47150,
+    "rides": 1
+  },
+  {
+    "ZipCode": 58270,
+    "rides": 1
+  },
+  {
+    "ZipCode": 48823,
+    "rides": 1
+  },
+  {
+    "ZipCode": 81504,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2163,
+    "rides": 1
+  },
+  {
+    "ZipCode": 19355,
+    "rides": 1
+  },
+  {
+    "ZipCode": 640809,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95973,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92629,
+    "rides": 1
+  },
+  {
+    "ZipCode": 50827,
+    "rides": 1
+  },
+  {
+    "ZipCode": 59807,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92841,
+    "rides": 1
+  },
+  {
+    "ZipCode": 17013,
+    "rides": 1
+  },
+  {
+    "ZipCode": 93908,
+    "rides": 1
+  },
+  {
+    "ZipCode": 194,
+    "rides": 1
+  },
+  {
+    "ZipCode": 80246,
+    "rides": 1
+  },
+  {
+    "ZipCode": 28226,
+    "rides": 1
+  },
+  {
+    "ZipCode": 19083,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2465,
+    "rides": 1
+  },
+  {
+    "ZipCode": 22556,
+    "rides": 1
+  },
+  {
+    "ZipCode": 73770,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6901,
+    "rides": 1
+  },
+  {
+    "ZipCode": 44145,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1890,
+    "rides": 1
+  },
+  {
+    "ZipCode": 65043,
+    "rides": 1
+  },
+  {
+    "ZipCode": 90940,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95363,
+    "rides": 1
+  },
+  {
+    "ZipCode": 9167,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98281,
+    "rides": 1
+  },
+  {
+    "ZipCode": 97215,
+    "rides": 1
+  },
+  {
+    "ZipCode": 32073,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8630,
+    "rides": 1
+  },
+  {
+    "ZipCode": 15300,
+    "rides": 1
+  },
+  {
+    "ZipCode": 55068,
+    "rides": 1
+  },
+  {
+    "ZipCode": 9536,
+    "rides": 1
+  },
+  {
+    "ZipCode": 70769,
+    "rides": 1
+  },
+  {
+    "ZipCode": 80138,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98292,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92880,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8043,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2810,
+    "rides": 1
+  },
+  {
+    "ZipCode": 84057,
+    "rides": 1
+  },
+  {
+    "ZipCode": 34695,
+    "rides": 1
+  },
+  {
+    "ZipCode": 36832,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94178,
+    "rides": 1
+  },
+  {
+    "ZipCode": 9539,
+    "rides": 1
+  },
+  {
+    "ZipCode": 96932,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1060045,
+    "rides": 1
+  },
+  {
+    "ZipCode": 45140,
+    "rides": 1
+  },
+  {
+    "ZipCode": 93265,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60439,
+    "rides": 1
+  },
+  {
+    "ZipCode": 48226,
+    "rides": 1
+  },
+  {
+    "ZipCode": 85296,
+    "rides": 1
+  },
+  {
+    "ZipCode": 37127,
+    "rides": 1
+  },
+  {
+    "ZipCode": 30159,
+    "rides": 1
+  },
+  {
+    "ZipCode": 263,
+    "rides": 1
+  },
+  {
+    "ZipCode": 41301,
+    "rides": 1
+  },
+  {
+    "ZipCode": 7733,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92831,
+    "rides": 1
+  },
+  {
+    "ZipCode": 28278,
+    "rides": 1
+  },
+  {
+    "ZipCode": 99501,
+    "rides": 1
+  },
+  {
+    "ZipCode": 79064,
+    "rides": 1
+  },
+  {
+    "ZipCode": 93730,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95509,
+    "rides": 1
+  },
+  {
+    "ZipCode": 77083,
+    "rides": 1
+  },
+  {
+    "ZipCode": 97702,
+    "rides": 1
+  },
+  {
+    "ZipCode": 91266,
+    "rides": 1
+  },
+  {
+    "ZipCode": 22980,
+    "rides": 1
+  },
+  {
+    "ZipCode": 77494,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95173,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8033,
+    "rides": 1
+  },
+  {
+    "ZipCode": 32806,
+    "rides": 1
+  },
+  {
+    "ZipCode": 75214,
+    "rides": 1
+  },
+  {
+    "ZipCode": 47114,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94060,
+    "rides": 1
+  },
+  {
+    "ZipCode": 27707,
+    "rides": 1
+  },
+  {
+    "ZipCode": 74066,
+    "rides": 1
+  },
+  {
+    "ZipCode": 18708,
+    "rides": 1
+  },
+  {
+    "ZipCode": 80229,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1890012,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8072,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2468,
+    "rides": 1
+  },
+  {
+    "ZipCode": 7901,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98502,
+    "rides": 1
+  },
+  {
+    "ZipCode": 7047,
+    "rides": 1
+  },
+  {
+    "ZipCode": 79414,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33161,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2820,
+    "rides": 1
+  },
+  {
+    "ZipCode": 10015,
+    "rides": 1
+  },
+  {
+    "ZipCode": 4610000,
+    "rides": 1
+  },
+  {
+    "ZipCode": 584521,
+    "rides": 1
+  },
+  {
+    "ZipCode": 7143,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60513,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6060815,
+    "rides": 1
+  },
+  {
+    "ZipCode": 5200,
+    "rides": 1
+  },
+  {
+    "ZipCode": 91702,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98001,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1231,
+    "rides": 1
+  },
+  {
+    "ZipCode": 83002,
+    "rides": 1
+  },
+  {
+    "ZipCode": 99507,
+    "rides": 1
+  },
+  {
+    "ZipCode": 21050,
+    "rides": 1
+  },
+  {
+    "ZipCode": 84123,
+    "rides": 1
+  },
+  {
+    "ZipCode": 38127,
+    "rides": 1
+  },
+  {
+    "ZipCode": 76708,
+    "rides": 1
+  },
+  {
+    "ZipCode": 31537,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60093,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8801,
+    "rides": 1
+  },
+  {
+    "ZipCode": 19111,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1080073,
+    "rides": 1
+  },
+  {
+    "ZipCode": 5013,
+    "rides": 1
+  },
+  {
+    "ZipCode": 28043,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92075,
+    "rides": 1
+  },
+  {
+    "ZipCode": 3018,
+    "rides": 1
+  },
+  {
+    "ZipCode": 48152,
+    "rides": 1
+  },
+  {
+    "ZipCode": 4100,
+    "rides": 1
+  },
+  {
+    "ZipCode": 4055,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92399,
+    "rides": 1
+  },
+  {
+    "ZipCode": 19096,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98204,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1430025,
+    "rides": 1
+  },
+  {
+    "ZipCode": 12538,
+    "rides": 1
+  },
+  {
+    "ZipCode": 9904,
+    "rides": 1
+  },
+  {
+    "ZipCode": 75028,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95002,
+    "rides": 1
+  },
+  {
+    "ZipCode": 17022,
+    "rides": 1
+  },
+  {
+    "ZipCode": 38000,
+    "rides": 1
+  },
+  {
+    "ZipCode": 80337,
+    "rides": 1
+  },
+  {
+    "ZipCode": 91773,
+    "rides": 1
+  },
+  {
+    "ZipCode": 22101,
+    "rides": 1
+  },
+  {
+    "ZipCode": 80215,
+    "rides": 1
+  },
+  {
+    "ZipCode": 84317,
+    "rides": 1
+  },
+  {
+    "ZipCode": 91325,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95938,
+    "rides": 1
+  },
+  {
+    "ZipCode": 19808,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92604,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95955,
+    "rides": 1
+  },
+  {
+    "ZipCode": 7624,
+    "rides": 1
+  },
+  {
+    "ZipCode": 76133,
+    "rides": 1
+  },
+  {
+    "ZipCode": 62139,
+    "rides": 1
+  },
+  {
+    "ZipCode": 19440,
+    "rides": 1
+  },
+  {
+    "ZipCode": 77345,
+    "rides": 1
+  },
+  {
+    "ZipCode": 18330,
+    "rides": 1
+  },
+  {
+    "ZipCode": 3755,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95501,
+    "rides": 1
+  },
+  {
+    "ZipCode": 19116,
+    "rides": 1
+  },
+  {
+    "ZipCode": 11552,
+    "rides": 1
+  },
+  {
+    "ZipCode": 70112,
+    "rides": 1
+  },
+  {
+    "ZipCode": 93312,
+    "rides": 1
+  },
+  {
+    "ZipCode": 85756,
+    "rides": 1
+  },
+  {
+    "ZipCode": 20083,
+    "rides": 1
+  },
+  {
+    "ZipCode": 78230,
+    "rides": 1
+  },
+  {
+    "ZipCode": 23556,
+    "rides": 1
+  },
+  {
+    "ZipCode": 23601,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60004,
+    "rides": 1
+  },
+  {
+    "ZipCode": 4322,
+    "rides": 1
+  },
+  {
+    "ZipCode": 612,
+    "rides": 1
+  },
+  {
+    "ZipCode": 43065,
+    "rides": 1
+  },
+  {
+    "ZipCode": 85013,
+    "rides": 1
+  },
+  {
+    "ZipCode": 25314,
+    "rides": 1
+  },
+  {
+    "ZipCode": 34109,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6804,
+    "rides": 1
+  },
+  {
+    "ZipCode": 40391,
+    "rides": 1
+  },
+  {
+    "ZipCode": 47720,
+    "rides": 1
+  },
+  {
+    "ZipCode": 34715,
+    "rides": 1
+  },
+  {
+    "ZipCode": 84128,
+    "rides": 1
+  },
+  {
+    "ZipCode": 53940,
+    "rides": 1
+  },
+  {
+    "ZipCode": 68123,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6510,
+    "rides": 1
+  },
+  {
+    "ZipCode": 20816,
+    "rides": 1
+  },
+  {
+    "ZipCode": 55417,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33173,
+    "rides": 1
+  },
+  {
+    "ZipCode": 70130,
+    "rides": 1
+  },
+  {
+    "ZipCode": 77096,
+    "rides": 1
+  },
+  {
+    "ZipCode": 90603,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94311,
+    "rides": 1
+  },
+  {
+    "ZipCode": 55411,
+    "rides": 1
+  },
+  {
+    "ZipCode": 78015,
+    "rides": 1
+  },
+  {
+    "ZipCode": 19115,
+    "rides": 1
+  },
+  {
+    "ZipCode": 3900,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94570,
+    "rides": 1
+  },
+  {
+    "ZipCode": 97204,
+    "rides": 1
+  },
+  {
+    "ZipCode": 84068,
+    "rides": 1
+  },
+  {
+    "ZipCode": 80601,
+    "rides": 1
+  },
+  {
+    "ZipCode": 84084,
+    "rides": 1
+  },
+  {
+    "ZipCode": 952154,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98531,
+    "rides": 1
+  },
+  {
+    "ZipCode": 14094,
+    "rides": 1
+  },
+  {
+    "ZipCode": 48304,
+    "rides": 1
+  },
+  {
+    "ZipCode": 28801,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98604,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2050,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98374,
+    "rides": 1
+  },
+  {
+    "ZipCode": 91533,
+    "rides": 1
+  },
+  {
+    "ZipCode": 18960,
+    "rides": 1
+  },
+  {
+    "ZipCode": 84116,
+    "rides": 1
+  },
+  {
+    "ZipCode": 78628,
+    "rides": 1
+  },
+  {
+    "ZipCode": 21921,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1983,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1600023,
+    "rides": 1
+  },
+  {
+    "ZipCode": 53024,
+    "rides": 1
+  },
+  {
+    "ZipCode": 52803,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2897,
+    "rides": 1
+  },
+  {
+    "ZipCode": 91911,
+    "rides": 1
+  },
+  {
+    "ZipCode": 93206,
+    "rides": 1
+  },
+  {
+    "ZipCode": 30458,
+    "rides": 1
+  },
+  {
+    "ZipCode": 89178,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2074,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1179,
+    "rides": 1
+  },
+  {
+    "ZipCode": 93433,
+    "rides": 1
+  },
+  {
+    "ZipCode": 123543,
+    "rides": 1
+  },
+  {
+    "ZipCode": 87106,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6018,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94210,
+    "rides": 1
+  },
+  {
+    "ZipCode": 15102,
+    "rides": 1
+  },
+  {
+    "ZipCode": 75062,
+    "rides": 1
+  },
+  {
+    "ZipCode": 9711,
+    "rides": 1
+  },
+  {
+    "ZipCode": 27518,
+    "rides": 1
+  },
+  {
+    "ZipCode": 43214,
+    "rides": 1
+  },
+  {
+    "ZipCode": 91122,
+    "rides": 1
+  },
+  {
+    "ZipCode": 11788,
+    "rides": 1
+  },
+  {
+    "ZipCode": 96595,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95215,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98713,
+    "rides": 1
+  },
+  {
+    "ZipCode": 944108,
+    "rides": 1
+  },
+  {
+    "ZipCode": 600031,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92000,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33027,
+    "rides": 1
+  },
+  {
+    "ZipCode": 63108,
+    "rides": 1
+  },
+  {
+    "ZipCode": 37917,
+    "rides": 1
+  },
+  {
+    "ZipCode": 63130,
+    "rides": 1
+  },
+  {
+    "ZipCode": 641830,
+    "rides": 1
+  },
+  {
+    "ZipCode": 55405,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92110,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60950,
+    "rides": 1
+  },
+  {
+    "ZipCode": 3062,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1768,
+    "rides": 1
+  },
+  {
+    "ZipCode": 180,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94045,
+    "rides": 1
+  },
+  {
+    "ZipCode": 89130,
+    "rides": 1
+  },
+  {
+    "ZipCode": 10174,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98391,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1204,
+    "rides": 1
+  },
+  {
+    "ZipCode": 20176,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2186,
+    "rides": 1
+  },
+  {
+    "ZipCode": 4561004,
+    "rides": 1
+  },
+  {
+    "ZipCode": 36602,
+    "rides": 1
+  },
+  {
+    "ZipCode": 22793261,
+    "rides": 1
+  },
+  {
+    "ZipCode": 46218,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6638141,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1500036,
+    "rides": 1
+  },
+  {
+    "ZipCode": 11234,
+    "rides": 1
+  },
+  {
+    "ZipCode": 29103,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1570063,
+    "rides": 1
+  },
+  {
+    "ZipCode": 54956,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6824,
+    "rides": 1
+  },
+  {
+    "ZipCode": 97402,
+    "rides": 1
+  },
+  {
+    "ZipCode": 9426,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60586,
+    "rides": 1
+  },
+  {
+    "ZipCode": 80806,
+    "rides": 1
+  },
+  {
+    "ZipCode": 80130,
+    "rides": 1
+  },
+  {
+    "ZipCode": 77706,
+    "rides": 1
+  },
+  {
+    "ZipCode": 65802,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33176,
+    "rides": 1
+  },
+  {
+    "ZipCode": 85935,
+    "rides": 1
+  },
+  {
+    "ZipCode": 30032,
+    "rides": 1
+  },
+  {
+    "ZipCode": 43026,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60631,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6470,
+    "rides": 1
+  },
+  {
+    "ZipCode": 50125,
+    "rides": 1
+  },
+  {
+    "ZipCode": 64113,
+    "rides": 1
+  },
+  {
+    "ZipCode": 80128,
+    "rides": 1
+  },
+  {
+    "ZipCode": 9959,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6040847,
+    "rides": 1
+  },
+  {
+    "ZipCode": 20850,
+    "rides": 1
+  },
+  {
+    "ZipCode": 12309,
+    "rides": 1
+  },
+  {
+    "ZipCode": 76726,
+    "rides": 1
+  },
+  {
+    "ZipCode": 90470,
+    "rides": 1
+  },
+  {
+    "ZipCode": 37086,
+    "rides": 1
+  },
+  {
+    "ZipCode": 80121,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2563,
+    "rides": 1
+  },
+  {
+    "ZipCode": 78852,
+    "rides": 1
+  },
+  {
+    "ZipCode": 83702,
+    "rides": 1
+  },
+  {
+    "ZipCode": 46410,
+    "rides": 1
+  },
+  {
+    "ZipCode": 14216,
+    "rides": 1
+  },
+  {
+    "ZipCode": 78600,
+    "rides": 1
+  },
+  {
+    "ZipCode": 958233,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60514,
+    "rides": 1
+  },
+  {
+    "ZipCode": 34480,
+    "rides": 1
+  },
+  {
+    "ZipCode": 80241,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2071,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95488,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95114,
+    "rides": 1
+  },
+  {
+    "ZipCode": 907,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98683,
+    "rides": 1
+  },
+  {
+    "ZipCode": 90018,
+    "rides": 1
+  },
+  {
+    "ZipCode": 11768,
+    "rides": 1
+  },
+  {
+    "ZipCode": 31763,
+    "rides": 1
+  },
+  {
+    "ZipCode": 10312,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98367,
+    "rides": 1
+  },
+  {
+    "ZipCode": 34531,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6310804,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95031,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98335,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33617,
+    "rides": 1
+  },
+  {
+    "ZipCode": 24060,
+    "rides": 1
+  },
+  {
+    "ZipCode": 7410,
+    "rides": 1
+  },
+  {
+    "ZipCode": 105,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2492,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1220,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1014,
+    "rides": 1
+  },
+  {
+    "ZipCode": 48208,
+    "rides": 1
+  },
+  {
+    "ZipCode": 34188,
+    "rides": 1
+  },
+  {
+    "ZipCode": 174758,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95949,
+    "rides": 1
+  },
+  {
+    "ZipCode": 4705,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2120,
+    "rides": 1
+  },
+  {
+    "ZipCode": 35205,
+    "rides": 1
+  },
+  {
+    "ZipCode": 99567,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98607,
+    "rides": 1
+  },
+  {
+    "ZipCode": 7500,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60043,
+    "rides": 1
+  },
+  {
+    "ZipCode": 111111,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2230,
+    "rides": 1
+  },
+  {
+    "ZipCode": 79604,
+    "rides": 1
+  },
+  {
+    "ZipCode": 55424,
+    "rides": 1
+  },
+  {
+    "ZipCode": 19473,
+    "rides": 1
+  },
+  {
+    "ZipCode": 44124,
+    "rides": 1
+  },
+  {
+    "ZipCode": 87544,
+    "rides": 1
+  },
+  {
+    "ZipCode": 571,
+    "rides": 1
+  },
+  {
+    "ZipCode": 620908,
+    "rides": 1
+  },
+  {
+    "ZipCode": 21771,
+    "rides": 1
+  },
+  {
+    "ZipCode": 32601,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94511,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98252,
+    "rides": 1
+  },
+  {
+    "ZipCode": 91352,
+    "rides": 1
+  },
+  {
+    "ZipCode": 78541,
+    "rides": 1
+  },
+  {
+    "ZipCode": 91041,
+    "rides": 1
+  },
+  {
+    "ZipCode": 5980,
+    "rides": 1
+  },
+  {
+    "ZipCode": 72815,
+    "rides": 1
+  },
+  {
+    "ZipCode": 9303,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98580,
+    "rides": 1
+  },
+  {
+    "ZipCode": 91365,
+    "rides": 1
+  },
+  {
+    "ZipCode": 43235,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1894,
+    "rides": 1
+  },
+  {
+    "ZipCode": 20769,
+    "rides": 1
+  },
+  {
+    "ZipCode": 37214,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2909,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2368,
+    "rides": 1
+  },
+  {
+    "ZipCode": 75017,
+    "rides": 1
+  },
+  {
+    "ZipCode": 58341,
+    "rides": 1
+  },
+  {
+    "ZipCode": 70866050,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2332,
+    "rides": 1
+  },
+  {
+    "ZipCode": 48309,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95301,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33141,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94214,
+    "rides": 1
+  },
+  {
+    "ZipCode": 386,
+    "rides": 1
+  },
+  {
+    "ZipCode": 50021,
+    "rides": 1
+  },
+  {
+    "ZipCode": 9267,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6110,
+    "rides": 1
+  },
+  {
+    "ZipCode": 88401,
+    "rides": 1
+  },
+  {
+    "ZipCode": 32605,
+    "rides": 1
+  },
+  {
+    "ZipCode": 84045,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95966,
+    "rides": 1
+  },
+  {
+    "ZipCode": 68116,
+    "rides": 1
+  },
+  {
+    "ZipCode": 3303,
+    "rides": 1
+  },
+  {
+    "ZipCode": 53403,
+    "rides": 1
+  },
+  {
+    "ZipCode": 37601,
+    "rides": 1
+  },
+  {
+    "ZipCode": 64610,
+    "rides": 1
+  },
+  {
+    "ZipCode": 947111,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98258,
+    "rides": 1
+  },
+  {
+    "ZipCode": 46226,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8731,
+    "rides": 1
+  },
+  {
+    "ZipCode": 77454,
+    "rides": 1
+  },
+  {
+    "ZipCode": 3510,
+    "rides": 1
+  },
+  {
+    "ZipCode": 5054,
+    "rides": 1
+  },
+  {
+    "ZipCode": 55802,
+    "rides": 1
+  },
+  {
+    "ZipCode": 38201,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8045,
+    "rides": 1
+  },
+  {
+    "ZipCode": 3205,
+    "rides": 1
+  },
+  {
+    "ZipCode": 19119,
+    "rides": 1
+  },
+  {
+    "ZipCode": 53072336646,
+    "rides": 1
+  },
+  {
+    "ZipCode": 74211,
+    "rides": 1
+  },
+  {
+    "ZipCode": 4,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94415,
+    "rides": 1
+  },
+  {
+    "ZipCode": 62802,
+    "rides": 1
+  },
+  {
+    "ZipCode": 22042,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60417,
+    "rides": 1
+  },
+  {
+    "ZipCode": 73071,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98249,
+    "rides": 1
+  },
+  {
+    "ZipCode": 75056,
+    "rides": 1
+  },
+  {
+    "ZipCode": 25560,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6010,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92806,
+    "rides": 1
+  },
+  {
+    "ZipCode": 86045,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8536,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33322,
+    "rides": 1
+  },
+  {
+    "ZipCode": 4082,
+    "rides": 1
+  },
+  {
+    "ZipCode": 4614001,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60615,
+    "rides": 1
+  },
+  {
+    "ZipCode": 3554,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98029,
+    "rides": 1
+  },
+  {
+    "ZipCode": 80434,
+    "rides": 1
+  },
+  {
+    "ZipCode": 12549,
+    "rides": 1
+  },
+  {
+    "ZipCode": 17543,
+    "rides": 1
+  },
+  {
+    "ZipCode": 32825,
+    "rides": 1
+  },
+  {
+    "ZipCode": 97127,
+    "rides": 1
+  },
+  {
+    "ZipCode": 97225,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6737771,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1094,
+    "rides": 1
+  },
+  {
+    "ZipCode": 333411,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33115510,
+    "rides": 1
+  },
+  {
+    "ZipCode": 86000,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8311,
+    "rides": 1
+  },
+  {
+    "ZipCode": 3613,
+    "rides": 1
+  },
+  {
+    "ZipCode": 31406,
+    "rides": 1
+  },
+  {
+    "ZipCode": 85525,
+    "rides": 1
+  },
+  {
+    "ZipCode": 93023,
+    "rides": 1
+  },
+  {
+    "ZipCode": 37115,
+    "rides": 1
+  },
+  {
+    "ZipCode": 28870,
+    "rides": 1
+  },
+  {
+    "ZipCode": 23888,
+    "rides": 1
+  },
+  {
+    "ZipCode": 61525,
+    "rides": 1
+  },
+  {
+    "ZipCode": 14424,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6382,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6800,
+    "rides": 1
+  },
+  {
+    "ZipCode": 70560,
+    "rides": 1
+  },
+  {
+    "ZipCode": 676,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95219,
+    "rides": 1
+  },
+  {
+    "ZipCode": 28104,
+    "rides": 1
+  },
+  {
+    "ZipCode": 20832,
+    "rides": 1
+  },
+  {
+    "ZipCode": 941108,
+    "rides": 1
+  },
+  {
+    "ZipCode": 9160,
+    "rides": 1
+  },
+  {
+    "ZipCode": 3102,
+    "rides": 1
+  },
+  {
+    "ZipCode": 80111,
+    "rides": 1
+  },
+  {
+    "ZipCode": 81302,
+    "rides": 1
+  },
+  {
+    "ZipCode": 7059,
+    "rides": 1
+  },
+  {
+    "ZipCode": 12900,
+    "rides": 1
+  },
+  {
+    "ZipCode": 66,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1730,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1098,
+    "rides": 1
+  },
+  {
+    "ZipCode": 22202,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2207,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94,
+    "rides": 1
+  },
+  {
+    "ZipCode": 18458,
+    "rides": 1
+  },
+  {
+    "ZipCode": 45818000,
+    "rides": 1
+  },
+  {
+    "ZipCode": 99999,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60623,
+    "rides": 1
+  },
+  {
+    "ZipCode": 24501,
+    "rides": 1
+  },
+  {
+    "ZipCode": 45336,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8520,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98125,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2431000,
+    "rides": 1
+  },
+  {
+    "ZipCode": 18944,
+    "rides": 1
+  },
+  {
+    "ZipCode": 84074,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60487,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1073,
+    "rides": 1
+  },
+  {
+    "ZipCode": 91340,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98206,
+    "rides": 1
+  },
+  {
+    "ZipCode": 941234,
+    "rides": 1
+  },
+  {
+    "ZipCode": 93740,
+    "rides": 1
+  },
+  {
+    "ZipCode": 3073,
+    "rides": 1
+  },
+  {
+    "ZipCode": 4543,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33024,
+    "rides": 1
+  },
+  {
+    "ZipCode": 10075,
+    "rides": 1
+  },
+  {
+    "ZipCode": 93404,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95865,
+    "rides": 1
+  },
+  {
+    "ZipCode": 90410,
+    "rides": 1
+  },
+  {
+    "ZipCode": 7075,
+    "rides": 1
+  },
+  {
+    "ZipCode": 19118,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94073,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33626,
+    "rides": 1
+  },
+  {
+    "ZipCode": 241088,
+    "rides": 1
+  },
+  {
+    "ZipCode": 76034,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95811,
+    "rides": 1
+  },
+  {
+    "ZipCode": 12076,
+    "rides": 1
+  },
+  {
+    "ZipCode": 85092,
+    "rides": 1
+  },
+  {
+    "ZipCode": 11370,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94155,
+    "rides": 1
+  },
+  {
+    "ZipCode": 71236,
+    "rides": 1
+  },
+  {
+    "ZipCode": 85209,
+    "rides": 1
+  },
+  {
+    "ZipCode": 123154,
+    "rides": 1
+  },
+  {
+    "ZipCode": 43015,
+    "rides": 1
+  },
+  {
+    "ZipCode": 21490,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95823,
+    "rides": 1
+  },
+  {
+    "ZipCode": 55011,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33434,
+    "rides": 1
+  },
+  {
+    "ZipCode": 55418,
+    "rides": 1
+  },
+  {
+    "ZipCode": 92310,
+    "rides": 1
+  },
+  {
+    "ZipCode": 49525,
+    "rides": 1
+  },
+  {
+    "ZipCode": 53083,
+    "rides": 1
+  },
+  {
+    "ZipCode": 8054,
+    "rides": 1
+  },
+  {
+    "ZipCode": 22303,
+    "rides": 1
+  },
+  {
+    "ZipCode": 99508,
+    "rides": 1
+  },
+  {
+    "ZipCode": 84030,
+    "rides": 1
+  },
+  {
+    "ZipCode": 50132,
+    "rides": 1
+  },
+  {
+    "ZipCode": 37077,
+    "rides": 1
+  },
+  {
+    "ZipCode": 91401,
+    "rides": 1
+  },
+  {
+    "ZipCode": 26505,
+    "rides": 1
+  },
+  {
+    "ZipCode": 5601,
+    "rides": 1
+  },
+  {
+    "ZipCode": 33138,
+    "rides": 1
+  },
+  {
+    "ZipCode": 94575,
+    "rides": 1
+  },
+  {
+    "ZipCode": 40451,
+    "rides": 1
+  },
+  {
+    "ZipCode": 32168,
+    "rides": 1
+  },
+  {
+    "ZipCode": 11420,
+    "rides": 1
+  },
+  {
+    "ZipCode": 18337,
+    "rides": 1
+  },
+  {
+    "ZipCode": 95624,
+    "rides": 1
+  },
+  {
+    "ZipCode": 6473,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2536,
+    "rides": 1
+  },
+  {
+    "ZipCode": 98136,
+    "rides": 1
+  },
+  {
+    "ZipCode": 20854,
+    "rides": 1
+  },
+  {
+    "ZipCode": 901433,
+    "rides": 1
+  },
+  {
+    "ZipCode": 80465,
+    "rides": 1
+  },
+  {
+    "ZipCode": 3013,
+    "rides": 1
+  },
+  {
+    "ZipCode": 34747,
+    "rides": 1
+  },
+  {
+    "ZipCode": 88200,
+    "rides": 1
+  },
+  {
+    "ZipCode": 90240,
+    "rides": 1
+  },
+  {
+    "ZipCode": 2818,
+    "rides": 1
+  },
+  {
+    "ZipCode": 24941,
+    "rides": 1
+  },
+  {
+    "ZipCode": 1532,
+    "rides": 1
+  },
+  {
+    "ZipCode": 46217,
+    "rides": 1
+  },
+  {
+    "ZipCode": 553,
+    "rides": 1
+  },
+  {
+    "ZipCode": 81435,
+    "rides": 1
+  },
+  {
+    "ZipCode": 14226,
+    "rides": 1
+  },
+  {
+    "ZipCode": 41026,
+    "rides": 1
+  },
+  {
+    "ZipCode": 99019,
+    "rides": 1
+  },
+  {
+    "ZipCode": 9409,
+    "rides": 1
+  },
+  {
+    "ZipCode": 87701,
+    "rides": 1
+  },
+  {
+    "ZipCode": 7470,
+    "rides": 1
+  },
+  {
+    "ZipCode": 60540,
+    "rides": 1
+  },
+  {
+    "ZipCode": 68106,
+    "rides": 1
+  }
+]
