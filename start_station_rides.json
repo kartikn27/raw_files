@@ -1,51 +1,51 @@
 [
   {
-    "Start Station": "San Francisco Caltrain (Townsend at 4th)",
+    "StartStation": "San Francisco Caltrain (Townsend at 4th)",
     "rides": 12950,
     "bike_count": 392
   },
   {
-    "Start Station": "Harry Bridges Plaza (Ferry Building)",
+    "StartStation": "Harry Bridges Plaza (Ferry Building)",
     "rides": 8336,
     "bike_count": 389
   },
   {
-    "Start Station": "Embarcadero at Sansome",
+    "StartStation": "Embarcadero at Sansome",
     "rides": 7010,
     "bike_count": 388
   },
   {
-    "Start Station": "San Francisco Caltrain 2 (330 Townsend)",
+    "StartStation": "San Francisco Caltrain 2 (330 Townsend)",
     "rides": 7008,
     "bike_count": 389
   },
   {
-    "Start Station": "2nd at Townsend",
+    "StartStation": "2nd at Townsend",
     "rides": 6824,
     "bike_count": 390
   },
   {
-    "Start Station": "Market at Sansome",
+    "StartStation": "Market at Sansome",
     "rides": 6819,
     "bike_count": 388
   },
   {
-    "Start Station": "Temporary Transbay Terminal (Howard at Beale)",
+    "StartStation": "Temporary Transbay Terminal (Howard at Beale)",
     "rides": 6540,
     "bike_count": 390
   },
   {
-    "Start Station": "Steuart at Market",
+    "StartStation": "Steuart at Market",
     "rides": 6238,
     "bike_count": 391
   },
   {
-    "Start Station": "Townsend at 7th",
+    "StartStation": "Townsend at 7th",
     "rides": 5479,
     "bike_count": 388
   },
   {
-    "Start Station": "Market at 4th",
+    "StartStation": "Market at 4th",
     "rides": 5241,
     "bike_count": 386
   }
