@@ -1,0 +1,30 @@
+[
+  {
+    "day_of_week": "Wednesday",
+    "rides": 31265
+  },
+  {
+    "day_of_week": "Tuesday",
+    "rides": 31078
+  },
+  {
+    "day_of_week": "Thursday",
+    "rides": 30640
+  },
+  {
+    "day_of_week": "Monday",
+    "rides": 29017
+  },
+  {
+    "day_of_week": "Friday",
+    "rides": 27270
+  },
+  {
+    "day_of_week": "Saturday",
+    "rides": 11437
+  },
+  {
+    "day_of_week": "Sunday",
+    "rides": 11085
+  }
+]
