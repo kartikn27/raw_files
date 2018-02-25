@@ -1,0 +1,10 @@
+[
+  {
+    "SubscriberType": "Subscriber",
+    "total_hours": 22796.408888888887
+  },
+  {
+    "SubscriberType": "Customer",
+    "total_hours": 31247.17111111111
+  }
+]

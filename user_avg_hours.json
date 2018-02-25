@@ -1,0 +1,10 @@
+[
+  {
+    "SubscriberType": "Subscriber",
+    "avg_hours": 9.572826061598615
+  },
+  {
+    "SubscriberType": "Customer",
+    "avg_hours": 64.85057996079789
+  }
+]
