@@ -1,0 +1,98 @@
+[
+  {
+    "start_hour": 0,
+    "rides": 537
+  },
+  {
+    "start_hour": 1,
+    "rides": 297
+  },
+  {
+    "start_hour": 2,
+    "rides": 171
+  },
+  {
+    "start_hour": 3,
+    "rides": 76
+  },
+  {
+    "start_hour": 4,
+    "rides": 133
+  },
+  {
+    "start_hour": 5,
+    "rides": 904
+  },
+  {
+    "start_hour": 6,
+    "rides": 3451
+  },
+  {
+    "start_hour": 7,
+    "rides": 11294
+  },
+  {
+    "start_hour": 8,
+    "rides": 21449
+  },
+  {
+    "start_hour": 9,
+    "rides": 15625
+  },
+  {
+    "start_hour": 10,
+    "rides": 7521
+  },
+  {
+    "start_hour": 11,
+    "rides": 7600
+  },
+  {
+    "start_hour": 12,
+    "rides": 9019
+  },
+  {
+    "start_hour": 13,
+    "rides": 8205
+  },
+  {
+    "start_hour": 14,
+    "rides": 6827
+  },
+  {
+    "start_hour": 15,
+    "rides": 8459
+  },
+  {
+    "start_hour": 16,
+    "rides": 14821
+  },
+  {
+    "start_hour": 17,
+    "rides": 21217
+  },
+  {
+    "start_hour": 18,
+    "rides": 15624
+  },
+  {
+    "start_hour": 19,
+    "rides": 8092
+  },
+  {
+    "start_hour": 20,
+    "rides": 4470
+  },
+  {
+    "start_hour": 21,
+    "rides": 2876
+  },
+  {
+    "start_hour": 22,
+    "rides": 1983
+  },
+  {
+    "start_hour": 23,
+    "rides": 1141
+  }
+]
