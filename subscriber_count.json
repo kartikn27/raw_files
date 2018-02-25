@@ -1,10 +1,10 @@
 [
   {
-    "SubscriberType": "Subscriber",
-    "rides": 142882
+    "label": "Subscriber",
+    "value": 142882
   },
   {
-    "SubscriberType": "Customer",
-    "rides": 28910
+    "label": "Customer",
+    "value": 28910
   }
 ]
