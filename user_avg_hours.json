@@ -1,10 +1,10 @@
 [
   {
-    "SubscriberType": "Subscriber",
-    "avg_hours": 9.572826061598615
+    "label": "Subscriber",
+    "value": 9.572826061598615
   },
   {
-    "SubscriberType": "Customer",
-    "avg_hours": 64.85057996079789
+    "label": "Customer",
+    "value": 64.85057996079789
   }
 ]
