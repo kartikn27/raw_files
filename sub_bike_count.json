@@ -1,0 +1,102 @@
+[
+  {
+    "ZipCode": 94107,
+    "no_of_subscribers": 15655,
+    "no_of_bikes": 542
+  },
+  {
+    "ZipCode": 94103,
+    "no_of_subscribers": 6104,
+    "no_of_bikes": 531
+  },
+  {
+    "ZipCode": 94040,
+    "no_of_subscribers": 2198,
+    "no_of_bikes": 514
+  },
+  {
+    "ZipCode": 94105,
+    "no_of_subscribers": 10059,
+    "no_of_bikes": 513
+  },
+  {
+    "ZipCode": 94133,
+    "no_of_subscribers": 7876,
+    "no_of_bikes": 505
+  },
+  {
+    "ZipCode": 94110,
+    "no_of_subscribers": 1571,
+    "no_of_bikes": 503
+  },
+  {
+    "ZipCode": 94041,
+    "no_of_subscribers": 1357,
+    "no_of_bikes": 496
+  },
+  {
+    "ZipCode": 94010,
+    "no_of_subscribers": 1470,
+    "no_of_bikes": 486
+  },
+  {
+    "ZipCode": 94117,
+    "no_of_subscribers": 2684,
+    "no_of_bikes": 479
+  },
+  {
+    "ZipCode": 95112,
+    "no_of_subscribers": 3333,
+    "no_of_bikes": 476
+  },
+  {
+    "ZipCode": 94403,
+    "no_of_subscribers": 1724,
+    "no_of_bikes": 456
+  },
+  {
+    "ZipCode": 94108,
+    "no_of_subscribers": 2005,
+    "no_of_bikes": 446
+  },
+  {
+    "ZipCode": 94611,
+    "no_of_subscribers": 2209,
+    "no_of_bikes": 445
+  },
+  {
+    "ZipCode": 94070,
+    "no_of_subscribers": 1503,
+    "no_of_bikes": 444
+  },
+  {
+    "ZipCode": 94025,
+    "no_of_subscribers": 1656,
+    "no_of_bikes": 444
+  },
+  {
+    "ZipCode": 94158,
+    "no_of_subscribers": 2533,
+    "no_of_bikes": 436
+  },
+  {
+    "ZipCode": 95110,
+    "no_of_subscribers": 1503,
+    "no_of_bikes": 432
+  },
+  {
+    "ZipCode": 94111,
+    "no_of_subscribers": 5540,
+    "no_of_bikes": 432
+  },
+  {
+    "ZipCode": 94102,
+    "no_of_subscribers": 4536,
+    "no_of_bikes": 430
+  },
+  {
+    "ZipCode": 94114,
+    "no_of_subscribers": 1330,
+    "no_of_bikes": 412
+  }
+]
