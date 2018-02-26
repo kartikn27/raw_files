@@ -8,7 +8,7 @@
     "EndDate": "8/31/2014 22:38",
     "EndStation": "Castro Street and El Camino Real",
     "EndTerminal": 32,
-    "Bike#": 17,
+    "Bike": 17,
     "SubscriberType": "Subscriber",
     "ZipCode": 94040
   },
@@ -21,7 +21,7 @@
     "EndDate": "8/31/2014 22:15",
     "EndStation": "Market at 4th",
     "EndTerminal": 76,
-    "Bike#": 509,
+    "Bike": 509,
     "SubscriberType": "Customer",
     "ZipCode": 11231
   },
@@ -34,7 +34,7 @@
     "EndDate": "8/31/2014 22:15",
     "EndStation": "Market at 4th",
     "EndTerminal": 76,
-    "Bike#": 342,
+    "Bike": 342,
     "SubscriberType": "Customer",
     "ZipCode": 11231
   },
@@ -47,7 +47,7 @@
     "EndDate": "8/31/2014 22:02",
     "EndStation": "Steuart at Market",
     "EndTerminal": 74,
-    "Bike#": 603,
+    "Bike": 603,
     "SubscriberType": "Customer",
     "ZipCode": 94521
   },
@@ -60,7 +60,7 @@
     "EndDate": "8/31/2014 22:02",
     "EndStation": "Steuart at Market",
     "EndTerminal": 74,
-    "Bike#": 598,
+    "Bike": 598,
     "SubscriberType": "Customer",
     "ZipCode": 94521
   },
@@ -73,7 +73,7 @@
     "EndDate": "8/31/2014 22:02",
     "EndStation": "Steuart at Market",
     "EndTerminal": 74,
-    "Bike#": 555,
+    "Bike": 555,
     "SubscriberType": "Customer",
     "ZipCode": 94521
   },
@@ -86,7 +86,7 @@
     "EndDate": "8/31/2014 22:02",
     "EndStation": "Steuart at Market",
     "EndTerminal": 74,
-    "Bike#": 425,
+    "Bike": 425,
     "SubscriberType": "Customer",
     "ZipCode": 94521
   },
@@ -99,7 +99,7 @@
     "EndDate": "8/31/2014 22:02",
     "EndStation": "Steuart at Market",
     "EndTerminal": 74,
-    "Bike#": 406,
+    "Bike": 406,
     "SubscriberType": "Customer",
     "ZipCode": 94521
   },
@@ -112,7 +112,7 @@
     "EndDate": "8/31/2014 21:52",
     "EndStation": "Harry Bridges Plaza (Ferry Building)",
     "EndTerminal": 50,
-    "Bike#": 542,
+    "Bike": 542,
     "SubscriberType": "Customer",
     "ZipCode": 35242
   },
@@ -125,7 +125,7 @@
     "EndDate": "8/31/2014 21:52",
     "EndStation": "Harry Bridges Plaza (Ferry Building)",
     "EndTerminal": 50,
-    "Bike#": 622,
+    "Bike": 622,
     "SubscriberType": "Customer",
     "ZipCode": 35242
   },
@@ -138,7 +138,7 @@
     "EndDate": "8/31/2014 21:57",
     "EndStation": "South Van Ness at Market",
     "EndTerminal": 66,
-    "Bike#": 466,
+    "Bike": 466,
     "SubscriberType": "Customer",
     "ZipCode": 32
   },
@@ -151,7 +151,7 @@
     "EndDate": "8/31/2014 21:57",
     "EndStation": "South Van Ness at Market",
     "EndTerminal": 66,
-    "Bike#": 458,
+    "Bike": 458,
     "SubscriberType": "Customer",
     "ZipCode": 32
   },
@@ -164,7 +164,7 @@
     "EndDate": "8/31/2014 21:35",
     "EndStation": "Grant Avenue at Columbus Avenue",
     "EndTerminal": 73,
-    "Bike#": 548,
+    "Bike": 548,
     "SubscriberType": "Subscriber",
     "ZipCode": 94133
   },
@@ -177,7 +177,7 @@
     "EndDate": "8/31/2014 21:16",
     "EndStation": "Temporary Transbay Terminal (Howard at Beale)",
     "EndTerminal": 55,
-    "Bike#": 477,
+    "Bike": 477,
     "SubscriberType": "Subscriber",
     "ZipCode": 94108
   },
@@ -190,7 +190,7 @@
     "EndDate": "8/31/2014 21:14",
     "EndStation": "2nd at Townsend",
     "EndTerminal": 61,
-    "Bike#": 559,
+    "Bike": 559,
     "SubscriberType": "Subscriber",
     "ZipCode": 94107
   },
@@ -203,7 +203,7 @@
     "EndDate": "8/31/2014 21:15",
     "EndStation": "2nd at Townsend",
     "EndTerminal": 61,
-    "Bike#": 458,
+    "Bike": 458,
     "SubscriberType": "Customer",
     "ZipCode": 94107
   },
@@ -216,7 +216,7 @@
     "EndDate": "8/31/2014 21:01",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 603,
+    "Bike": 603,
     "SubscriberType": "Subscriber",
     "ZipCode": 94111
   },
@@ -229,7 +229,7 @@
     "EndDate": "8/31/2014 20:40",
     "EndStation": "Howard at 2nd",
     "EndTerminal": 63,
-    "Bike#": 395,
+    "Bike": 395,
     "SubscriberType": "Subscriber",
     "ZipCode": 94108
   },
@@ -242,7 +242,7 @@
     "EndDate": "8/31/2014 20:52",
     "EndStation": "Market at 4th",
     "EndTerminal": 76,
-    "Bike#": 590,
+    "Bike": 590,
     "SubscriberType": "Customer",
     "ZipCode": 44070
   },
@@ -255,7 +255,7 @@
     "EndDate": "8/31/2014 20:52",
     "EndStation": "Market at 4th",
     "EndTerminal": 76,
-    "Bike#": 456,
+    "Bike": 456,
     "SubscriberType": "Customer",
     "ZipCode": 44070
   },
@@ -268,7 +268,7 @@
     "EndDate": "8/31/2014 20:21",
     "EndStation": "Temporary Transbay Terminal (Howard at Beale)",
     "EndTerminal": 55,
-    "Bike#": 395,
+    "Bike": 395,
     "SubscriberType": "Subscriber",
     "ZipCode": 94108
   },
@@ -281,7 +281,7 @@
     "EndDate": "8/31/2014 20:23",
     "EndStation": "2nd at Townsend",
     "EndTerminal": 61,
-    "Bike#": 366,
+    "Bike": 366,
     "SubscriberType": "Customer",
     "ZipCode": 32
   },
@@ -294,7 +294,7 @@
     "EndDate": "8/31/2014 20:23",
     "EndStation": "2nd at Townsend",
     "EndTerminal": 61,
-    "Bike#": 349,
+    "Bike": 349,
     "SubscriberType": "Customer",
     "ZipCode": 32
   },
@@ -307,7 +307,7 @@
     "EndDate": "8/31/2014 20:11",
     "EndStation": "5th at Howard",
     "EndTerminal": 57,
-    "Bike#": 349,
+    "Bike": 349,
     "SubscriberType": "Customer",
     "ZipCode": "nil"
   },
@@ -320,7 +320,7 @@
     "EndDate": "8/31/2014 20:11",
     "EndStation": "5th at Howard",
     "EndTerminal": 57,
-    "Bike#": 466,
+    "Bike": 466,
     "SubscriberType": "Customer",
     "ZipCode": "nil"
   },
@@ -333,7 +333,7 @@
     "EndDate": "8/31/2014 20:13",
     "EndStation": "Embarcadero at Vallejo",
     "EndTerminal": 48,
-    "Bike#": 521,
+    "Bike": 521,
     "SubscriberType": "Customer",
     "ZipCode": 94107
   },
@@ -346,7 +346,7 @@
     "EndDate": "8/31/2014 20:13",
     "EndStation": "Embarcadero at Vallejo",
     "EndTerminal": 48,
-    "Bike#": 402,
+    "Bike": 402,
     "SubscriberType": "Subscriber",
     "ZipCode": 94107
   },
@@ -359,7 +359,7 @@
     "EndDate": "8/31/2014 22:35",
     "EndStation": "Powell at Post (Union Square)",
     "EndTerminal": 71,
-    "Bike#": 535,
+    "Bike": 535,
     "SubscriberType": "Customer",
     "ZipCode": "nil"
   },
@@ -372,7 +372,7 @@
     "EndDate": "8/31/2014 19:46",
     "EndStation": "Market at Sansome",
     "EndTerminal": 77,
-    "Bike#": 327,
+    "Bike": 327,
     "SubscriberType": "Subscriber",
     "ZipCode": 94133
   },
@@ -385,7 +385,7 @@
     "EndDate": "8/31/2014 19:48",
     "EndStation": "2nd at Townsend",
     "EndTerminal": 61,
-    "Bike#": 402,
+    "Bike": 402,
     "SubscriberType": "Subscriber",
     "ZipCode": 94107
   },
@@ -398,7 +398,7 @@
     "EndDate": "8/31/2014 19:44",
     "EndStation": "Powell at Post (Union Square)",
     "EndTerminal": 71,
-    "Bike#": 422,
+    "Bike": 422,
     "SubscriberType": "Customer",
     "ZipCode": "nil"
   },
@@ -411,7 +411,7 @@
     "EndDate": "8/31/2014 19:32",
     "EndStation": "South Van Ness at Market",
     "EndTerminal": 66,
-    "Bike#": 318,
+    "Bike": 318,
     "SubscriberType": "Subscriber",
     "ZipCode": 94131
   },
@@ -424,7 +424,7 @@
     "EndDate": "8/31/2014 19:33",
     "EndStation": "Davis at Jackson",
     "EndTerminal": 42,
-    "Bike#": 356,
+    "Bike": 356,
     "SubscriberType": "Customer",
     "ZipCode": 94111
   },
@@ -437,7 +437,7 @@
     "EndDate": "8/31/2014 19:32",
     "EndStation": "South Van Ness at Market",
     "EndTerminal": 66,
-    "Bike#": 600,
+    "Bike": 600,
     "SubscriberType": "Customer",
     "ZipCode": 94131
   },
@@ -450,7 +450,7 @@
     "EndDate": "8/31/2014 19:34",
     "EndStation": "Davis at Jackson",
     "EndTerminal": 42,
-    "Bike#": 526,
+    "Bike": 526,
     "SubscriberType": "Customer",
     "ZipCode": 94111
   },
@@ -463,7 +463,7 @@
     "EndDate": "8/31/2014 19:27",
     "EndStation": "5th at Howard",
     "EndTerminal": 57,
-    "Bike#": 366,
+    "Bike": 366,
     "SubscriberType": "Customer",
     "ZipCode": 32
   },
@@ -476,7 +476,7 @@
     "EndDate": "8/31/2014 19:27",
     "EndStation": "5th at Howard",
     "EndTerminal": 57,
-    "Bike#": 330,
+    "Bike": 330,
     "SubscriberType": "Customer",
     "ZipCode": 32
   },
@@ -489,7 +489,7 @@
     "EndDate": "8/31/2014 19:27",
     "EndStation": "5th at Howard",
     "EndTerminal": 57,
-    "Bike#": 86,
+    "Bike": 86,
     "SubscriberType": "Customer",
     "ZipCode": 32
   },
@@ -502,7 +502,7 @@
     "EndDate": "8/31/2014 19:31",
     "EndStation": "Market at 4th",
     "EndTerminal": 76,
-    "Bike#": 317,
+    "Bike": 317,
     "SubscriberType": "Customer",
     "ZipCode": 94109
   },
@@ -515,7 +515,7 @@
     "EndDate": "8/31/2014 19:21",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 542,
+    "Bike": 542,
     "SubscriberType": "Customer",
     "ZipCode": 35242
   },
@@ -528,7 +528,7 @@
     "EndDate": "8/31/2014 19:21",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 425,
+    "Bike": 425,
     "SubscriberType": "Customer",
     "ZipCode": 35242
   },
@@ -541,7 +541,7 @@
     "EndDate": "8/31/2014 19:21",
     "EndStation": "San Francisco City Hall",
     "EndTerminal": 58,
-    "Bike#": 546,
+    "Bike": 546,
     "SubscriberType": "Customer",
     "ZipCode": 98109
   },
@@ -554,7 +554,7 @@
     "EndDate": "8/31/2014 19:21",
     "EndStation": "San Francisco City Hall",
     "EndTerminal": 58,
-    "Bike#": 333,
+    "Bike": 333,
     "SubscriberType": "Customer",
     "ZipCode": 98109
   },
@@ -567,7 +567,7 @@
     "EndDate": "8/31/2014 19:30",
     "EndStation": "Washington at Kearny",
     "EndTerminal": 46,
-    "Bike#": 422,
+    "Bike": 422,
     "SubscriberType": "Customer",
     "ZipCode": "nil"
   },
@@ -580,7 +580,7 @@
     "EndDate": "8/31/2014 19:30",
     "EndStation": "Washington at Kearny",
     "EndTerminal": 46,
-    "Bike#": 277,
+    "Bike": 277,
     "SubscriberType": "Customer",
     "ZipCode": "nil"
   },
@@ -593,7 +593,7 @@
     "EndDate": "8/31/2014 19:15",
     "EndStation": "Davis at Jackson",
     "EndTerminal": 42,
-    "Bike#": 356,
+    "Bike": 356,
     "SubscriberType": "Customer",
     "ZipCode": 94111
   },
@@ -606,7 +606,7 @@
     "EndDate": "8/31/2014 19:14",
     "EndStation": "Davis at Jackson",
     "EndTerminal": 42,
-    "Bike#": 526,
+    "Bike": 526,
     "SubscriberType": "Customer",
     "ZipCode": 94111
   },
@@ -619,7 +619,7 @@
     "EndDate": "8/31/2014 19:20",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 434,
+    "Bike": 434,
     "SubscriberType": "Customer",
     "ZipCode": 98004
   },
@@ -632,7 +632,7 @@
     "EndDate": "8/31/2014 19:20",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 598,
+    "Bike": 598,
     "SubscriberType": "Customer",
     "ZipCode": 98004
   },
@@ -645,7 +645,7 @@
     "EndDate": "8/31/2014 19:13",
     "EndStation": "San Antonio Caltrain Station",
     "EndTerminal": 29,
-    "Bike#": 146,
+    "Bike": 146,
     "SubscriberType": "Customer",
     "ZipCode": 94040
   },
@@ -658,7 +658,7 @@
     "EndDate": "8/31/2014 19:13",
     "EndStation": "San Antonio Caltrain Station",
     "EndTerminal": 29,
-    "Bike#": 638,
+    "Bike": 638,
     "SubscriberType": "Customer",
     "ZipCode": 94040
   },
@@ -671,7 +671,7 @@
     "EndDate": "8/31/2014 21:01",
     "EndStation": "Embarcadero at Folsom",
     "EndTerminal": 51,
-    "Bike#": 281,
+    "Bike": 281,
     "SubscriberType": "Customer",
     "ZipCode": 91750
   },
@@ -684,7 +684,7 @@
     "EndDate": "8/31/2014 18:52",
     "EndStation": "Steuart at Market",
     "EndTerminal": 74,
-    "Bike#": 283,
+    "Bike": 283,
     "SubscriberType": "Subscriber",
     "ZipCode": 94710
   },
@@ -697,7 +697,7 @@
     "EndDate": "8/31/2014 21:01",
     "EndStation": "Embarcadero at Folsom",
     "EndTerminal": 51,
-    "Bike#": 265,
+    "Bike": 265,
     "SubscriberType": "Customer",
     "ZipCode": 91750
   },
@@ -710,7 +710,7 @@
     "EndDate": "8/31/2014 19:09",
     "EndStation": "San Francisco Caltrain (Townsend at 4th)",
     "EndTerminal": 70,
-    "Bike#": 317,
+    "Bike": 317,
     "SubscriberType": "Customer",
     "ZipCode": 94109
   },
@@ -723,7 +723,7 @@
     "EndDate": "8/31/2014 18:48",
     "EndStation": "Embarcadero at Vallejo",
     "EndTerminal": 48,
-    "Bike#": 288,
+    "Bike": 288,
     "SubscriberType": "Customer",
     "ZipCode": "nil"
   },
@@ -736,7 +736,7 @@
     "EndDate": "8/31/2014 18:44",
     "EndStation": "5th at Howard",
     "EndTerminal": 57,
-    "Bike#": 584,
+    "Bike": 584,
     "SubscriberType": "Customer",
     "ZipCode": 94107
   },
@@ -749,7 +749,7 @@
     "EndDate": "8/31/2014 18:49",
     "EndStation": "Market at 4th",
     "EndTerminal": 76,
-    "Bike#": 575,
+    "Bike": 575,
     "SubscriberType": "Subscriber",
     "ZipCode": 94109
   },
@@ -762,7 +762,7 @@
     "EndDate": "8/31/2014 18:45",
     "EndStation": "Townsend at 7th",
     "EndTerminal": 65,
-    "Bike#": 111,
+    "Bike": 111,
     "SubscriberType": "Subscriber",
     "ZipCode": 94103
   },
@@ -775,7 +775,7 @@
     "EndDate": "8/31/2014 18:57",
     "EndStation": "Powell at Post (Union Square)",
     "EndTerminal": 71,
-    "Bike#": 356,
+    "Bike": 356,
     "SubscriberType": "Customer",
     "ZipCode": 94111
   },
@@ -788,7 +788,7 @@
     "EndDate": "8/31/2014 18:57",
     "EndStation": "Powell at Post (Union Square)",
     "EndTerminal": 71,
-    "Bike#": 526,
+    "Bike": 526,
     "SubscriberType": "Customer",
     "ZipCode": 94111
   },
@@ -801,7 +801,7 @@
     "EndDate": "8/31/2014 18:49",
     "EndStation": "California Ave Caltrain Station",
     "EndTerminal": 36,
-    "Bike#": 235,
+    "Bike": 235,
     "SubscriberType": "Customer",
     "ZipCode": 94040
   },
@@ -814,7 +814,7 @@
     "EndDate": "8/31/2014 18:49",
     "EndStation": "California Ave Caltrain Station",
     "EndTerminal": 36,
-    "Bike#": 48,
+    "Bike": 48,
     "SubscriberType": "Customer",
     "ZipCode": 94040
   },
@@ -827,7 +827,7 @@
     "EndDate": "8/31/2014 18:37",
     "EndStation": "Market at Sansome",
     "EndTerminal": 77,
-    "Bike#": 548,
+    "Bike": 548,
     "SubscriberType": "Subscriber",
     "ZipCode": 94133
   },
@@ -840,7 +840,7 @@
     "EndDate": "8/31/2014 20:10",
     "EndStation": "Embarcadero at Vallejo",
     "EndTerminal": 48,
-    "Bike#": 569,
+    "Bike": 569,
     "SubscriberType": "Customer",
     "ZipCode": 91765
   },
@@ -853,7 +853,7 @@
     "EndDate": "8/31/2014 18:44",
     "EndStation": "San Salvador at 1st",
     "EndTerminal": 8,
-    "Bike#": 175,
+    "Bike": 175,
     "SubscriberType": "Customer",
     "ZipCode": 95112
   },
@@ -866,7 +866,7 @@
     "EndDate": "8/31/2014 18:56",
     "EndStation": "2nd at Townsend",
     "EndTerminal": 61,
-    "Bike#": 593,
+    "Bike": 593,
     "SubscriberType": "Subscriber",
     "ZipCode": 94107
   },
@@ -879,7 +879,7 @@
     "EndDate": "8/31/2014 20:11",
     "EndStation": "Embarcadero at Vallejo",
     "EndTerminal": 48,
-    "Bike#": 613,
+    "Bike": 613,
     "SubscriberType": "Customer",
     "ZipCode": 92651
   },
@@ -892,7 +892,7 @@
     "EndDate": "8/31/2014 18:44",
     "EndStation": "San Salvador at 1st",
     "EndTerminal": 8,
-    "Bike#": 31,
+    "Bike": 31,
     "SubscriberType": "Customer",
     "ZipCode": 95112
   },
@@ -905,7 +905,7 @@
     "EndDate": "8/31/2014 18:44",
     "EndStation": "San Salvador at 1st",
     "EndTerminal": 8,
-    "Bike#": 257,
+    "Bike": 257,
     "SubscriberType": "Customer",
     "ZipCode": 95112
   },
@@ -918,7 +918,7 @@
     "EndDate": "8/31/2014 18:50",
     "EndStation": "Townsend at 7th",
     "EndTerminal": 65,
-    "Bike#": 394,
+    "Bike": 394,
     "SubscriberType": "Subscriber",
     "ZipCode": 94107
   },
@@ -931,7 +931,7 @@
     "EndDate": "8/31/2014 18:51",
     "EndStation": "Townsend at 7th",
     "EndTerminal": 65,
-    "Bike#": 325,
+    "Bike": 325,
     "SubscriberType": "Customer",
     "ZipCode": 60614
   },
@@ -944,7 +944,7 @@
     "EndDate": "8/31/2014 18:27",
     "EndStation": "Powell Street BART",
     "EndTerminal": 39,
-    "Bike#": 450,
+    "Bike": 450,
     "SubscriberType": "Customer",
     "ZipCode": 94107
   },
@@ -957,7 +957,7 @@
     "EndDate": "8/31/2014 18:45",
     "EndStation": "2nd at Folsom",
     "EndTerminal": 62,
-    "Bike#": 659,
+    "Bike": 659,
     "SubscriberType": "Customer",
     "ZipCode": 22042
   },
@@ -970,7 +970,7 @@
     "EndDate": "8/31/2014 18:29",
     "EndStation": "Harry Bridges Plaza (Ferry Building)",
     "EndTerminal": 50,
-    "Bike#": 600,
+    "Bike": 600,
     "SubscriberType": "Subscriber",
     "ZipCode": 94131
   },
@@ -983,7 +983,7 @@
     "EndDate": "8/31/2014 18:40",
     "EndStation": "San Antonio Shopping Center",
     "EndTerminal": 31,
-    "Bike#": 305,
+    "Bike": 305,
     "SubscriberType": "Customer",
     "ZipCode": 60611
   },
@@ -996,7 +996,7 @@
     "EndDate": "8/31/2014 18:42",
     "EndStation": "Embarcadero at Vallejo",
     "EndTerminal": 48,
-    "Bike#": 330,
+    "Bike": 330,
     "SubscriberType": "Customer",
     "ZipCode": "nil"
   },
@@ -1009,7 +1009,7 @@
     "EndDate": "8/31/2014 18:36",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 288,
+    "Bike": 288,
     "SubscriberType": "Customer",
     "ZipCode": "nil"
   },
@@ -1022,7 +1022,7 @@
     "EndDate": "8/31/2014 18:35",
     "EndStation": "Powell at Post (Union Square)",
     "EndTerminal": 71,
-    "Bike#": 356,
+    "Bike": 356,
     "SubscriberType": "Customer",
     "ZipCode": 94111
   },
@@ -1035,7 +1035,7 @@
     "EndDate": "8/31/2014 18:44",
     "EndStation": "2nd at Townsend",
     "EndTerminal": 61,
-    "Bike#": 317,
+    "Bike": 317,
     "SubscriberType": "Customer",
     "ZipCode": 94109
   },
@@ -1048,7 +1048,7 @@
     "EndDate": "8/31/2014 18:32",
     "EndStation": "Powell at Post (Union Square)",
     "EndTerminal": 71,
-    "Bike#": 526,
+    "Bike": 526,
     "SubscriberType": "Customer",
     "ZipCode": 94111
   },
@@ -1061,7 +1061,7 @@
     "EndDate": "8/31/2014 18:34",
     "EndStation": "San Francisco City Hall",
     "EndTerminal": 58,
-    "Bike#": 338,
+    "Bike": 338,
     "SubscriberType": "Customer",
     "ZipCode": 91306
   },
@@ -1074,7 +1074,7 @@
     "EndDate": "8/31/2014 18:34",
     "EndStation": "San Francisco City Hall",
     "EndTerminal": 58,
-    "Bike#": 137,
+    "Bike": 137,
     "SubscriberType": "Customer",
     "ZipCode": 91306
   },
@@ -1087,7 +1087,7 @@
     "EndDate": "8/31/2014 18:33",
     "EndStation": "San Francisco City Hall",
     "EndTerminal": 58,
-    "Bike#": 672,
+    "Bike": 672,
     "SubscriberType": "Customer",
     "ZipCode": 95070
   },
@@ -1100,7 +1100,7 @@
     "EndDate": "8/31/2014 18:33",
     "EndStation": "San Francisco City Hall",
     "EndTerminal": 58,
-    "Bike#": 393,
+    "Bike": 393,
     "SubscriberType": "Customer",
     "ZipCode": 94122
   },
@@ -1113,7 +1113,7 @@
     "EndDate": "8/31/2014 20:25",
     "EndStation": "Harry Bridges Plaza (Ferry Building)",
     "EndTerminal": 50,
-    "Bike#": 630,
+    "Bike": 630,
     "SubscriberType": "Customer",
     "ZipCode": 94591
   },
@@ -1126,7 +1126,7 @@
     "EndDate": "8/31/2014 18:29",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 502,
+    "Bike": 502,
     "SubscriberType": "Customer",
     "ZipCode": 94521
   },
@@ -1139,7 +1139,7 @@
     "EndDate": "8/31/2014 20:26",
     "EndStation": "Harry Bridges Plaza (Ferry Building)",
     "EndTerminal": 50,
-    "Bike#": 280,
+    "Bike": 280,
     "SubscriberType": "Customer",
     "ZipCode": 14094
   },
@@ -1152,7 +1152,7 @@
     "EndDate": "8/31/2014 17:59",
     "EndStation": "Post at Kearny",
     "EndTerminal": 47,
-    "Bike#": 395,
+    "Bike": 395,
     "SubscriberType": "Subscriber",
     "ZipCode": 94111
   },
@@ -1165,7 +1165,7 @@
     "EndDate": "8/31/2014 18:29",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 471,
+    "Bike": 471,
     "SubscriberType": "Customer",
     "ZipCode": 94521
   },
@@ -1178,7 +1178,7 @@
     "EndDate": "8/31/2014 19:32",
     "EndStation": "Harry Bridges Plaza (Ferry Building)",
     "EndTerminal": 50,
-    "Bike#": 273,
+    "Bike": 273,
     "SubscriberType": "Customer",
     "ZipCode": 94014
   },
@@ -1191,7 +1191,7 @@
     "EndDate": "8/31/2014 18:02",
     "EndStation": "Grant Avenue at Columbus Avenue",
     "EndTerminal": 73,
-    "Bike#": 672,
+    "Bike": 672,
     "SubscriberType": "Customer",
     "ZipCode": 44070
   },
@@ -1204,7 +1204,7 @@
     "EndDate": "8/31/2014 18:02",
     "EndStation": "Grant Avenue at Columbus Avenue",
     "EndTerminal": 73,
-    "Bike#": 548,
+    "Bike": 548,
     "SubscriberType": "Customer",
     "ZipCode": 44070
   },
@@ -1217,7 +1217,7 @@
     "EndDate": "8/31/2014 18:29",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 391,
+    "Bike": 391,
     "SubscriberType": "Customer",
     "ZipCode": 94521
   },
@@ -1230,7 +1230,7 @@
     "EndDate": "8/31/2014 19:32",
     "EndStation": "Harry Bridges Plaza (Ferry Building)",
     "EndTerminal": 50,
-    "Bike#": 259,
+    "Bike": 259,
     "SubscriberType": "Customer",
     "ZipCode": 94014
   },
@@ -1243,7 +1243,7 @@
     "EndDate": "8/31/2014 19:33",
     "EndStation": "Harry Bridges Plaza (Ferry Building)",
     "EndTerminal": 50,
-    "Bike#": 420,
+    "Bike": 420,
     "SubscriberType": "Customer",
     "ZipCode": 94014
   },
@@ -1256,7 +1256,7 @@
     "EndDate": "8/31/2014 18:02",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 406,
+    "Bike": 406,
     "SubscriberType": "Customer",
     "ZipCode": 11231
   },
@@ -1269,7 +1269,7 @@
     "EndDate": "8/31/2014 19:33",
     "EndStation": "Harry Bridges Plaza (Ferry Building)",
     "EndTerminal": 50,
-    "Bike#": 351,
+    "Bike": 351,
     "SubscriberType": "Customer",
     "ZipCode": 94080
   },
@@ -1282,7 +1282,7 @@
     "EndDate": "8/31/2014 18:29",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 549,
+    "Bike": 549,
     "SubscriberType": "Customer",
     "ZipCode": 94521
   },
@@ -1295,7 +1295,7 @@
     "EndDate": "8/31/2014 18:01",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 622,
+    "Bike": 622,
     "SubscriberType": "Customer",
     "ZipCode": 11231
   },
@@ -1308,7 +1308,7 @@
     "EndDate": "8/31/2014 17:52",
     "EndStation": "South Van Ness at Market",
     "EndTerminal": 66,
-    "Bike#": 575,
+    "Bike": 575,
     "SubscriberType": "Subscriber",
     "ZipCode": 94103
   },
@@ -1321,7 +1321,7 @@
     "EndDate": "8/31/2014 17:55",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 599,
+    "Bike": 599,
     "SubscriberType": "Customer",
     "ZipCode": 32
   },
@@ -1334,7 +1334,7 @@
     "EndDate": "8/31/2014 18:19",
     "EndStation": "Yerba Buena Center of the Arts (3rd @ Howard)",
     "EndTerminal": 68,
-    "Bike#": 598,
+    "Bike": 598,
     "SubscriberType": "Customer",
     "ZipCode": 98004
   },
@@ -1347,7 +1347,7 @@
     "EndDate": "8/31/2014 18:19",
     "EndStation": "Yerba Buena Center of the Arts (3rd @ Howard)",
     "EndTerminal": 68,
-    "Bike#": 434,
+    "Bike": 434,
     "SubscriberType": "Customer",
     "ZipCode": 98004
   },
@@ -1360,7 +1360,7 @@
     "EndDate": "8/31/2014 17:55",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 600,
+    "Bike": 600,
     "SubscriberType": "Customer",
     "ZipCode": 32
   },
@@ -1373,7 +1373,7 @@
     "EndDate": "8/31/2014 17:55",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 212,
+    "Bike": 212,
     "SubscriberType": "Customer",
     "ZipCode": 32
   },
@@ -1386,7 +1386,7 @@
     "EndDate": "8/31/2014 17:54",
     "EndStation": "Steuart at Market",
     "EndTerminal": 74,
-    "Bike#": 418,
+    "Bike": 418,
     "SubscriberType": "Customer",
     "ZipCode": 94109
   },
@@ -1399,7 +1399,7 @@
     "EndDate": "8/31/2014 17:39",
     "EndStation": "Washington at Kearny",
     "EndTerminal": 46,
-    "Bike#": 599,
+    "Bike": 599,
     "SubscriberType": "Customer",
     "ZipCode": 32
   },
@@ -1412,7 +1412,7 @@
     "EndDate": "8/31/2014 18:29",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 592,
+    "Bike": 592,
     "SubscriberType": "Customer",
     "ZipCode": 94521
   },
@@ -1425,7 +1425,7 @@
     "EndDate": "8/31/2014 18:02",
     "EndStation": "Powell Street BART",
     "EndTerminal": 39,
-    "Bike#": 466,
+    "Bike": 466,
     "SubscriberType": "Customer",
     "ZipCode": 34
   },
@@ -1438,7 +1438,7 @@
     "EndDate": "8/31/2014 17:51",
     "EndStation": "University and Emerson",
     "EndTerminal": 35,
-    "Bike#": 235,
+    "Bike": 235,
     "SubscriberType": "Customer",
     "ZipCode": 94040
   },
@@ -1451,7 +1451,7 @@
     "EndDate": "8/31/2014 17:51",
     "EndStation": "University and Emerson",
     "EndTerminal": 35,
-    "Bike#": 48,
+    "Bike": 48,
     "SubscriberType": "Customer",
     "ZipCode": 94040
   },
@@ -1464,7 +1464,7 @@
     "EndDate": "8/31/2014 17:37",
     "EndStation": "San Jose Diridon Caltrain Station",
     "EndTerminal": 2,
-    "Bike#": 99,
+    "Bike": 99,
     "SubscriberType": "Customer",
     "ZipCode": 95112
   },
@@ -1477,7 +1477,7 @@
     "EndDate": "8/31/2014 17:37",
     "EndStation": "San Jose Diridon Caltrain Station",
     "EndTerminal": 2,
-    "Bike#": 101,
+    "Bike": 101,
     "SubscriberType": "Customer",
     "ZipCode": 95112
   },
@@ -1490,7 +1490,7 @@
     "EndDate": "8/31/2014 17:37",
     "EndStation": "San Jose Diridon Caltrain Station",
     "EndTerminal": 2,
-    "Bike#": 256,
+    "Bike": 256,
     "SubscriberType": "Customer",
     "ZipCode": 95112
   },
@@ -1503,7 +1503,7 @@
     "EndDate": "8/31/2014 17:33",
     "EndStation": "Powell Street BART",
     "EndTerminal": 39,
-    "Bike#": 546,
+    "Bike": 546,
     "SubscriberType": "Subscriber",
     "ZipCode": 94107
   },
@@ -1516,7 +1516,7 @@
     "EndDate": "8/31/2014 17:52",
     "EndStation": "Civic Center BART (7th at Market)",
     "EndTerminal": 72,
-    "Bike#": 507,
+    "Bike": 507,
     "SubscriberType": "Customer",
     "ZipCode": 61801
   },
@@ -1529,7 +1529,7 @@
     "EndDate": "8/31/2014 17:52",
     "EndStation": "Civic Center BART (7th at Market)",
     "EndTerminal": 72,
-    "Bike#": 291,
+    "Bike": 291,
     "SubscriberType": "Customer",
     "ZipCode": 61801
   },
@@ -1542,7 +1542,7 @@
     "EndDate": "8/31/2014 19:11",
     "EndStation": "Clay at Battery",
     "EndTerminal": 41,
-    "Bike#": 191,
+    "Bike": 191,
     "SubscriberType": "Customer",
     "ZipCode": 85209
   },
@@ -1555,7 +1555,7 @@
     "EndDate": "8/31/2014 19:11",
     "EndStation": "Clay at Battery",
     "EndTerminal": 41,
-    "Bike#": 384,
+    "Bike": 384,
     "SubscriberType": "Customer",
     "ZipCode": 333411
   },
@@ -1568,7 +1568,7 @@
     "EndDate": "8/31/2014 19:11",
     "EndStation": "Clay at Battery",
     "EndTerminal": 41,
-    "Bike#": 522,
+    "Bike": 522,
     "SubscriberType": "Customer",
     "ZipCode": 33309
   },
@@ -1581,7 +1581,7 @@
     "EndDate": "8/31/2014 17:23",
     "EndStation": "Yerba Buena Center of the Arts (3rd @ Howard)",
     "EndTerminal": 68,
-    "Bike#": 561,
+    "Bike": 561,
     "SubscriberType": "Subscriber",
     "ZipCode": 94112
   },
@@ -1594,7 +1594,7 @@
     "EndDate": "8/31/2014 19:11",
     "EndStation": "Clay at Battery",
     "EndTerminal": 41,
-    "Bike#": 652,
+    "Bike": 652,
     "SubscriberType": "Customer",
     "ZipCode": 98391
   },
@@ -1607,7 +1607,7 @@
     "EndDate": "8/31/2014 17:38",
     "EndStation": "Harry Bridges Plaza (Ferry Building)",
     "EndTerminal": 50,
-    "Bike#": 351,
+    "Bike": 351,
     "SubscriberType": "Customer",
     "ZipCode": 95608
   },
@@ -1620,7 +1620,7 @@
     "EndDate": "8/31/2014 17:18",
     "EndStation": "San Francisco Caltrain 2 (330 Townsend)",
     "EndTerminal": 69,
-    "Bike#": 334,
+    "Bike": 334,
     "SubscriberType": "Subscriber",
     "ZipCode": 94107
   },
@@ -1633,7 +1633,7 @@
     "EndDate": "8/31/2014 17:18",
     "EndStation": "San Francisco Caltrain 2 (330 Townsend)",
     "EndTerminal": 69,
-    "Bike#": 412,
+    "Bike": 412,
     "SubscriberType": "Subscriber",
     "ZipCode": 94107
   },
@@ -1646,7 +1646,7 @@
     "EndDate": "8/31/2014 18:46",
     "EndStation": "Mountain View City Hall",
     "EndTerminal": 27,
-    "Bike#": 87,
+    "Bike": 87,
     "SubscriberType": "Customer",
     "ZipCode": 92122
   },
@@ -1659,7 +1659,7 @@
     "EndDate": "8/31/2014 17:19",
     "EndStation": "Market at 4th",
     "EndTerminal": 76,
-    "Bike#": 622,
+    "Bike": 622,
     "SubscriberType": "Customer",
     "ZipCode": 11231
   },
@@ -1672,7 +1672,7 @@
     "EndDate": "8/31/2014 17:23",
     "EndStation": "2nd at Folsom",
     "EndTerminal": 62,
-    "Bike#": 546,
+    "Bike": 546,
     "SubscriberType": "Customer",
     "ZipCode": 98257
   },
@@ -1685,7 +1685,7 @@
     "EndDate": "8/31/2014 17:19",
     "EndStation": "Market at 4th",
     "EndTerminal": 76,
-    "Bike#": 406,
+    "Bike": 406,
     "SubscriberType": "Customer",
     "ZipCode": 11231
   },
@@ -1698,7 +1698,7 @@
     "EndDate": "8/31/2014 17:28",
     "EndStation": "California Ave Caltrain Station",
     "EndTerminal": 36,
-    "Bike#": 146,
+    "Bike": 146,
     "SubscriberType": "Customer",
     "ZipCode": 94040
   },
@@ -1711,7 +1711,7 @@
     "EndDate": "8/31/2014 17:34",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 466,
+    "Bike": 466,
     "SubscriberType": "Customer",
     "ZipCode": 94109
   },
@@ -1724,7 +1724,7 @@
     "EndDate": "8/31/2014 17:08",
     "EndStation": "San Francisco Caltrain (Townsend at 4th)",
     "EndTerminal": 70,
-    "Bike#": 492,
+    "Bike": 492,
     "SubscriberType": "Subscriber",
     "ZipCode": 94107
   },
@@ -1737,7 +1737,7 @@
     "EndDate": "8/31/2014 17:28",
     "EndStation": "California Ave Caltrain Station",
     "EndTerminal": 36,
-    "Bike#": 190,
+    "Bike": 190,
     "SubscriberType": "Customer",
     "ZipCode": 94040
   },
@@ -1750,7 +1750,7 @@
     "EndDate": "8/31/2014 17:17",
     "EndStation": "Embarcadero at Folsom",
     "EndTerminal": 51,
-    "Bike#": 594,
+    "Bike": 594,
     "SubscriberType": "Customer",
     "ZipCode": 94122
   },
@@ -1763,7 +1763,7 @@
     "EndDate": "8/31/2014 17:19",
     "EndStation": "San Pedro Square",
     "EndTerminal": 6,
-    "Bike#": 101,
+    "Bike": 101,
     "SubscriberType": "Customer",
     "ZipCode": 95112
   },
@@ -1776,7 +1776,7 @@
     "EndDate": "8/31/2014 17:19",
     "EndStation": "San Pedro Square",
     "EndTerminal": 6,
-    "Bike#": 256,
+    "Bike": 256,
     "SubscriberType": "Customer",
     "ZipCode": 95112
   },
@@ -1789,7 +1789,7 @@
     "EndDate": "8/31/2014 17:19",
     "EndStation": "San Pedro Square",
     "EndTerminal": 6,
-    "Bike#": 99,
+    "Bike": 99,
     "SubscriberType": "Customer",
     "ZipCode": 95112
   },
@@ -1802,7 +1802,7 @@
     "EndDate": "8/31/2014 17:14",
     "EndStation": "Market at Sansome",
     "EndTerminal": 77,
-    "Bike#": 453,
+    "Bike": 453,
     "SubscriberType": "Customer",
     "ZipCode": 93108
   },
@@ -1815,7 +1815,7 @@
     "EndDate": "8/31/2014 17:28",
     "EndStation": "Market at 4th",
     "EndTerminal": 76,
-    "Bike#": 548,
+    "Bike": 548,
     "SubscriberType": "Customer",
     "ZipCode": "nil"
   },
@@ -1828,7 +1828,7 @@
     "EndDate": "8/31/2014 17:28",
     "EndStation": "Market at 4th",
     "EndTerminal": 76,
-    "Bike#": 401,
+    "Bike": 401,
     "SubscriberType": "Customer",
     "ZipCode": "nil"
   },
@@ -1841,7 +1841,7 @@
     "EndDate": "8/31/2014 17:09",
     "EndStation": "San Francisco Caltrain (Townsend at 4th)",
     "EndTerminal": 70,
-    "Bike#": 329,
+    "Bike": 329,
     "SubscriberType": "Subscriber",
     "ZipCode": 95032
   },
@@ -1854,7 +1854,7 @@
     "EndDate": "8/31/2014 17:00",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 418,
+    "Bike": 418,
     "SubscriberType": "Customer",
     "ZipCode": 98257
   },
@@ -1867,7 +1867,7 @@
     "EndDate": "8/31/2014 17:01",
     "EndStation": "San Francisco Caltrain (Townsend at 4th)",
     "EndTerminal": 70,
-    "Bike#": 452,
+    "Bike": 452,
     "SubscriberType": "Subscriber",
     "ZipCode": 94158
   },
@@ -1880,7 +1880,7 @@
     "EndDate": "8/31/2014 17:00",
     "EndStation": "Steuart at Market",
     "EndTerminal": 74,
-    "Bike#": 453,
+    "Bike": 453,
     "SubscriberType": "Customer",
     "ZipCode": 93108
   },
@@ -1893,7 +1893,7 @@
     "EndDate": "8/31/2014 17:04",
     "EndStation": "Harry Bridges Plaza (Ferry Building)",
     "EndTerminal": 50,
-    "Bike#": 542,
+    "Bike": 542,
     "SubscriberType": "Customer",
     "ZipCode": 95337
   },
@@ -1906,7 +1906,7 @@
     "EndDate": "8/31/2014 17:04",
     "EndStation": "Harry Bridges Plaza (Ferry Building)",
     "EndTerminal": 50,
-    "Bike#": 273,
+    "Bike": 273,
     "SubscriberType": "Customer",
     "ZipCode": 95337
   },
@@ -1919,7 +1919,7 @@
     "EndDate": "8/31/2014 16:52",
     "EndStation": "SJSU 4th at San Carlos",
     "EndTerminal": 12,
-    "Bike#": 127,
+    "Bike": 127,
     "SubscriberType": "Subscriber",
     "ZipCode": 95121
   },
@@ -1932,7 +1932,7 @@
     "EndDate": "8/31/2014 17:01",
     "EndStation": "Powell at Post (Union Square)",
     "EndTerminal": 71,
-    "Bike#": 535,
+    "Bike": 535,
     "SubscriberType": "Customer",
     "ZipCode": 95519
   },
@@ -1945,7 +1945,7 @@
     "EndDate": "8/31/2014 17:01",
     "EndStation": "Powell at Post (Union Square)",
     "EndTerminal": 71,
-    "Bike#": 463,
+    "Bike": 463,
     "SubscriberType": "Customer",
     "ZipCode": 95521
   },
@@ -1958,7 +1958,7 @@
     "EndDate": "8/31/2014 17:08",
     "EndStation": "Commercial at Montgomery",
     "EndTerminal": 45,
-    "Bike#": 350,
+    "Bike": 350,
     "SubscriberType": "Subscriber",
     "ZipCode": 94133
   },
@@ -1971,7 +1971,7 @@
     "EndDate": "8/31/2014 20:13",
     "EndStation": "Grant Avenue at Columbus Avenue",
     "EndTerminal": 73,
-    "Bike#": 456,
+    "Bike": 456,
     "SubscriberType": "Customer",
     "ZipCode": 94109
   },
@@ -1984,7 +1984,7 @@
     "EndDate": "8/31/2014 20:13",
     "EndStation": "Grant Avenue at Columbus Avenue",
     "EndTerminal": 73,
-    "Bike#": 416,
+    "Bike": 416,
     "SubscriberType": "Customer",
     "ZipCode": 94109
   },
@@ -1997,7 +1997,7 @@
     "EndDate": "8/31/2014 16:41",
     "EndStation": "Powell Street BART",
     "EndTerminal": 39,
-    "Bike#": 575,
+    "Bike": 575,
     "SubscriberType": "Subscriber",
     "ZipCode": 94103
   },
@@ -2010,7 +2010,7 @@
     "EndDate": "8/31/2014 16:58",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 466,
+    "Bike": 466,
     "SubscriberType": "Customer",
     "ZipCode": 94109
   },
@@ -2023,7 +2023,7 @@
     "EndDate": "8/31/2014 16:46",
     "EndStation": "Grant Avenue at Columbus Avenue",
     "EndTerminal": 73,
-    "Bike#": 393,
+    "Bike": 393,
     "SubscriberType": "Customer",
     "ZipCode": 94122
   },
@@ -2036,7 +2036,7 @@
     "EndDate": "8/31/2014 16:46",
     "EndStation": "Grant Avenue at Columbus Avenue",
     "EndTerminal": 73,
-    "Bike#": 338,
+    "Bike": 338,
     "SubscriberType": "Customer",
     "ZipCode": 91306
   },
@@ -2049,7 +2049,7 @@
     "EndDate": "8/31/2014 16:46",
     "EndStation": "Grant Avenue at Columbus Avenue",
     "EndTerminal": 73,
-    "Bike#": 137,
+    "Bike": 137,
     "SubscriberType": "Customer",
     "ZipCode": 91306
   },
@@ -2062,7 +2062,7 @@
     "EndDate": "8/31/2014 16:46",
     "EndStation": "Grant Avenue at Columbus Avenue",
     "EndTerminal": 73,
-    "Bike#": 327,
+    "Bike": 327,
     "SubscriberType": "Customer",
     "ZipCode": 95070
   },
@@ -2075,7 +2075,7 @@
     "EndDate": "8/31/2014 16:41",
     "EndStation": "Harry Bridges Plaza (Ferry Building)",
     "EndTerminal": 50,
-    "Bike#": 351,
+    "Bike": 351,
     "SubscriberType": "Customer",
     "ZipCode": 91732
   },
@@ -2088,7 +2088,7 @@
     "EndDate": "8/31/2014 16:40",
     "EndStation": "Harry Bridges Plaza (Ferry Building)",
     "EndTerminal": 50,
-    "Bike#": 280,
+    "Bike": 280,
     "SubscriberType": "Customer",
     "ZipCode": 91732
   },
@@ -2101,7 +2101,7 @@
     "EndDate": "8/31/2014 17:37",
     "EndStation": "San Francisco Caltrain 2 (330 Townsend)",
     "EndTerminal": 69,
-    "Bike#": 376,
+    "Bike": 376,
     "SubscriberType": "Customer",
     "ZipCode": 92701
   },
@@ -2114,7 +2114,7 @@
     "EndDate": "8/31/2014 19:40",
     "EndStation": "Beale at Market",
     "EndTerminal": 56,
-    "Bike#": 607,
+    "Bike": 607,
     "SubscriberType": "Customer",
     "ZipCode": 99567
   },
@@ -2127,7 +2127,7 @@
     "EndDate": "8/31/2014 17:37",
     "EndStation": "San Francisco Caltrain 2 (330 Townsend)",
     "EndTerminal": 69,
-    "Bike#": 209,
+    "Bike": 209,
     "SubscriberType": "Customer",
     "ZipCode": 92701
   },
@@ -2140,7 +2140,7 @@
     "EndDate": "8/31/2014 16:44",
     "EndStation": "San Francisco Caltrain 2 (330 Townsend)",
     "EndTerminal": 69,
-    "Bike#": 321,
+    "Bike": 321,
     "SubscriberType": "Subscriber",
     "ZipCode": 94043
   },
@@ -2153,7 +2153,7 @@
     "EndDate": "8/31/2014 16:32",
     "EndStation": "Post at Kearny",
     "EndTerminal": 47,
-    "Bike#": 391,
+    "Bike": 391,
     "SubscriberType": "Subscriber",
     "ZipCode": 94115
   },
@@ -2166,7 +2166,7 @@
     "EndDate": "8/31/2014 16:52",
     "EndStation": "Market at 4th",
     "EndTerminal": 76,
-    "Bike#": 625,
+    "Bike": 625,
     "SubscriberType": "Customer",
     "ZipCode": 44070
   },
@@ -2179,7 +2179,7 @@
     "EndDate": "8/31/2014 16:51",
     "EndStation": "Market at 4th",
     "EndTerminal": 76,
-    "Bike#": 260,
+    "Bike": 260,
     "SubscriberType": "Customer",
     "ZipCode": 44070
   },
@@ -2192,7 +2192,7 @@
     "EndDate": "8/31/2014 16:44",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 291,
+    "Bike": 291,
     "SubscriberType": "Customer",
     "ZipCode": 85233
   },
@@ -2205,7 +2205,7 @@
     "EndDate": "8/31/2014 16:44",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 418,
+    "Bike": 418,
     "SubscriberType": "Customer",
     "ZipCode": 85233
   },
@@ -2218,7 +2218,7 @@
     "EndDate": "8/31/2014 16:42",
     "EndStation": "Embarcadero at Vallejo",
     "EndTerminal": 48,
-    "Bike#": 383,
+    "Bike": 383,
     "SubscriberType": "Customer",
     "ZipCode": 92313
   },
@@ -2231,7 +2231,7 @@
     "EndDate": "8/31/2014 16:55",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 594,
+    "Bike": 594,
     "SubscriberType": "Customer",
     "ZipCode": 94122
   },
@@ -2244,7 +2244,7 @@
     "EndDate": "8/31/2014 16:21",
     "EndStation": "Civic Center BART (7th at Market)",
     "EndTerminal": 72,
-    "Bike#": 518,
+    "Bike": 518,
     "SubscriberType": "Subscriber",
     "ZipCode": 94103
   },
@@ -2257,7 +2257,7 @@
     "EndDate": "8/31/2014 16:42",
     "EndStation": "Embarcadero at Vallejo",
     "EndTerminal": 48,
-    "Bike#": 422,
+    "Bike": 422,
     "SubscriberType": "Customer",
     "ZipCode": 92313
   },
@@ -2270,7 +2270,7 @@
     "EndDate": "8/31/2014 16:24",
     "EndStation": "Temporary Transbay Terminal (Howard at Beale)",
     "EndTerminal": 55,
-    "Bike#": 348,
+    "Bike": 348,
     "SubscriberType": "Subscriber",
     "ZipCode": 94002
   },
@@ -2283,7 +2283,7 @@
     "EndDate": "8/31/2014 16:37",
     "EndStation": "Embarcadero at Vallejo",
     "EndTerminal": 48,
-    "Bike#": 109,
+    "Bike": 109,
     "SubscriberType": "Customer",
     "ZipCode": "nil"
   },
@@ -2296,7 +2296,7 @@
     "EndDate": "8/31/2014 16:36",
     "EndStation": "Embarcadero at Vallejo",
     "EndTerminal": 48,
-    "Bike#": 389,
+    "Bike": 389,
     "SubscriberType": "Customer",
     "ZipCode": "nil"
   },
@@ -2309,7 +2309,7 @@
     "EndDate": "9/1/2014 16:09",
     "EndStation": "Market at 10th",
     "EndTerminal": 67,
-    "Bike#": 572,
+    "Bike": 572,
     "SubscriberType": "Customer",
     "ZipCode": 95814
   },
@@ -2322,7 +2322,7 @@
     "EndDate": "8/31/2014 16:28",
     "EndStation": "Commercial at Montgomery",
     "EndTerminal": 45,
-    "Bike#": 574,
+    "Bike": 574,
     "SubscriberType": "Customer",
     "ZipCode": 95070
   },
@@ -2335,7 +2335,7 @@
     "EndDate": "8/31/2014 16:28",
     "EndStation": "Commercial at Montgomery",
     "EndTerminal": 45,
-    "Bike#": 270,
+    "Bike": 270,
     "SubscriberType": "Customer",
     "ZipCode": 60565
   },
@@ -2348,7 +2348,7 @@
     "EndDate": "8/31/2014 16:28",
     "EndStation": "Commercial at Montgomery",
     "EndTerminal": 45,
-    "Bike#": 392,
+    "Bike": 392,
     "SubscriberType": "Customer",
     "ZipCode": 60565
   },
@@ -2361,7 +2361,7 @@
     "EndDate": "8/31/2014 16:24",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 507,
+    "Bike": 507,
     "SubscriberType": "Customer",
     "ZipCode": 34
   },
@@ -2374,7 +2374,7 @@
     "EndDate": "8/31/2014 16:07",
     "EndStation": "Market at Sansome",
     "EndTerminal": 77,
-    "Bike#": 587,
+    "Bike": 587,
     "SubscriberType": "Customer",
     "ZipCode": 34
   },
@@ -2387,7 +2387,7 @@
     "EndDate": "8/31/2014 21:15",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 524,
+    "Bike": 524,
     "SubscriberType": "Customer",
     "ZipCode": 94404
   },
@@ -2400,7 +2400,7 @@
     "EndDate": "8/31/2014 16:17",
     "EndStation": "Japantown",
     "EndTerminal": 9,
-    "Bike#": 72,
+    "Bike": 72,
     "SubscriberType": "Customer",
     "ZipCode": 95112
   },
@@ -2413,7 +2413,7 @@
     "EndDate": "8/31/2014 16:07",
     "EndStation": "Powell at Post (Union Square)",
     "EndTerminal": 71,
-    "Bike#": 400,
+    "Bike": 400,
     "SubscriberType": "Subscriber",
     "ZipCode": 94133
   },
@@ -2426,7 +2426,7 @@
     "EndDate": "8/31/2014 16:18",
     "EndStation": "Japantown",
     "EndTerminal": 9,
-    "Bike#": 15,
+    "Bike": 15,
     "SubscriberType": "Customer",
     "ZipCode": 95112
   },
@@ -2439,7 +2439,7 @@
     "EndDate": "8/31/2014 16:08",
     "EndStation": "Market at Sansome",
     "EndTerminal": 77,
-    "Bike#": 507,
+    "Bike": 507,
     "SubscriberType": "Customer",
     "ZipCode": 2458
   },
@@ -2452,7 +2452,7 @@
     "EndDate": "8/31/2014 16:18",
     "EndStation": "Japantown",
     "EndTerminal": 9,
-    "Bike#": 245,
+    "Bike": 245,
     "SubscriberType": "Customer",
     "ZipCode": 95112
   },
@@ -2465,7 +2465,7 @@
     "EndDate": "8/31/2014 16:07",
     "EndStation": "San Francisco Caltrain (Townsend at 4th)",
     "EndTerminal": 70,
-    "Bike#": 267,
+    "Bike": 267,
     "SubscriberType": "Subscriber",
     "ZipCode": 95035
   },
@@ -2478,7 +2478,7 @@
     "EndDate": "8/31/2014 16:02",
     "EndStation": "Market at Sansome",
     "EndTerminal": 77,
-    "Bike#": 453,
+    "Bike": 453,
     "SubscriberType": "Customer",
     "ZipCode": 34
   },
@@ -2491,7 +2491,7 @@
     "EndDate": "8/31/2014 16:09",
     "EndStation": "Santa Clara at Almaden",
     "EndTerminal": 4,
-    "Bike#": 49,
+    "Bike": 49,
     "SubscriberType": "Customer",
     "ZipCode": 93944
   },
@@ -2504,7 +2504,7 @@
     "EndDate": "8/31/2014 21:06",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 444,
+    "Bike": 444,
     "SubscriberType": "Customer",
     "ZipCode": 94404
   },
@@ -2517,7 +2517,7 @@
     "EndDate": "8/31/2014 21:15",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 353,
+    "Bike": 353,
     "SubscriberType": "Customer",
     "ZipCode": 94404
   },
@@ -2530,7 +2530,7 @@
     "EndDate": "8/31/2014 16:26",
     "EndStation": "San Francisco City Hall",
     "EndTerminal": 58,
-    "Bike#": 278,
+    "Bike": 278,
     "SubscriberType": "Customer",
     "ZipCode": 5013
   },
@@ -2543,7 +2543,7 @@
     "EndDate": "8/31/2014 15:42",
     "EndStation": "Market at 10th",
     "EndTerminal": 67,
-    "Bike#": 575,
+    "Bike": 575,
     "SubscriberType": "Subscriber",
     "ZipCode": 94103
   },
@@ -2556,7 +2556,7 @@
     "EndDate": "8/31/2014 15:52",
     "EndStation": "Market at 4th",
     "EndTerminal": 76,
-    "Bike#": 534,
+    "Bike": 534,
     "SubscriberType": "Customer",
     "ZipCode": 98109
   },
@@ -2569,7 +2569,7 @@
     "EndDate": "8/31/2014 15:53",
     "EndStation": "Market at 4th",
     "EndTerminal": 76,
-    "Bike#": 518,
+    "Bike": 518,
     "SubscriberType": "Customer",
     "ZipCode": 98109
   },
@@ -2582,7 +2582,7 @@
     "EndDate": "8/31/2014 16:01",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 546,
+    "Bike": 546,
     "SubscriberType": "Customer",
     "ZipCode": 10003
   },
@@ -2595,7 +2595,7 @@
     "EndDate": "8/31/2014 16:01",
     "EndStation": "Embarcadero at Sansome",
     "EndTerminal": 60,
-    "Bike#": 270,
+    "Bike": 270,
     "SubscriberType": "Customer",
     "ZipCode": 10003
   }
